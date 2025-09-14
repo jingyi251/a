@@ -16,6 +16,59 @@
             "quickSearch": 0,
             "changeable": 0
         },
+
+
+{
+	"key":"文才王",
+	"name":"🌺文才┃弹幕",
+	"type":3,
+	"api":"csp_JpysGuard",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":{"danmu":true},
+    "timeout":10,
+    "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"
+},
+{
+	"key":"糯米二",
+	"name":"🍓糯米┃弹幕",
+	"type":3,
+	"api":"csp_NmysGuard",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":{"danmu":true},
+    "timeout":10,
+    "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"
+},
+{
+	"key":"浪酷弹幕版小",
+	"name":"👓浪酷┃弹幕",
+	"type":3,
+	"api":"csp_TianTianGuard",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":{"danmu":true,"site":2},
+    "timeout":10,
+    "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"},
+{
+	"key":"小苹果弹幕版牛",
+	"name":"🍎苹果┃弹幕",
+	"type":3,
+	"api":"csp_XpgGuard",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":{"danmu":true},
+    "timeout":10,
+    "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5"},
+
+
+
+
+	  
 {
             "key": "文采",
             "name": "💮文采┃秒播",
