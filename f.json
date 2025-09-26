@@ -123,7 +123,22 @@
                 "ua": ""
             }
         },	
-
+ {
+            "key": "仓鼠",
+            "name": "🌀仓鼠┃超清┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "api": "csp_AppQi",
+            "ext": {
+                "url": "",
+                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
+                "dataKey": "da61247f5b662597",
+                "dataIv": "da61247f5b662597",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
 
 
 
@@ -1207,6 +1222,7 @@
         }
     ]
 }
+
 
 
 
