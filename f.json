@@ -106,7 +106,23 @@
                 "ua": ""
             }
         },
-		
+	{
+            "key": "咖啡",
+            "name": "🌀咖啡┃超清┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "ext": {
+                "url": "",
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
+                "dataIv": "37kj83zs1q16jk6t",
+                "deviceId": "",
+                "version": "101",
+                "ua": ""
+            }
+        },	
 
 
 
@@ -1191,6 +1207,7 @@
         }
     ]
 }
+
 
 
 
