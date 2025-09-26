@@ -77,6 +77,28 @@
         },
 
 
+  {
+            "key": "五八",
+            "name": "摸🌀五八┃超清┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "ext": {
+                "url": "https://dy.58ys.vip",
+                "site": "",
+                "dataKey": "JEWibY1AgWF0V1xx",
+                "dataIv": "JEWibY1AgWF0V1xx",
+                "deviceId": "",
+                "version": "",
+                "ua": ""
+            }
+        },
+
+
+
+
+		
 		
 {
       "key": "🍊Boba影视🍊",
@@ -913,6 +935,7 @@
     ]
 
 }
+
 
 
 
