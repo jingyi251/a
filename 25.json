@@ -12,7 +12,18 @@
             "searchable": 0
         },
 
-
+{
+            "name": "嗷呜弹幕",
+            "key": "嗷呜弹幕",
+            "type": 3,
+            "api": "csp_GoConfigAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "http://aowu.catni.cn/spider/custom_spider.jar"
+        },
 		
                {
             "key": "config",
