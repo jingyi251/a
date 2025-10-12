@@ -28,6 +28,55 @@
         },
         
 
+{
+      "key": "Wexwencai",
+      "name": "🌺文才王┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexwencaiGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+    },
+    {
+      "key": "Wexxpgtv",
+      "name": "🌺苹果王┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexxpgtvGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+    },
+{
+      "key": "賤賤",
+      "name": "💥賤片王┃p2p💥",
+      "type": 3,
+      "api": "csp_WexJianpianGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+
+    },
+{
+      "key": "Wexhanxiaoquan",
+      "name": "💥韩剧王┃秒播💥",
+      "type": 3,
+      "api": "csp_WexhanxiaoquanGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+    },
+{
+      "key": "WexkuihuatvGuard",
+      "name": "💥葵花王┃影视💥",
+      "type": 3,
+      "api": "csp_WexkuihuatvGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+    },
+
+
+		
 
 
 {
@@ -37,16 +86,6 @@
             "api": "csp_YCyzGuard",
             "timeout": 15,
             "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "🍎苹果┃不卡┃纯净",
-            "type": 3,
-            "api": "csp_LiteAppleGuard",
             "searchable": 1,
             "quickSearch": 1,
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
@@ -63,19 +102,6 @@
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "changeable": 1
         },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播┃纯净",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
-            "changeable": 1
-        },
-
-
  {
             "key": "咖啡",
             "name": "🌀咖啡┃超清┃弹幕",
@@ -487,21 +513,10 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
-    },
-   {
-     "key":"苹果",
-     "name":"🍎苹果┃不卡",
-     "type":3,
-     "api":"csp_LiteAppleGuard",
-     "timeout":15,
-     "searchable":1,
-     "quickSearch":1,
-     "changeable":1,
-     "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
-   },
+    },		
    {
      "key":"糯米",
-     "name":"🍓糯米┃秒播",
+     "name":"🍓糯米饭┃秒播",
      "type":3,
      "api":"csp_NmyswvGuard",
      "timeout":15,
@@ -510,19 +525,8 @@
      "changeable":1,
      "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
    },
-{
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
-   },
 
+		
 
 
 
@@ -606,58 +610,6 @@
 
 
 
-{
-            "key": "config",
-            "name": "🐼┃配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "playerType": 2
-        },
-        {
-            "key": "csp_Duopan",
-            "name": "🖍︎┃蜡笔┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "https://feimo.fun",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "http://fmao.shop",
-                    "http://xiaocge.fun"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "Duopan2"
-            }
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "💌┃️至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://xiaomi666.fun",
-                    "https://xiaomiai.site",
-                    "https://mihdr.top",
-                    "https://www.mihdr.top",
-                    "http://www.miqk.cc",
-                    "https://www.zhizhenpan.fun"
-                ],
-                "url_key": "Netfixtv2",
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                }
-            }
-        },
         {
             "key": "潮流",
             "name": "🏜┃潮流┃APP",
@@ -875,6 +827,59 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
+        },
+		
+{
+            "key": "config",
+            "name": "🐼┃配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "playerType": 2
+        },
+        {
+            "key": "csp_Duopan",
+            "name": "🖍︎┃蜡笔┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "https://feimao666.fun",
+                    "http://feimao888.fun",
+                    "https://feimo.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocge.fun"
+                ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
+                "url_key": "Duopan2"
+            }
+        },
+        {
+            "key": "csp_Netfixtv",
+            "name": "💌┃️至臻┃影视",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://xiaomi666.fun",
+                    "https://xiaomiai.site",
+                    "https://mihdr.top",
+                    "https://www.mihdr.top",
+                    "http://www.miqk.cc",
+                    "https://www.zhizhenpan.fun"
+                ],
+                "url_key": "Netfixtv2",
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                }
+            }
         },
         {
             "key": "零度",
