@@ -29,22 +29,32 @@
         
 
 {
-      "key": "Wexwencai",
-      "name": "🌺文才王┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexwencaiGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+      "key": "文才",
+            "name": "🌺文才OK┃弹幕",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
     },
     {
-      "key": "Wexxpgtv",
-      "name": "🌺苹果王┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexxpgtvGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C91B7D_773_wex_20251010000651785newMediaImage.png;md5;71dc083d78a50699316596f2f98d0d91"
+      "key": "小苹果弹幕版",
+            "name": "🍎苹果OK┃弹幕",
+            "type": 3,
+            "api": "csp_XpgGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
     },
 {
       "key": "賤賤",
