@@ -19,7 +19,39 @@
             "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
         },
        
+{
+      "key": "文才",
+            "name": "🌺文才OK┃弹幕",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
+    },
+    {
+      "key": "小苹果弹幕版",
+            "name": "🍎苹果OK┃弹幕",
+            "type": 3,
+            "api": "csp_XpgGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
+    },
 
+
+
+
+		
 
  {
             "key": "原创",
@@ -28,16 +60,6 @@
             "api": "csp_YCyzGuard",
             "timeout": 15,
             "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;d05682253e19d1702763b4009002a872",
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "🍎苹果┃不卡┃纯净",
-            "type": 3,
-            "api": "csp_LiteAppleGuard",
             "searchable": 1,
             "quickSearch": 1,
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;d05682253e19d1702763b4009002a872",
@@ -54,17 +76,7 @@
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;d05682253e19d1702763b4009002a872",
             "changeable": 1
         },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播┃纯净",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;d05682253e19d1702763b4009002a872",
-            "changeable": 1
-        },
+       
 
 
   {
@@ -1089,6 +1101,7 @@
         }
     ]
 }
+
 
 
 
