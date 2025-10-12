@@ -160,55 +160,6 @@
 
 
 		
-{
-      "key": "🍊Boba影视🍊",
-      "name": "🍊Boba影视🍊",
-      "type": 0,
-      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "悬疑片",
-        "剧情片",
-        "4K",
-        "国产剧",
-        "欧美剧",
-        "日韩剧",
-        "港剧",
-        "台剧",
-        "泰国剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "大陆动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "动画电影",
-        "布袋戏",
-        "Netflix电影",
-        "Netflix电视剧",
-        "短剧",
-        "纪录片",
-        "体育",
-        "日韩无码",
-        "欧美精品",
-        "国产精品",
-        "中文字幕",
-        "人妻系列",
-        "强奸乱伦",
-        "自拍偷拍",
-        "重口味"
-      ]
-    },
 
 
 {
@@ -331,6 +282,55 @@
         {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/优酷.js","jar":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
         {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/腾云驾雾.js","jar":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
         {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/百忙无果.js","jar":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{
+      "key": "🍊Boba影视🍊",
+      "name": "🍊Boba影视🍊",
+      "type": 0,
+      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "悬疑片",
+        "剧情片",
+        "4K",
+        "国产剧",
+        "欧美剧",
+        "日韩剧",
+        "港剧",
+        "台剧",
+        "泰国剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "大陆动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画电影",
+        "布袋戏",
+        "Netflix电影",
+        "Netflix电视剧",
+        "短剧",
+        "纪录片",
+        "体育",
+        "日韩无码",
+        "欧美精品",
+        "国产精品",
+        "中文字幕",
+        "人妻系列",
+        "强奸乱伦",
+        "自拍偷拍",
+        "重口味"
+      ]
+    },
 
 
 
@@ -1089,4 +1089,5 @@
         }
     ]
 }
+
 
