@@ -924,12 +924,7 @@
             "type": 3,
             "api": "https://6296.kstore.vip/lingdu.py"
         },
-        {
-            "key": "csp_AppXY",
-            "name": "🎀️┃星牙┃短剧",
-            "type": 3,
-            "api": "csp_AppXY"
-        },
+       
         {
             "key": "河马短剧",
             "name": "🦛┃河马┃短剧",
