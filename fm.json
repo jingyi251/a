@@ -610,12 +610,29 @@
             "type": 3,
             "api": "https://6296.kstore.vip/lingdu.py"
         },
-        {
-            "key": "csp_AppXY",
-            "name": "🎀️┃星牙┃短剧",
+       {
+            "key": "锦鲤短剧",
+            "name": "🐟锦鲤ok┃短剧",
             "type": 3,
-            "api": "csp_AppXY"
-        },
+            "api": "csp_JinliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
+    },
+        {
+            "key": "星芽短剧",
+            "name": "💖星芽ok┃短剧",
+            "type": 3,
+            "api": "csp_AppXYGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
+  },
+
         {
             "key": "河马短剧",
             "name": "🦛┃河马┃短剧",
@@ -1101,6 +1118,7 @@
         }
     ]
 }
+
 
 
 
