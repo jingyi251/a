@@ -19,58 +19,55 @@
             "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
         },
        
+
+
 {
-      "key": "文才",
-            "name": "🌺文才OK┃弹幕",
+      "key": "低端",
+      "name": "饭低端┃外剧",
+      "type": 3,
+      "api": "csp_DdrkGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d"
+    },
+   {
+     "key":"苹果",
+     "name":"🍎苹果┃不卡",
+     "type":3,
+     "api":"csp_LiteAppleGuard",
+     "timeout":15,
+     "searchable":1,
+     "quickSearch":1,
+     "changeable":1,
+     "jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d"
+   },
+   {
+     "key":"糯米",
+     "name":"🍓糯米┃秒播",
+     "type":3,
+     "api":"csp_NmyswvGuard",
+     "timeout":15,
+     "searchable":1,
+     "quickSearch":1,
+     "changeable":1,
+     "jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d"
+   },
+{
+            "key": "文采",
+            "name": "💮文采┃秒播",
             "type": 3,
             "api": "csp_JpysGuard",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
-    },
-    {
-      "key": "小苹果弹幕版",
-            "name": "🍎苹果OK┃弹幕",
-            "type": 3,
-            "api": "csp_XpgGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
-    },
-{
-            "key": "锦鲤短剧",
-            "name": "🐟锦鲤┃短剧",
-            "type": 3,
-            "api": "csp_JinliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
-    },
-        {
-            "key": "星芽短剧",
-            "name": "💖星芽┃短剧",
-            "type": 3,
-            "api": "csp_AppXYGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/OvPaI3/oo.png;md5;5d46478771c6f68bea88837b5cc3251e"
-  },
-
-
+            "changeable": 1,
+            "jar":"https://coss.yupoo.com/upchat/2025-10-15/1760514839339.jpg;md5;88cb103cc0693dbc8e30539714362e2d"
+   },
+		
 
 
 		
@@ -198,56 +195,61 @@
 		
 
 
+{
+      "key": "文才",
+            "name": "🌺文才OK┃弹幕",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+    },
+    {
+      "key": "小苹果弹幕版",
+            "name": "🍎苹果OK┃弹幕",
+            "type": 3,
+            "api": "csp_XpgGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+    },
+{
+            "key": "锦鲤短剧",
+            "name": "🐟锦鲤┃短剧",
+            "type": 3,
+            "api": "csp_JinliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+    },
+        {
+            "key": "星芽短剧",
+            "name": "💖星芽┃短剧",
+            "type": 3,
+            "api": "csp_AppXYGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+  },
 
 		
 
 
-{
-      "key": "低端",
-      "name": "饭低端┃外剧",
-      "type": 3,
-      "api": "csp_DdrkGuard",
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
-    },
-   {
-     "key":"苹果",
-     "name":"🍎苹果┃不卡",
-     "type":3,
-     "api":"csp_LiteAppleGuard",
-     "timeout":15,
-     "searchable":1,
-     "quickSearch":1,
-     "changeable":1,
-     "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
-   },
-   {
-     "key":"糯米",
-     "name":"🍓糯米┃秒播",
-     "type":3,
-     "api":"csp_NmyswvGuard",
-     "timeout":15,
-     "searchable":1,
-     "quickSearch":1,
-     "changeable":1,
-     "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
-   },
-{
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
-   },
+
 
 
 
@@ -1140,6 +1142,7 @@
         }
     ]
 }
+
 
 
 
