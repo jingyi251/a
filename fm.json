@@ -196,32 +196,28 @@
 
 
 {
-      "key": "文才",
-            "name": "🌺文才OK┃弹幕",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+     "key": "文才",
+      "name": "🌺文才ok┃在线",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "filterable": 1,
+       "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
     },
     {
-      "key": "小苹果弹幕版",
-            "name": "🍎苹果OK┃弹幕",
-            "type": 3,
-            "api": "csp_XpgGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+        "key": "小苹果",
+        "name": "🍎苹果┃直连",
+         "type": 3,
+         "api": "csp_XpgGuard",
+         "searchable": 1,
+         "quickSearch": 1,
+         "changeable": 1,
+         "filterable": 1,
+         "timeout": 10,
+         "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
     },
 {
             "key": "锦鲤短剧",
@@ -232,7 +228,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
     },
         {
             "key": "星芽短剧",
@@ -243,7 +239,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a"
+      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
   },
 
 		
@@ -1158,6 +1154,7 @@
         }
     ]
 }
+
 
 
 
