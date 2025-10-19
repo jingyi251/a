@@ -1237,6 +1237,23 @@
     }
     ],
     "lives": [
+
+		 {
+        "name": "自建直播",
+        "url": "https://live.tv.darwinchow.com/sub/02RRDBAczjWiqc0DnMDIX6IgYazCMS",
+        "header": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://sub.ottiptv.cc/"
+        }
+    },
+
+    {
+        "name": "冰茶订阅",
+        "url": "https://fy.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=mianfeidehaimaiqian",
+        "header": {
+            "User-Agent": "bingcha/1.1"
+        }
+    },	
     {
        "name": "七星",
        "type": 0,
