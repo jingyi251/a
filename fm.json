@@ -172,7 +172,7 @@
             "api": "http://我不是.摸鱼儿.com/api/yuyutx.php",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;d05682253e19d1702763b4009002a872",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "changeable": 0
         },
          {
@@ -1188,6 +1188,7 @@
         }
     ]
 }
+
 
 
 
