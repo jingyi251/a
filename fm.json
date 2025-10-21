@@ -99,25 +99,43 @@
 
 
   {
-            "key": "五八",
-            "name": "摸🌀五八┃超清┃弹幕",
+            "key": "Bili",
+            "name": "🅱哔哔合集┃4K弹幕",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "ext": {
-                "url": "https://dy.58ys.vip",
-                "site": "",
-                "dataKey": "JEWibY1AgWF0V1xx",
-                "dataIv": "JEWibY1AgWF0V1xx",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
             }
         },
+        {
+            "key": "Biliych",
+            "name": "🅱演唱会集┃4K弹幕",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+            "ext": {
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
+            }
+        },		
+
  {
             "key": "追番",
-            "name": "🌀追番┃超清┃弹幕",
+            "name": "摸🌀追番┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -1188,6 +1206,7 @@
         }
     ]
 }
+
 
 
 
