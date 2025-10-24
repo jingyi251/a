@@ -21,21 +21,9 @@
        
 
 
-{
-      "key": "低端",
-      "name": "饭低端┃外剧",
-      "type": 3,
-      "api": "csp_DdrkGuard",
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"https://oss4liview.moji.com/thd_file/2025/10/22/9a7c45e81b717d4c6e7f9fc96d9ad6f5.jpg;md5;1910aa90425fdf206d3a39697e9ffe1b"
-    },
    {
      "key":"苹果",
-     "name":"🍎苹果┃不卡",
+     "name":"饭🍎苹果┃不卡",
      "type":3,
      "api":"csp_LiteAppleGuard",
      "timeout":15,
@@ -46,7 +34,7 @@
    },
    {
      "key":"糯米",
-     "name":"🍓糯米┃秒播",
+     "name":"饭🍓糯米┃秒播",
      "type":3,
      "api":"csp_NmyswvGuard",
      "timeout":15,
@@ -57,7 +45,7 @@
    },
 {
             "key": "文采",
-            "name": "💮文采┃秒播",
+            "name": "饭💮文采┃秒播",
             "type": 3,
             "api": "csp_JpysGuard",
             "timeout": 15,
@@ -95,7 +83,42 @@
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "changeable": 1
         },
-       
+    {
+            "key": "Bili",
+            "name": "🅱哔哔合集┃4K弹幕",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+            "ext": {
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
+            }
+        },
+        {
+            "key": "Biliych",
+            "name": "🅱演唱会集┃4K弹幕",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+            "ext": {
+                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
+            }
+        },		
+
+   
 
 
 
@@ -193,12 +216,39 @@
                 "ua": ""
             }
         },
-		
+
+
+
 
 
 {
+            "key": "韩圈",
+            "name": "🦄韩圈┃App",
+            "type": 3,
+            "api": "csp_HanXiaoQuanGuard",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10,
+           "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+        },		
+ {
+            "key": "csp_Ddys",
+            "name": "ok🍄低端┃在线",
+            "type": 3,
+            "api": "csp_DdysGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 30,
+           "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+        },
+{
      "key": "文才",
-      "name": "🌺文才ok┃在线",
+      "name": "ok🌺文才┃在线",
       "type": 3,
       "api": "csp_JpysGuard",
       "searchable": 1,
@@ -210,7 +260,7 @@
     },
     {
         "key": "小苹果",
-        "name": "🍎苹果┃直连",
+        "name": "ok🍎苹果┃直连",
          "type": 3,
          "api": "csp_XpgGuard",
          "searchable": 1,
@@ -222,7 +272,7 @@
     },
 {
             "key": "锦鲤短剧",
-            "name": "🐟锦鲤┃短剧",
+            "name": "ok🐟锦鲤┃短剧",
             "type": 3,
             "api": "csp_JinliGuard",
             "searchable": 1,
@@ -233,7 +283,7 @@
     },
         {
             "key": "星芽短剧",
-            "name": "💖星芽┃短剧",
+            "name": "ok💖星芽┃短剧",
             "type": 3,
             "api": "csp_AppXYGuard",
             "searchable": 1,
