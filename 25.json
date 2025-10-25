@@ -1,8 +1,7 @@
-
 //  当前接口：http://肥猫.com
 // "logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.gif",
 {
-    "spider": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+     "spider": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
     "wallpaper": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/zcb.gif",
 	"logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.gif",
     //"logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.mp4",
@@ -14,69 +13,65 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-        {
-            "name": "嗷呜弹幕",
-            "key": "嗷呜弹幕",
-            "type": 3,
-            "api": "csp_GoConfigAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "http://aowu.catni.cn/spider/custom_spider.jar"
-        },
+       
         
-
 {
-      "key": "文才",
-            "name": "🌺文才OK┃弹幕",
+            "key": "csp_Ddys",
+            "name": "ok🍄低端┃在线",
             "type": 3,
-            "api": "csp_JpysGuard",
+            "api": "csp_DdysGuard",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 0,
             "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
+            "timeout": 30,
+           "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png"
+        },
+{
+     "key": "文才",
+      "name": "ok🌺文才┃在线",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "searchable": 1,
+       "quickSearch": 1,
+       "changeable": 1,
+       "filterable": 1,
+       "timeout": 10,
+      "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png"
     },
     {
-      "key": "小苹果弹幕版",
-            "name": "🍎苹果OK┃弹幕",
-            "type": 3,
-            "api": "csp_XpgGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
+        "key": "小苹果",
+        "name": "ok🍎苹果┃直连",
+         "type": 3,
+         "api": "csp_XpgGuard",
+         "searchable": 1,
+         "quickSearch": 1,
+         "changeable": 1,
+         "filterable": 1,
+         "timeout": 10,
+         "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png"
     },
 {
             "key": "锦鲤短剧",
-            "name": "🐟锦鲤ok┃短剧",
+            "name": "ok🐟锦鲤┃短剧",
             "type": 3,
             "api": "csp_JinliGuard",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
+      "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png"
     },
         {
             "key": "星芽短剧",
-            "name": "💖星芽ok┃短剧",
+            "name": "ok💖星芽┃短剧",
             "type": 3,
             "api": "csp_AppXYGuard",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559"
+      "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png"
   },
 
 
@@ -90,7 +85,7 @@
       "api": "csp_WexJianpianGuard",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5A073A5_773_wex_20251016233950991newMediaImage.png;md5;e68cce31d6bc4c40a9d0d693a4b3e84c"
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/330FC0F_773_wex_20251024172028260newMediaImage.png;md5;e8d96bd7bc4e580289c3b8d97d05a52a"
 
     },
 {
@@ -100,7 +95,7 @@
       "api": "csp_WexhanxiaoquanGuard",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5A073A5_773_wex_20251016233950991newMediaImage.png;md5;e68cce31d6bc4c40a9d0d693a4b3e84c"
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/330FC0F_773_wex_20251024172028260newMediaImage.png;md5;e8d96bd7bc4e580289c3b8d97d05a52a"
     },
 {
       "key": "WexkuihuatvGuard",
@@ -109,7 +104,7 @@
       "api": "csp_WexkuihuatvGuard",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/5A073A5_773_wex_20251016233950991newMediaImage.png;md5;e68cce31d6bc4c40a9d0d693a4b3e84c"
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/330FC0F_773_wex_20251024172028260newMediaImage.png;md5;e8d96bd7bc4e580289c3b8d97d05a52a"
     },
 
 
@@ -290,24 +285,7 @@
                 "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
             }
         },
-        {
-            "key": "五八",
-            "name": "🌀五八┃超清┃弹幕",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
-            "ext": {
-                "url": "https://dy.58ys.vip",
-                "site": "",
-                "dataKey": "JEWibY1AgWF0V1xx",
-                "dataIv": "JEWibY1AgWF0V1xx",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
-        {
+         {
             "key": "狂人",
             "name": "🌀狂人┃超清┃弹幕",
             "type": 3,
@@ -540,29 +518,39 @@
 
 
 {
-      "key": "低端",
-      "name": "饭低端┃外剧",
-      "type": 3,
-      "api": "csp_DdrkGuard",
-      "timeout": 15,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
-    },		
+     "key":"苹果",
+     "name":"饭🍎苹果┃不卡",
+     "type":3,
+     "api":"csp_LiteAppleGuard",
+     "timeout":15,
+     "searchable":1,
+     "quickSearch":1,
+     "changeable":1,
+     "jar":"https://oss4liview.moji.com/thd_file/2025/10/22/9a7c45e81b717d4c6e7f9fc96d9ad6f5.jpg;md5;1910aa90425fdf206d3a39697e9ffe1b"
+   },
    {
      "key":"糯米",
-     "name":"🍓糯米饭┃秒播",
+     "name":"饭🍓糯米┃秒播",
      "type":3,
      "api":"csp_NmyswvGuard",
      "timeout":15,
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://coss.yupoo.com/upchat/2025-10-02/1759342598127.jpg;md5;f6dd09061793aa1f499be0ffebaf5f67"
+     "jar":"https://oss4liview.moji.com/thd_file/2025/10/22/9a7c45e81b717d4c6e7f9fc96d9ad6f5.jpg;md5;1910aa90425fdf206d3a39697e9ffe1b"
    },
-
+{
+            "key": "文采",
+            "name": "饭💮文采┃秒播",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://oss4liview.moji.com/thd_file/2025/10/22/9a7c45e81b717d4c6e7f9fc96d9ad6f5.jpg;md5;1910aa90425fdf206d3a39697e9ffe1b"
+   },
 		
 
 
@@ -1246,21 +1234,27 @@
             "Referer": "https://sub.ottiptv.cc/"
         }
     },
-
-    {
+     {
+            "name": "冰茶",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+ {
         "name": "冰茶订阅",
         "url": "https://fy.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=mianfeidehaimaiqian",
         "header": {
             "User-Agent": "bingcha/1.1"
         }
-    },	
-    {
-       "name": "七星",
+    },
+       {
+        "name": "七星",
        "type": 0,
        "url": "https://gitlab.com/tvkj/loong/-/raw/main/loog.txt",
        "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
-     },	
+     },
         {
             "name": "live",
             "type": 0,
@@ -1269,6 +1263,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
+
     ],
     "rules": [
         {
