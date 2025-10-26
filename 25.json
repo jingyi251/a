@@ -1163,6 +1163,41 @@
             "type": 1,
             "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
         },
+		 {
+            "name": "VIP视频去广告解析",
+            "type": 1,
+            "url": "https://pan.gssource.com/video/vip?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        },
         {
             "name": "肥猫最可爱",
             "type": 1,
