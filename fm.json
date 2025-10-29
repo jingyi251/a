@@ -237,7 +237,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 30,
-           "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+           "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
         },
 {
      "key": "文才",
@@ -249,7 +249,7 @@
        "changeable": 1,
        "filterable": 1,
        "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+      "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
     },
     {
         "key": "小苹果",
@@ -261,7 +261,7 @@
          "changeable": 1,
          "filterable": 1,
          "timeout": 10,
-         "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+         "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
     },
 {
             "key": "锦鲤短剧",
@@ -272,7 +272,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+      "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
     },
         {
             "key": "星芽短剧",
@@ -283,7 +283,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png;md5;0c939673f147527aaa73f3baf94439a7"
+      "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
   },
 
 		
@@ -1166,4 +1166,5 @@
         }
     ]
 }
+
 
