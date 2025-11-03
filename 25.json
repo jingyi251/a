@@ -13,7 +13,58 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+     {
+            "key": "努努影院",
+            "name": "努努影院",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=努努影院",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+      
+        {
+            "key": "哇哇",
+            "name": "哇哇",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=哇哇",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
        
+        {
+            "key": "国外剧",
+            "name": "国外剧",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=国外剧",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+       
+        {
+            "key": "小苹果影视",
+            "name": "小苹果影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=小苹果影视",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+  
   {
             "key": "cam4",
             "name": "cam4",
@@ -80,67 +131,7 @@
             "api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
             "ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/爱奇艺.js"
         },
-               {
-			"key": "菜狗[官]",
-			"name": "菜狗[官]",
-			"type": 3,
-			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
-			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/菜狗[官].js"
-		},
-		{
-			"key": "奇珍异兽[官]",
-			"name": "奇珍异兽[官]",
-			"type": 3,
-			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
-			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/奇珍异兽[官].js"
-		},
-			{
-			"key": "优酷[官]",
-			"name": "优酷[官]",
-			"type": 3,
-			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
-			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/优酷[官].js"
-		},
-		{
-			"key": "腾云驾雾[官]",
-			"name": "腾云驾雾[官]",
-			"type": 3,
-			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
-			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/腾云驾雾[官].js"
-		},
-			{
-			"key": "百忙无果[官]",
-			"name": "百忙无果[官]",
-			"type": 3,
-			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
-			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/百忙无果[官].js"
-		},
- 
+             
 {
             "key": "csp_Ddys",
             "name": "ok🍄低端┃在线",
