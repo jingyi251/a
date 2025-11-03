@@ -27,7 +27,87 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
         
-          
+       {
+            "key": "松视开通2",
+            "name": "🈲🔞松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+
+         {
+            "key": "🈲🔞ss直播",
+            "name": "🈲🔞ss直播.js",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/ss直播.js",
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+	{
+			"key": "菜狗[官]",
+			"name": "菜狗[官]",
+			"type": 3,
+			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/菜狗[官].js",
+                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+		},
+		{
+			"key": "奇珍异兽[官]",
+			"name": "奇珍异兽[官]",
+			"type": 3,
+			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/奇珍异兽[官].js",
+                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+		},
+			{
+			"key": "优酷[官]",
+			"name": "优酷[官]",
+			"type": 3,
+			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/优酷[官].js",
+                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+		},
+		{
+			"key": "腾云驾雾[官]",
+			"name": "腾云驾雾[官]",
+			"type": 3,
+			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/腾云驾雾[官].js",
+                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+		},
+			{
+			"key": "百忙无果[官]",
+			"name": "百忙无果[官]",
+			"type": 3,
+			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/百忙无果[官].js",
+                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+		},    
         {
             "key": "云云",
             "name": "云云",
