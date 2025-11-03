@@ -106,31 +106,7 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
        
-        {
-            "key": "新荐片",
-            "name": "新荐片",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=新荐片",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
-      
-        {
-            "key": "柯南影视",
-            "name": "柯南影视",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=柯南影视",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
+        
         {
             "key": "欣欣影视",
             "name": "欣欣影视",
@@ -156,19 +132,6 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
       
-        {
-            "key": "爱瓜影视",
-            "name": "爱瓜影视",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=爱瓜影视",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
-       
         {
             "key": "电影猎手",
             "name": "电影猎手",
