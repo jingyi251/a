@@ -132,43 +132,7 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
       
-        {
-            "key": "电影猎手",
-            "name": "电影猎手",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=电影猎手",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
-       
-        {
-            "key": "芒果TV",
-            "name": "芒果TV",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=芒果TV",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
-        {
-            "key": "花都影院",
-            "name": "花都影院",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=花都影院",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
+      
         {
             "key": "苹果视频",
             "name": "苹果视频",
