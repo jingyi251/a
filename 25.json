@@ -14,7 +14,223 @@
             "searchable": 0
         },
        
+  {
+            "key": "cam4",
+            "name": "cam4",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=cam4",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
         
+          
+        {
+            "key": "云云",
+            "name": "云云",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=云云",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+      
+        {
+            "key": "优酷视频",
+            "name": "优酷视频",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=优酷视频",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+     
+        {
+            "key": "努努影院",
+            "name": "努努影院",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=努努影院",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+      
+        {
+            "key": "哇哇",
+            "name": "哇哇",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=哇哇",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+       
+        {
+            "key": "国外剧",
+            "name": "国外剧",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=国外剧",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+       
+        {
+            "key": "小苹果影视",
+            "name": "小苹果影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=小苹果影视",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+       
+        {
+            "key": "新荐片",
+            "name": "新荐片",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=新荐片",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+      
+        {
+            "key": "柯南影视",
+            "name": "柯南影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=柯南影视",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        {
+            "key": "欣欣影视",
+            "name": "欣欣影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=欣欣影视",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        {
+            "key": "永乐视频",
+            "name": "永乐视频",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=永乐视频",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+      
+        {
+            "key": "爱瓜影视",
+            "name": "爱瓜影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=爱瓜影视",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+       
+        {
+            "key": "电影猎手",
+            "name": "电影猎手",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=电影猎手",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+       
+        {
+            "key": "芒果TV",
+            "name": "芒果TV",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=芒果TV",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        {
+            "key": "花都影院",
+            "name": "花都影院",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=花都影院",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        {
+            "key": "苹果视频",
+            "name": "苹果视频",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=苹果视频",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        {
+            "key": "茶杯狐影视",
+            "name": "茶杯狐影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=茶杯狐影视",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+              
 {
             "key": "csp_Ddys",
             "name": "ok🍄低端┃在线",
