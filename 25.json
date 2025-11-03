@@ -48,66 +48,109 @@
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/ss直播.js",
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
-	{
+	   {
+            "key": "腾讯视频",
+            "name": "腾讯｜视频",
+            "type": 3,
+            "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+            "api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
+            "ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/腾讯视频.js"
+        },
+        {
+            "key": "优酷视频",
+            "name": "优酷｜视频",
+            "type": 3,
+            "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+            "api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
+            "ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/优酷视频.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "芒果｜视频",
+            "type": 3, 
+            "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+            "api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
+            "ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/芒果视频.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇异｜视频",
+            "type": 3,
+            "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+            "api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
+            "ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/爱奇艺.js"
+        },
+               {
 			"key": "菜狗[官]",
 			"name": "菜狗[官]",
 			"type": 3,
-			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/菜狗[官].js",
-                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/菜狗[官].js"
 		},
 		{
 			"key": "奇珍异兽[官]",
 			"name": "奇珍异兽[官]",
 			"type": 3,
-			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/奇珍异兽[官].js",
-                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/奇珍异兽[官].js"
 		},
 			{
 			"key": "优酷[官]",
 			"name": "优酷[官]",
 			"type": 3,
-			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/优酷[官].js",
-                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/优酷[官].js"
 		},
 		{
 			"key": "腾云驾雾[官]",
 			"name": "腾云驾雾[官]",
 			"type": 3,
-			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/腾云驾雾[官].js",
-                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/腾云驾雾[官].js"
 		},
 			{
 			"key": "百忙无果[官]",
 			"name": "百忙无果[官]",
 			"type": 3,
-			"api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/drpy2.min.js",
+			"api": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/百忙无果[官].js",
-                       "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-		},    
+                        "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar",
+			"ext": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/百忙无果[官].js"
+		},
+  {
+    "key":"drpy_js_菜狗",
+    "name":"官源┃搜狗[js]",
+    "type":3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/yt.jar,
+    "api":"https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/lib/drpy2.min.js",
+    "ext":"https://edgeone.gh-proxy.com/https://github.com/jingyi251/a/blob/main/lz/js/菜狗.js"
+    },
         {
             "key": "云云",
             "name": "云云",
