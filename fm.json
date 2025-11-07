@@ -912,18 +912,7 @@
             "type": 3,
             "url": "Web"
         },
-		{
-			"name":"-淘片-",
-			"type":0,
-			"url":"https://jx.yparse.com/index.php?url=",
-			"ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-		},
-       
-        {
-            "name": "qiyi[官源]",
-            "type": 1,
-            "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
-        },
+		
         {
             "name": "爱分享",
             "type": 1,
@@ -1177,6 +1166,7 @@
         }
     ]
 }
+
 
 
 
