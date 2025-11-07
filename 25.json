@@ -188,8 +188,27 @@
 
 
 		
-
-
+ {
+            "key": "苹果",
+            "name": "🍎苹果摸┃不卡┃纯净",
+            "type": 3,
+            "api": "csp_LiteAppleGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+            "changeable": 1
+        },
+ {
+            "key": "文采",
+            "name": "💮文采┃秒播┃纯净",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+            "changeable": 1
+        },
 {
             "key": "原创",
             "name": "☀原创┃不卡┃纯净",
@@ -213,9 +232,9 @@
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "changeable": 1
         },
- {
+  {
             "key": "咖啡",
-            "name": "🌀咖啡┃超清┃弹幕",
+            "name": "☕️咖啡┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -249,11 +268,11 @@
         },
         {
             "key": "蓝鹰",
-            "name": "🌀蓝鹰┃超清┃弹幕",
+            "name": "🦅蓝鹰┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "api": "csp_AppQi",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "ext": {
                 "url": "",
                 "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
@@ -265,7 +284,7 @@
         },
         {
             "key": "仓鼠",
-            "name": "🌀仓鼠┃超清┃弹幕",
+            "name": "🐹仓鼠┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
@@ -281,7 +300,7 @@
         },
         {
             "key": "热剧",
-            "name": "🌀热剧┃超清┃弹幕",
+            "name": "🍋热剧┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -296,26 +315,23 @@
                 "ua": ""
             }
         },
-        {
+{
             "key": "小猪",
-            "name": "🌀小猪┃超清┃弹幕",
+            "name": "🐖小猪┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
             "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "ext": {
-                "url": "",
                 "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
                 "dataKey": "seb5tq9mykp2w9ry",
                 "dataIv": "seb5tq9mykp2w9ry",
-                "deviceId": "",
-                "version": "",
                 "ua": "okhttp/3.10.0"
             }
         },
-        {
+       {
             "key": "紫金",
-            "name": "🌀紫金┃超清┃弹幕",
+            "name": "🫰紫金┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -347,9 +363,9 @@
                 "ua": ""
             }
         },
-        {
+         {
             "key": "星星",
-            "name": "🌀星星┃超清┃弹幕",
+            "name": "⭐️星星┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -381,9 +397,9 @@
                 "ua": ""
             }
         },
-        {
+       {
             "key": "驿站",
-            "name": "🌀驿站┃超清┃弹幕",
+            "name": "🕶️驿站┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -447,9 +463,9 @@
                 "version": "120"
             }
         },
-        {
+               {
             "key": "旗星",
-            "name": "🌀旗星┃超清┃弹幕",
+            "name": "🍡旗星┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -465,7 +481,7 @@
         },
         {
             "key": "丫丫",
-            "name": "🌀丫丫┃超清┃弹幕",
+            "name": "🍿丫丫┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -480,7 +496,7 @@
         },
         {
             "key": "萝卜",
-            "name": "🌀萝卜┃超清┃弹幕",
+            "name": "🥕萝卜┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -515,7 +531,6 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
             }
@@ -532,12 +547,10 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
             }
-        },		
-
+        },
 
 
 		
