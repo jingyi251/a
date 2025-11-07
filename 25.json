@@ -1,7 +1,7 @@
 //  当前接口：http://肥猫.com
 // "logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.gif",
 {
-     "spider": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
+     "spider": "https://img2.gelonghui.com/library/cc5ae-cad9c019-a704-4ae0-b1ab-d71b2f90eff9.png;md5;cc5ae3a5f652c14398978c1e3c73cba0",
     "wallpaper": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/zcb.gif",
 	"logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.gif",
     //"logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.mp4",
@@ -52,18 +52,7 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
        
-        {
-            "key": "小苹果影视",
-            "name": "小苹果影视",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=小苹果影视",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
+        
   
   {
             "key": "cam4",
@@ -142,7 +131,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 30,
-           "jar": "https://pan.qingyuji.cn/f/q6rwsD/o.png"
+           "jar": "https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9"
         },
 {
      "key": "文才",
@@ -154,7 +143,7 @@
        "changeable": 1,
        "filterable": 1,
        "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
+      "jar": "https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9"
     },
     {
         "key": "小苹果",
@@ -166,7 +155,7 @@
          "changeable": 1,
          "filterable": 1,
          "timeout": 10,
-         "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
+         "jar": "https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9"
     },
 {
             "key": "锦鲤短剧",
@@ -177,7 +166,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
+      "jar": "https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9"
     },
         {
             "key": "星芽短剧",
@@ -188,8 +177,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://pan.qingyuji.cn/f/X2GahB/kk.png;md5;d2a93f848870cc173777756886ba4a52"
+      "jar": "https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9"
   },
+
+
 
 
 
@@ -202,7 +193,7 @@
       "api": "csp_WexJianpianGuard",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3D9B941_773_wex_20251030154004765newMediaImage.png;md5;17951645b1a4d8f0ca41309caccdd6f3"
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1CEC85F_773_wex_20251107003047846newMediaImage.png;md5;168f9674f8980510773eedcdc58d8851"
 
     },
 {
@@ -212,7 +203,7 @@
       "api": "csp_WexhanxiaoquanGuard",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3D9B941_773_wex_20251030154004765newMediaImage.png;md5;17951645b1a4d8f0ca41309caccdd6f3"
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1CEC85F_773_wex_20251107003047846newMediaImage.png;md5;168f9674f8980510773eedcdc58d8851"
     },
 {
       "key": "WexkuihuatvGuard",
@@ -221,7 +212,7 @@
       "api": "csp_WexkuihuatvGuard",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3D9B941_773_wex_20251030154004765newMediaImage.png;md5;17951645b1a4d8f0ca41309caccdd6f3"
+      "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/1CEC85F_773_wex_20251107003047846newMediaImage.png;md5;168f9674f8980510773eedcdc58d8851"
     },
 
 
@@ -634,40 +625,6 @@
 
 
 
-{
-     "key":"苹果",
-     "name":"饭🍎苹果┃不卡",
-     "type":3,
-     "api":"csp_LiteAppleGuard",
-     "timeout":15,
-     "searchable":1,
-     "quickSearch":1,
-     "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2025/10/27/2265e06f34db117bc6df05047dd4aa91.jpg;md5;1acb683fd1fb4f2c0492747745f6229a"
-   },
-   {
-     "key":"糯米",
-     "name":"饭🍓糯米┃秒播",
-     "type":3,
-     "api":"csp_NmyswvGuard",
-     "timeout":15,
-     "searchable":1,
-     "quickSearch":1,
-     "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2025/10/27/2265e06f34db117bc6df05047dd4aa91.jpg;md5;1acb683fd1fb4f2c0492747745f6229a"
-   },
-{
-            "key": "文采",
-            "name": "饭💮文采┃秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://oss4liview.moji.com/thd_file/2025/10/27/2265e06f34db117bc6df05047dd4aa91.jpg;md5;1acb683fd1fb4f2c0492747745f6229a"
-   },
 		
 
 
