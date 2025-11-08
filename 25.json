@@ -13,7 +13,27 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+		 {
+            "key": "csp_LiteApple",
+            "name": "🍎┃苹果┃影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		{
+            "key": "云云",
+            "name": "☁️┃云云┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
+        },
      {
+
+
+
+		 
             "key": "努努影院",
             "name": "努努影院",
             "type": 4,
@@ -791,13 +811,7 @@
             "api": "csp_AppGet",
             "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120"
         },
-        {
-            "key": "云云",
-            "name": "☁️┃云云┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-        },
+        
         {
             "key": "冷心",
             "name": "🧊┃冷心┃APP",
@@ -880,15 +894,7 @@
             "api": "csp_Gz360",
             "playerType": 2
         },
-        {
-            "key": "csp_LiteApple",
-            "name": "🍎┃苹果┃影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
         {
             "key": "厂长",
             "name": "🏭┃厂长┃影视",
@@ -964,12 +970,7 @@
                 }
             }
         },
-        {
-            "key": "零度",
-            "name": "🥶┃零度┃影视",
-            "type": 3,
-            "api": "https://6296.kstore.vip/lingdu.py"
-        },
+       
        
         {
             "key": "河马短剧",
@@ -1013,6 +1014,17 @@
                 "type": "rect",
                 "ratio": 1.333
             }
+        },
+		  {
+            "key": "喜马拉雅",
+            "name": "🎮┃喜马┃听书",
+            "type": 3,
+            "api": "http://hello.xn--z7x900a.com/喜马拉雅.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "ext": ""
         },
         {
             "key": "csp_Dm84",
