@@ -128,13 +128,13 @@
 
 
 
-{
+ {
             "key": "咖啡",
-            "name": "摸🌀咖啡┃超清┃弹幕",
+            "name": "☕️咖啡┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "ext": {
                 "url": "",
                 "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
@@ -145,12 +145,12 @@
                 "ua": ""
             }
         },
- {
+{
             "key": "仓鼠",
-            "name": "🌀仓鼠┃超清┃弹幕",
+            "name": "🐹仓鼠┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "api": "csp_AppQi",
             "ext": {
                 "url": "",
@@ -161,14 +161,13 @@
                 "version": "120"
             }
         },
-{
+ {
             "key": "醉挽清风",
             "name": "♨️醉挽清风┃4K纯净",
             "type": 4,
-            "api": "http://我不是.摸鱼儿.com/api/yuyutx.php",
+            "api": "http://我不是.摸鱼儿.top/api/yuyutx.php",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "changeable": 0
         },
          {
@@ -190,11 +189,11 @@
         },
         {
             "key": "驿站",
-            "name": "🌀驿站┃超清┃弹幕",
+            "name": "🕶️驿站┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
             "ext": {
                 "url": "",
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
@@ -1166,6 +1165,7 @@
         }
     ]
 }
+
 
 
 
