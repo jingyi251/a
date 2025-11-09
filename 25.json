@@ -22,13 +22,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		{
-            "key": "云云",
-            "name": "☁️┃云云┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
-        },
+		
      {
 
 
