@@ -94,7 +94,7 @@
             "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
             "changeable": 1
         },
-    {
+     {
             "key": "Bili",
             "name": "🅱哔哔合集┃4K弹幕",
             "type": 3,
@@ -106,7 +106,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
             }
@@ -123,11 +123,11 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
+			"jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
             }
-        },		
+        },
 
    
 
@@ -1170,6 +1170,7 @@
         }
     ]
 }
+
 
 
 
