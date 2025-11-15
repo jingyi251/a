@@ -478,6 +478,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
+	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
             }
@@ -494,12 +495,36 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
+			"jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
             }
         },
 
-
+{
+            "key": "QuarkLaBiV2",
+            "name": "🖍︎蜡笔资源┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "http://我不是.摸鱼儿.com/json/lb.json"
+        },
+        {
+            "key": "QuarkzzV2",
+            "name": "🏆️夸克至臻┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "http://我不是.摸鱼儿.com/json/zz.json"
+        },
         
 
 
