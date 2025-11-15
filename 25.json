@@ -79,7 +79,43 @@
 
 		
 
-		
+ {
+            "key": "QuarkLaBiV2",
+            "name": "🖍︎蜡笔资源┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "http://我不是.摸鱼儿.com/json/lb.json"
+        },
+        {
+            "key": "QuarkzzV2",
+            "name": "🏆️夸克至臻┃4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "http://我不是.摸鱼儿.com/json/zz.json"
+        },
+    {
+            "key": "config",
+            "name": "🚀辅助┃配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;e9d6ebc64c6dee0a01f13f505ef54c1d",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.61
+            }
+        },		
  {
             "key": "苹果",
             "name": "🍎苹果摸┃不卡┃纯净",
@@ -446,105 +482,8 @@
             }
         },
 
-{
-            "key": "QuarkLaBiV2",
-            "name": "🖍︎蜡笔资源┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "timeout": 60,
-            "ext": "http://我不是.摸鱼儿.com/json/lb.json"
-        },
-        {
-            "key": "QuarkzzV2",
-            "name": "🏆️夸克至臻┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "timeout": 60,
-            "ext": "http://我不是.摸鱼儿.com/json/zz.json"
-        },
-   {
-            "key": "config",
-            "name": "🚀辅助┃配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php",
-            "searchable": 0,
-            "quickSearch": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.61
-            }
-        },      
-
-
-
+ 
 		
-//{
-//            "key": "csp_Ddys",
-//            "name": "ok🍄低端┃在线",
- //           "type": 3,
-//            "api": "csp_DdysGuard",
- //           "searchable": 1,
- //           "quickSearch": 1,
-//            "changeable": 0,
- //           "filterable": 1,
- //           "timeout": 30,
- //          "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
-//        },
-//{
- //    "key": "文才",
-//      "name": "ok🌺文才┃在线",
-//      "type": 3,
-//      "api": "csp_JpysGuard",
-//      "searchable": 1,
-//       "quickSearch": 1,
-//       "changeable": 1,
-//       "filterable": 1,
-//       "timeout": 10,
-//       "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
-//    },
-  //  {
-  //      "key": "小苹果",
-  //      "name": "ok🍎苹果┃直连",
-  //       "type": 3,
-  //       "api": "csp_XpgGuard",
-  //       "searchable": 1,
-  //       "quickSearch": 1,
-  //       "changeable": 1,
-   //      "filterable": 1,
-   //      "timeout": 10,
-   //      "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
-   // },
-{
-            "key": "锦鲤短剧",
-            "name": "ok🐟锦鲤┃短剧",
-            "type": 3,
-            "api": "csp_JinliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-            "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
-    },
-        {
-            "key": "星芽短剧",
-            "name": "ok💖星芽┃短剧",
-            "type": 3,
-            "api": "csp_AppXYGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-            "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
-  },
 
 
 
@@ -672,6 +611,64 @@
 
 
 		
+//{
+//            "key": "csp_Ddys",
+//            "name": "ok🍄低端┃在线",
+ //           "type": 3,
+//            "api": "csp_DdysGuard",
+ //           "searchable": 1,
+ //           "quickSearch": 1,
+//            "changeable": 0,
+ //           "filterable": 1,
+ //           "timeout": 30,
+ //          "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
+//        },
+//{
+ //    "key": "文才",
+//      "name": "ok🌺文才┃在线",
+//      "type": 3,
+//      "api": "csp_JpysGuard",
+//      "searchable": 1,
+//       "quickSearch": 1,
+//       "changeable": 1,
+//       "filterable": 1,
+//       "timeout": 10,
+//       "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
+//    },
+  //  {
+  //      "key": "小苹果",
+  //      "name": "ok🍎苹果┃直连",
+  //       "type": 3,
+  //       "api": "csp_XpgGuard",
+  //       "searchable": 1,
+  //       "quickSearch": 1,
+  //       "changeable": 1,
+   //      "filterable": 1,
+   //      "timeout": 10,
+   //      "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
+   // },
+{
+            "key": "锦鲤短剧",
+            "name": "ok🐟锦鲤┃短剧",
+            "type": 3,
+            "api": "csp_JinliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+            "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
+    },
+        {
+            "key": "星芽短剧",
+            "name": "ok💖星芽┃短剧",
+            "type": 3,
+            "api": "csp_AppXYGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+            "jar": "https://pan.qingyuji.cn/f/6RpqTG/o.png;md5;2eda1fc960217573de1cabdf860c71b1"
+  },
 
 
 
