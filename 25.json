@@ -506,12 +506,11 @@
             "name": "🖍︎蜡笔资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
             "timeout": 60,
-	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": "http://我不是.摸鱼儿.com/json/lb.json"
         },
         {
@@ -519,12 +518,11 @@
             "name": "🏆️夸克至臻┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
             "timeout": 60,
-	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": "http://我不是.摸鱼儿.com/json/zz.json"
         },
    {
@@ -532,7 +530,7 @@
             "name": "🚀辅助┃配置┃中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;e9d6ebc64c6dee0a01f13f505ef54c1d",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php",
             "searchable": 0,
             "quickSearch": 0,
             "style": {
