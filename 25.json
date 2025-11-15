@@ -525,7 +525,19 @@
             "timeout": 60,
             "ext": "http://我不是.摸鱼儿.com/json/zz.json"
         },
-        
+   {
+            "key": "config",
+            "name": "🚀辅助┃配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;e9d6ebc64c6dee0a01f13f505ef54c1d",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.61
+            }
+        },      
 
 
 		
