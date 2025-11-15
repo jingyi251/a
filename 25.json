@@ -908,50 +908,50 @@
             "playerType": 2
         },
        // {
-            "key": "csp_Duopan",
-            "name": "🖍︎┃蜡笔┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "https://feimo.fun",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "http://fmao.shop",
-                    "http://xiaocge.fun"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "Duopan2"
-            }
-        },
+         //   "key": "csp_Duopan",
+         //   "name": "🖍︎┃蜡笔┃影视",
+         //   "type": 3,
+          //  "api": "csp_Duopan",
+         //   "filterable": 1,
+         //   "ext": {
+          //      "site_urls": [
+          //          "https://feimao666.fun",
+           //         "http://feimao888.fun",
+           //         "https://feimo.fun",
+           //         "http://www.labi88.sbs",
+            //        "http://fmao.site",
+            //        "http://fmao.shop",
+            //        "http://xiaocge.fun"
+            //    ],
+           //     "threadinfo": {
+           //         "chunksize": 512,
+           //         "threads": 16
+           //     },
+           //     "url_key": "Duopan2"
+           // }
+      //  },
        // {
-            "key": "csp_Netfixtv",
-            "name": "💌┃️至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://xiaomi666.fun",
-                    "https://xiaomiai.site",
-                    "https://mihdr.top",
-                    "https://www.mihdr.top",
-                    "http://www.miqk.cc",
-                    "https://www.zhizhenpan.fun"
-                ],
-                "url_key": "Netfixtv2",
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                }
-            }
-        },
+            //"key": "csp_Netfixtv",
+            //"name": "💌┃️至臻┃影视",
+            //"type": 3,
+            //"api": "csp_Duopan",
+            //"filterable": 1,
+            //"ext": {
+               // "site_urls": [
+                //    "http://xiaomi666.fun",
+                //    "https://xiaomiai.site",
+                //    "https://mihdr.top",
+                //    "https://www.mihdr.top",
+               //     "http://www.miqk.cc",
+               //     "https://www.zhizhenpan.fun"
+              //  ],
+              //  "url_key": "Netfixtv2",
+              //  "threadinfo": {
+              //      "chunksize": 512,
+               //     "threads": 16
+              //  }
+           // }
+      //  },
        
        
         {
