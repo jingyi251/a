@@ -511,6 +511,7 @@
             "filterable": 0,
             "changeable": 0,
             "timeout": 60,
+	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": "http://我不是.摸鱼儿.com/json/lb.json"
         },
         {
@@ -523,6 +524,7 @@
             "filterable": 0,
             "changeable": 0,
             "timeout": 60,
+	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
             "ext": "http://我不是.摸鱼儿.com/json/zz.json"
         },
    {
@@ -905,7 +907,7 @@
             "api": "csp_Config",
             "playerType": 2
         },
-        {
+       // {
             "key": "csp_Duopan",
             "name": "🖍︎┃蜡笔┃影视",
             "type": 3,
@@ -928,7 +930,7 @@
                 "url_key": "Duopan2"
             }
         },
-        {
+       // {
             "key": "csp_Netfixtv",
             "name": "💌┃️至臻┃影视",
             "type": 3,
