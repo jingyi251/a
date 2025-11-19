@@ -77,24 +77,32 @@
 
 
 
-		
-{
-            "key": "csp_Panda_玩偶哥哥",
-            "name": "👲┃玩偶┃影视",
-            "api": "csp_Wogg",
+       {
+            "key": "移动",
+            "name": "🌀移动急速┃4K纯净",
             "type": 3,
+            "api": "csp_YD",
             "searchable": 1,
-            "playerType": 2,
-            "timeout": 30,
+            "quickSearch": 1,
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;588615758b58becade1485bde0600132"
+        },		
+      {
+            "key": "玩偶",
+            "name": "♨️玩偶智能┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGGGuard",
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "https://www.wogg.one/"
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;588615758b58becade1485bde0600132",
+            "ext": {
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
+                "from": "4k|auto",
+                "siteUrl": "https://www.wogg.com/",
+                "danMu": "弹"
+            }
         },
-
-
-
-
-		
- {
+       {
             "key": "QuarkLaBiV2",
             "name": "🖍︎蜡笔资源┃4K弹幕",
             "type": 3,
@@ -437,16 +445,7 @@
                 "version": "107"
             }
         },
-{
-            "key": "醉挽清风",
-            "name": "♨️醉挽清风┃4K纯净",
-            "type": 4,
-            "api": "http://我不是.摸鱼儿.com/api/yuyutx.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76",
-            "changeable": 0
-        },
+
  {
             "key": "Bili",
             "name": "🅱哔哔合集┃4K弹幕",
