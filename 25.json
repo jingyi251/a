@@ -1305,7 +1305,8 @@
 		 {
         "name": "自建直播",
         //"url": "https://live.tv.darwinchow.com/sub/02RRDBAczjWiqc0DnMDIX6IgYazCMS",
-		 "url": "https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=bingchawusifengxian&huikan=1",	 
+		 //"url": "https://bc.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=bingchawusifengxian&huikan=1",
+			 "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=0000&haiwai=true",
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "Referer": "https://sub.ottiptv.cc/"
