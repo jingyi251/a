@@ -27,7 +27,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2025/11/03/cc12b64ece89f1d75d2f371039694aa0.jpg;md5;11b6dbd2b630fc9c95e36247917f55db"
+     "jar":"https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256"
    },
    {
      "key":"糯米",
@@ -38,7 +38,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2025/11/03/cc12b64ece89f1d75d2f371039694aa0.jpg;md5;11b6dbd2b630fc9c95e36247917f55db"
+     "jar":"https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256"
    },
 {
             "key": "文采",
@@ -50,7 +50,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://oss4liview.moji.com/thd_file/2025/11/03/cc12b64ece89f1d75d2f371039694aa0.jpg;md5;11b6dbd2b630fc9c95e36247917f55db"
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256"
    },
 		
 {"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"}, 
@@ -1170,6 +1170,7 @@
         }
     ]
 }
+
 
 
 
