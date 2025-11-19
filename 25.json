@@ -406,22 +406,7 @@
                 "version": "120"
             }
         },
-               {
-            "key": "旗星",
-            "name": "🍡旗星┃超清┃弹幕",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
-            "ext": {
-                "url": "http://ys.qist.top",
-                "site": "",
-                "dataKey": "2SWSPFxugBLPPOKo",
-                "dataIv": "2SWSPFxugBLPPOKo",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
+              
         {
             "key": "丫丫",
             "name": "🍿丫丫┃超清┃弹幕",
