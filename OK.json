@@ -22,7 +22,9 @@
             "api": "csp_WexconfigGuard",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
+    },
         },
         {
             "key": "Wexokconfig",
@@ -31,7 +33,8 @@
             "api": "csp_WexokconfigGuard",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
         },
         {
             "key": "Wexerxiaoziyuan",
@@ -39,7 +42,8 @@
             "type": 3,
             "api": "csp_WexerxiaoziyuanGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
         },
         {
             "key": "玩偶",
@@ -47,7 +51,8 @@
             "type": 3,
             "api": "csp_WoggGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
         },
         {
             "key": "Wexzhizhen",
@@ -55,7 +60,8 @@
             "type": 3,
             "api": "csp_WexzhizhenGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
         },
         {
             "key": "Wexnullname",
@@ -64,7 +70,8 @@
             "api": "csp_WexnullnameGuard",
             "searchable": 1,
             "changeable": 1,
-            "timeout": 120
+            "timeout": 120,
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
         },
   
 
