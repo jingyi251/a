@@ -232,6 +232,16 @@
             "searchable": 1,
             "changeable": 1
         },
+
+
+
+
+
+
+
+
+
+        
         {
             "key": "csp_Nmys",
             "name": "🎇伯伯┃秒播🎇",
@@ -812,6 +822,17 @@
         }
     ],
     "parses": [
+        {
+      "name": "-虾米-",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+
         {
             "name": "王",
             "type": 1,
