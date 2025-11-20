@@ -14,7 +14,90 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-
+  {
+            "key": "配置中心",
+            "name": "👨‍🍳‍配置┃中心",
+            "type": 3,
+            "api": "csp_ConfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            },
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
+        {
+            "key": "玩偶",
+            "name": "👽玩偶┃4K",
+            "type": 3,
+            "api": "csp_WoggGuard",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 30,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
+        {
+            "key": "蜡笔",
+            "name": "👠蜡笔┃4K",
+            "type": 3,
+            "api": "csp_LabiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 25,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
+              {
+            "key": "光影",
+            "name": "🎥光影┃4K",
+            "type": 3,
+            "api": "csp_GuanyingGuard",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 30,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
+        {
+            "key": "云集",
+            "name": "🍊云集┃4K",
+            "type": 3,
+            "api": "csp_YunJiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 25,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
+        {
+            "key": "极狐",
+            "name": "🦊极狐┃4K",
+            "type": 3,
+            "api": "csp_Fox4kGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 25,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
+ {
+            "key": "二小",
+            "name": "🦢二小┃4K",
+            "type": 3,
+            "api": "csp_ErXiaoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 25,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
+        },
 {
             "key": "世界听书",
             "name": "🎸世界┃听书",
