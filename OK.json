@@ -1,8 +1,7 @@
 {
     "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1",
-    "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
-    "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
-    "sites": [
+    "wallpaper": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/zcb.gif",
+	"logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/logo.gif",
         {
             "key": "Douban",
             "name": "🐮【公众号：王二小放牛娃】🐮",
@@ -14,58 +13,7 @@
             "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"
         },
        
-        {
-            "key": "Wexconfig",
-            "name": "🐮通用类型┃配置中心🐮",
-            "type": 3,
-            "api": "csp_WexconfigGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0
-        },
-        {
-            "key": "Wexokconfig",
-            "name": "🐮影视专用┃配置中心🐮",
-            "type": 3,
-            "api": "csp_WexokconfigGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0
-        },
-        {
-            "key": "Wexerxiaoziyuan",
-            "name": "💓‍二小┃4K💓‍",
-            "type": 3,
-            "api": "csp_WexerxiaoziyuanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "玩偶",
-            "name": "💓‍玩偶┃4K💓‍",
-            "type": 3,
-            "api": "csp_WoggGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexzhizhen",
-            "name": "💓至臻┃4K💓",
-            "type": 3,
-            "api": "csp_WexzhizhenGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexnullname",
-            "name": "💓无名┃4K💓",
-            "type": 3,
-            "api": "csp_WexnullnameGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 120
-        },
-       
+        
         {
             "key": "Wexhanxiaoquan",
             "name": "💥韩剧┃秒播💥",
@@ -130,7 +78,149 @@
             "searchable": 1,
             "changeable": 1
         },
+{
+            "key": "Wexconfig",
+            "name": "🐮通用类型┃配置中心🐮",
+            "type": 3,
+            "api": "csp_WexconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexokconfig",
+            "name": "🐮影视专用┃配置中心🐮",
+            "type": 3,
+            "api": "csp_WexokconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexerxiaoziyuan",
+            "name": "💓‍二小┃4K💓‍",
+            "type": 3,
+            "api": "csp_WexerxiaoziyuanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "玩偶",
+            "name": "💓‍玩偶┃4K💓‍",
+            "type": 3,
+            "api": "csp_WoggGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexzhizhen",
+            "name": "💓至臻┃4K💓",
+            "type": 3,
+            "api": "csp_WexzhizhenGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexnullname",
+            "name": "💓无名┃4K💓",
+            "type": 3,
+            "api": "csp_WexnullnameGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
+        },
+       
 
+{"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"}, 
+{"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.seedhub.cc","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_LiteApple","name":"🐞小苹果影视","type":3,"api":"csp_LiteApple","filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+
+
+
+{
+      "key": "🍊Boba影视🍊",
+      "name": "🍊Boba影视🍊",
+      "type": 0,
+      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "悬疑片",
+        "剧情片",
+        "4K",
+        "国产剧",
+        "欧美剧",
+        "日韩剧",
+        "港剧",
+        "台剧",
+        "泰国剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "大陆动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画电影",
+        "布袋戏",
+        "Netflix电影",
+        "Netflix电视剧",
+        "短剧",
+        "纪录片",
+        "体育",
+        "日韩无码",
+        "欧美精品",
+        "国产精品",
+        "中文字幕",
+        "人妻系列",
+        "强奸乱伦",
+        "自拍偷拍",
+        "重口味"
+      ]
+    },
+
+  {
+            "key": "cam4",
+            "name": "cam4",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=cam4",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        
+       {
+            "key": "松视开通2",
+            "name": "🈲🔞松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
 
 
 
