@@ -956,7 +956,7 @@
     "lives": [
  {
         "name": "自建直播",
-        "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=0000&haiwai=true",
+        "url": "https://bc.188766.xyz/?ip=&json=true",
         "header": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "Referer": "https://sub.ottiptv.cc/"
@@ -1170,6 +1170,7 @@
         }
     ]
 }
+
 
 
 
