@@ -13,7 +13,57 @@
             "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"
         },
        
-        
+     {
+            "key": "Wexconfig",
+            "name": "🐮通用类型┃配置中心🐮",
+            "type": 3,
+            "api": "csp_WexconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexokconfig",
+            "name": "🐮影视专用┃配置中心🐮",
+            "type": 3,
+            "api": "csp_WexokconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexerxiaoziyuan",
+            "name": "💓‍二小┃4K💓‍",
+            "type": 3,
+            "api": "csp_WexerxiaoziyuanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "玩偶",
+            "name": "💓‍玩偶┃4K💓‍",
+            "type": 3,
+            "api": "csp_WoggGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexzhizhen",
+            "name": "💓至臻┃4K💓",
+            "type": 3,
+            "api": "csp_WexzhizhenGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexnullname",
+            "name": "💓无名┃4K💓",
+            "type": 3,
+            "api": "csp_WexnullnameGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
+        },   
         {
             "key": "Wexhanxiaoquan",
             "name": "💥韩剧┃秒播💥",
@@ -78,57 +128,7 @@
             "searchable": 1,
             "changeable": 1
         },
-{
-            "key": "Wexconfig",
-            "name": "🐮通用类型┃配置中心🐮",
-            "type": 3,
-            "api": "csp_WexconfigGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0
-        },
-        {
-            "key": "Wexokconfig",
-            "name": "🐮影视专用┃配置中心🐮",
-            "type": 3,
-            "api": "csp_WexokconfigGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0
-        },
-        {
-            "key": "Wexerxiaoziyuan",
-            "name": "💓‍二小┃4K💓‍",
-            "type": 3,
-            "api": "csp_WexerxiaoziyuanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "玩偶",
-            "name": "💓‍玩偶┃4K💓‍",
-            "type": 3,
-            "api": "csp_WoggGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexzhizhen",
-            "name": "💓至臻┃4K💓",
-            "type": 3,
-            "api": "csp_WexzhizhenGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexnullname",
-            "name": "💓无名┃4K💓",
-            "type": 3,
-            "api": "csp_WexnullnameGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 120
-        },
+
        
 
 
