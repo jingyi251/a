@@ -260,18 +260,6 @@
             "timeout": 25,
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
         },
-        {
-            "key": "极狐",
-            "name": "🦊极狐┃4K",
-            "type": 3,
-            "api": "csp_Fox4kGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/-iHAg6_B.png;md5;467925332f89b93e69daf7b4b5e5b9e2"
-        },
  {
             "key": "二小",
             "name": "🦢二小┃4K",
