@@ -310,15 +310,7 @@
         },
 
 		
-   {
-            "key": "移动",
-            "name": "🌀移动急速┃4K纯净",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;588615758b58becade1485bde0600132"
-        },		
+  
 {
             "key": "Bili",
             "name": "🅱哔哔合集┃4K弹幕",
