@@ -21,6 +21,19 @@
             "api": "csp_Config",
             "playerType": 2
         },
+		 {
+            "key": "csp_FeiMaoUC",
+            "name": "⚡┃闪电┃优汐",
+            "type": 3,
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "ext": {
+                "site_urls": [
+                    "http://1.95.79.193/"
+                ],
+                "url_key": "FeiMaoUC"
+            }
+        },
        {
             "key": "瓜子",
             "name": "🍉瓜子┃App",
@@ -284,7 +297,7 @@
             "api": "csp_Wex275tingshuGuard",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/jar/wex.png"
+            "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/44F3D12_773_wex_20251116022852108newMediaImage.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"
         },
 
 		
