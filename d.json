@@ -30,7 +30,7 @@
                 "ratio": 1.43,
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
-               {
+        {
             "key": "二小",
             "name": "🦢二小┃4K",
             "type": 3,
@@ -39,8 +39,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 25
-               {
+            "timeout": 25,
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+        },
+         {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
             "type": 3,
@@ -51,7 +53,7 @@
             "timeout": 30,
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
-               {
+         {
             "key": "蜡笔",
             "name": "👠蜡笔┃4K",
             "type": 3,
@@ -63,7 +65,7 @@
             "timeout": 25,
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
-              {
+        {
             "key": "至臻",
             "name": "💌至臻┃4K",
             "type": 3,
@@ -75,7 +77,7 @@
             "timeout": 25,
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
-              {
+         {
             "key": "瓜子",
             "name": "🍉瓜子┃App",
             "type": 3,
@@ -1317,6 +1319,7 @@
         }
     ]
 }
+
 
 
 
