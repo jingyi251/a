@@ -27,7 +27,8 @@
             "indexs": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.43,
+                "ratio": 1.43
+                   },
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
         {
@@ -1319,6 +1320,7 @@
         }
     ]
 }
+
 
 
 
