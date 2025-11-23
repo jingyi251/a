@@ -971,7 +971,7 @@
             "playerType": 2,
             "timeout": 10,
             "ua": "bingcha/1.1(mianfeifenxiang)"
-        },	
+        },
  {
         "name": "自建直播",
         "url": "https://bc.188766.xyz/?ip=&json=true",
@@ -980,13 +980,7 @@
             "Referer": "https://sub.ottiptv.cc/"
         }
     },
-     {
-            "name": "冰茶",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-        },
+     
  {
         "name": "冰茶订阅",
         "url": "https://fy.188766.xyz/?ip=&mishitong=true&lunbo=false&mima=mianfeidehaimaiqian",
@@ -1188,6 +1182,7 @@
         }
     ]
 }
+
 
 
 
