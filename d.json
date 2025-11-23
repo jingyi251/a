@@ -119,20 +119,6 @@
             "timeout": 10
         },
         {
-            "key": "浪酷版",
-            "name": "👓浪酷┃秒播",
-            "type": 3,
-            "api": "csp_TianTianGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "site": 2
-            },
-            "timeout": 10
-        },
-        {
             "key": "小苹果",
             "name": "🍎苹果┃直连",
             "type": 3,
@@ -1425,3 +1411,4 @@
         }
     ]
 }
+
