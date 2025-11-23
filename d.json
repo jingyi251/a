@@ -3,7 +3,7 @@
 //  当前接口：http://ok321.top/ok
 
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+    "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600",
     "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
     "sites": [
@@ -13,8 +13,7 @@
             "type": 3,
             "api": "csp_DoubanGuard",
             "searchable": 0,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "changeable": 1
         },
         {
             "key": "配置中心",
@@ -27,8 +26,6 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.43
-            },
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
                {
             "key": "二小",
@@ -39,9 +36,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
+            "timeout": 25
                {
             "key": "玩偶",
             "name": "👽玩偶┃4K",
@@ -50,8 +45,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-            "timeout": 30,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 30
         },
                {
             "key": "蜡笔",
@@ -62,9 +56,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
+            "timeout": 25
               {
             "key": "至臻",
             "name": "💌至臻┃4K",
@@ -74,8 +66,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 25
         },
               {
             "key": "瓜子",
@@ -86,8 +77,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "文才",
@@ -98,8 +88,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "糯米",
@@ -110,8 +99,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "热播",
@@ -125,8 +113,7 @@
             "ext": {
                 "site": 0
             },
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "小苹果",
@@ -137,8 +124,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "云云",
@@ -149,8 +135,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "雄鹰",
@@ -161,8 +146,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "咖啡",
@@ -173,8 +157,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "一起",
@@ -185,8 +168,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "仓鼠",
@@ -197,8 +179,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "厂长",
@@ -209,8 +190,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "csp_Btt",
@@ -220,8 +200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "荐片",
@@ -232,8 +211,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "韩圈",
@@ -245,8 +223,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
                 {
             "key": "️爱看Bot",
@@ -257,8 +234,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "电影天堂",
@@ -269,26 +245,25 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
 
 
-{"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0}, 
-{"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"},
-{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
-{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"}, 
+{"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/优酷.js","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/腾云驾雾.js","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
 {"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
-{"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.seedhub.cc"},
-{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net"},
-{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.seedhub.cc","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net","jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
 
-{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-//{"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LiteApple","name":"🐞小苹果影视","type":3,"api":"csp_LiteApple","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+//{"key":"csp_Kuaikan","name":"💡快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+{"key":"csp_LiteApple","name":"🐞小苹果影视","type":3,"api":"csp_LiteApple","filterable":1,"quickSearch":1,"searchable":1,"jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
 
 
 
@@ -674,8 +649,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "星芽短剧",
@@ -686,8 +660,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "甜圈短剧",
@@ -698,8 +671,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "yhdm",
@@ -710,8 +682,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 15,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 15
         },
         {
             "key": "动漫巴士",
@@ -722,8 +693,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "新6V",
@@ -733,81 +703,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 20
         },
-        {
-            "key": "聚合直播",
-            "name": "📽️聚合┃直播",
-            "type": 3,
-            "api": "csp_LivingGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "快手直播",
-            "name": "😎快手┃直播",
-            "type": 3,
-            "api": "csp_KsLiveGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "虎牙直播",
-            "name": "🐯虎牙┃直播",
-            "type": 3,
-            "api": "csp_HuyaGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "瓜子看球",
-            "name": "⚽瓜子┃看球",
-            "type": 3,
-            "api": "csp_GzSportGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "88看球",
-            "name": "⚽88┃看球",
-            "type": 3,
-            "api": "csp_KanqiuGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
+        
         {
             "key": "世界听书",
             "name": "🎸世界┃听书",
@@ -816,8 +714,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "bilimd",
@@ -832,8 +729,7 @@
                 "type": "rect",
                 "ratio": 1.433
             },
-            "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 10
         },
         {
             "key": "bili",
@@ -851,8 +747,7 @@
             "ext": {
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YJhVp-4r.bmp"
             },
-            "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 20
         },
         {
             "key": "biliych",
@@ -870,8 +765,7 @@
             "ext": {
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/DLYuzBTJ.bmp"
             },
-            "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 20
         },
         {
             "key": "bilixs",
@@ -889,8 +783,7 @@
             "ext": {
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1JTNmUos.bmp"
             },
-            "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 20
         },
         {
             "key": "bilixp",
@@ -908,76 +801,7 @@
             "ext": {
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/iO5IVxTF.bmp"
             },
-            "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "少儿教育",
-            "name": "📚少儿┃教育",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/dXwud0cD.bmp"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/KQ75Lxp5.bmp"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "初中课堂",
-            "name": "📚初中┃课堂",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/43ZKwmf_.bmp"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
-        },
-        {
-            "key": "高中教育",
-            "name": "📚高中┃课堂",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/mf6984kQ.bmp"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "timeout": 20
         }
         ],
     "parses": [
@@ -1459,6 +1283,7 @@
         }
     ]
 }
+
 
 
 
