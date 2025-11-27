@@ -78,6 +78,25 @@
             "timeout": 25,
             "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
         },
+
+
+ {
+            "key": "剧圈",
+            "name": "饭🐻剧圈┃多线",
+            "type": 3,
+            "api": "csp_JqqGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/27/b38fa1edf1a327d7ecb1467cf779a89c.jpg;md5;a498725399158b7c272090aac796bfb6"
+   },
+
+
+
+
+
+        
          {
             "key": "瓜子",
             "name": "🍉瓜子┃App",
@@ -1318,6 +1337,7 @@
         }
     ]
 }
+
 
 
 
