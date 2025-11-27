@@ -27,7 +27,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256"
+     "jar":"https://oss4liview.moji.com/thd_file/2025/11/27/b38fa1edf1a327d7ecb1467cf779a89c.jpg;md5;a498725399158b7c272090aac796bfb6"
    },
    {
      "key":"糯米",
@@ -38,7 +38,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256"
+     "jar":"https://oss4liview.moji.com/thd_file/2025/11/27/b38fa1edf1a327d7ecb1467cf779a89c.jpg;md5;a498725399158b7c272090aac796bfb6"
    },
 {
             "key": "文采",
@@ -50,8 +50,24 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256"
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/27/b38fa1edf1a327d7ecb1467cf779a89c.jpg;md5;a498725399158b7c272090aac796bfb6"
    },
+ {
+            "key": "剧圈",
+            "name": "🐻剧圈┃多线",
+            "type": 3,
+            "api": "csp_JqqGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/27/b38fa1edf1a327d7ecb1467cf779a89c.jpg;md5;a498725399158b7c272090aac796bfb6"
+   },
+
+
+
+
+		
 		
 {"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"}, 
 {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js","jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
@@ -241,7 +257,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 30,
-           "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1l4ioaPS.png;md5;515f9f78bc826f2f694b06431565314c"
+           "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Br2yEVVh.png;md5;1575df14f1ed882c081524bc5273cec3"
         },
 {
      "key": "文才",
@@ -253,7 +269,7 @@
        "changeable": 1,
        "filterable": 1,
        "timeout": 10,
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1l4ioaPS.png;md5;515f9f78bc826f2f694b06431565314c"
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Br2yEVVh.png;md5;1575df14f1ed882c081524bc5273cec3"
     },
     {
         "key": "小苹果",
@@ -265,7 +281,7 @@
          "changeable": 1,
          "filterable": 1,
          "timeout": 10,
-         "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1l4ioaPS.png;md5;515f9f78bc826f2f694b06431565314c"
+         "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Br2yEVVh.png;md5;1575df14f1ed882c081524bc5273cec3"
     },
 {
             "key": "锦鲤短剧",
@@ -276,7 +292,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1l4ioaPS.png;md5;515f9f78bc826f2f694b06431565314c"
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Br2yEVVh.png;md5;1575df14f1ed882c081524bc5273cec3"
     },
         {
             "key": "星芽短剧",
@@ -287,7 +303,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 10,
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1l4ioaPS.png;md5;515f9f78bc826f2f694b06431565314c"
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Br2yEVVh.png;md5;1575df14f1ed882c081524bc5273cec3"
   },
 
 		
@@ -1182,6 +1198,7 @@
         }
     ]
 }
+
 
 
 
