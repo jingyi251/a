@@ -1,12 +1,14 @@
-//  >>> 当前时间是：2025-11-23 16:52:57 <<<
-//  秋水导航【官网：www.qiushui.vip】！！！
-//  当前接口：http://ok321.top/ok
+//  王二小       https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png;md5;905b506670b52fb2a680743fb13086fc
+//  肥猫      https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296
+//  ok    https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef
 
 {
     "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
     "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
     "sites": [
+//ok//
+
         {
             "key": "豆瓣",
             "name": "🤓公众号┃OK杰克",
@@ -14,7 +16,7 @@
             "api": "csp_DoubanGuard",
             "searchable": 0,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         
         {
@@ -29,7 +31,7 @@
                 "type": "rect",
                 "ratio": 1.43
                    },
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "二小",
@@ -41,7 +43,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
          {
             "key": "玩偶",
@@ -52,7 +54,7 @@
             "filterable": 1,
             "changeable": 1,
             "timeout": 30,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
          {
             "key": "蜡笔",
@@ -64,7 +66,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "至臻",
@@ -76,7 +78,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 25,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
 
 
@@ -107,7 +109,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "文才",
@@ -119,7 +121,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "糯米",
@@ -131,7 +133,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "热播",
@@ -146,7 +148,7 @@
                 "site": 0
             },
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "小苹果",
@@ -158,7 +160,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "云云",
@@ -170,7 +172,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "雄鹰",
@@ -182,7 +184,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "咖啡",
@@ -194,7 +196,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "一起",
@@ -206,7 +208,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "仓鼠",
@@ -218,7 +220,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "厂长",
@@ -230,7 +232,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "csp_Btt",
@@ -241,7 +243,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "荐片",
@@ -253,7 +255,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "韩圈",
@@ -266,7 +268,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
                 {
             "key": "️爱看Bot",
@@ -278,7 +280,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "电影天堂",
@@ -290,7 +292,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
 
 
@@ -398,15 +400,15 @@
 
 
 
-
+//肥猫//
         
  {
             "key": "潮流",
-            "name": "🏜肥猫┃潮流┃APP",
+            "name": "🏜┃潮流┃APP",
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "http://v.rbotv.cn",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "梦回",
@@ -414,7 +416,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "http://v.lkuys.cn",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "星辉",
@@ -422,7 +424,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "http://tt.ysdqjs.cn",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
     {
             "key": "蔬菜",
@@ -430,7 +432,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://huohu.yihn.cc|huohushipingetap|140",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "黑猫",
@@ -438,7 +440,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899|k9o3p2c8b7m3z0o8",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "优优",
@@ -446,7 +448,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://apiapplbys.lbys.app:5678|apiapplbyskey168|107",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "兔子",
@@ -454,7 +456,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt|ce032244d093b3e2",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "永永",
@@ -462,7 +464,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "云云",
@@ -470,7 +472,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "冷心",
@@ -478,14 +480,14 @@
             "type": 3,
             "api": "csp_AppMuou",
             "ext": "http://app.789dd.cn|火猫影视",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Jpys",
             "name": "🥇️┃金牌┃影视",
             "type": 3,
             "api": "csp_Jpys",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Wwys",
@@ -493,14 +495,14 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_KmeiJu",
             "name": "🍐┃鸭梨┃影视",
             "type": 3,
             "api": "csp_KmeiJu",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Xlys",
@@ -508,21 +510,21 @@
             "type": 3,
             "api": "csp_Xlys",
             "ext": "https://xl01.com.de",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Tvyb",
             "name": "☁️️┃云播┃影视",
             "type": 3,
             "api": "csp_Tvyb",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Qiyou",
             "name": "🥝┃奇优┃影视",
             "type": 3,
             "api": "csp_Qiyou",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "荐片",
@@ -531,7 +533,7 @@
             "type": 3,
             "playerType": "2",
             "ext": "https://ev2089.zxbwv.com",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Quanwk",
@@ -539,7 +541,7 @@
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_J",
@@ -547,7 +549,7 @@
             "type": 3,
             "api": "csp_Jiaozi",
             "playerType": 2,
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_SaoHuo",
@@ -556,7 +558,7 @@
             "api": "csp_SaoHuo",
             "playerType": 2,
             "ext": "https://shdy5.us",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_Gz360",
@@ -564,7 +566,7 @@
             "type": 3,
             "api": "csp_Gz360",
             "playerType": 2,
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "csp_LiteApple",
@@ -574,7 +576,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "厂长",
@@ -586,7 +588,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.czzymovie.com/",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "猎手影视",
@@ -598,21 +600,21 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2,
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "零度",
             "name": "🥶┃零度┃影视",
             "type": 3,
             "api": "https://6296.kstore.vip/lingdu.py",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
   {
             "key": "csp_SP360",
             "name": "📺┃360┃官源",
             "type": 3,
             "api": "csp_SP360",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
  {
             "key": "csp_FourK",
@@ -621,7 +623,7 @@
             "playerType": "2",
             "api": "csp_FourK",
             "ext": "https://www.4kvm.tv",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
       {
             "key": "酷狗",
@@ -637,7 +639,7 @@
                     }
                 ]
             },
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "MTV",
@@ -653,7 +655,7 @@
                 "type": "rect",
                 "ratio": 1.333
             },
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
             "key": "喜马拉雅",
@@ -665,10 +667,10 @@
                 "ratio": 1.333
             },
             "ext": "",
-            "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967"
+            "jar": "https://img2.gelonghui.com/library/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
 
-
+//王二小//
 {
             "key": "Wex275tingshu",
             "name": "🎃二小极品┃听书🎃",
@@ -695,7 +697,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "星芽短剧",
@@ -707,7 +709,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "甜圈短剧",
@@ -719,7 +721,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
             
         {
@@ -732,7 +734,7 @@
             "changeable": 0,
             "filterable": 1,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "新6V",
@@ -743,7 +745,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         
         {
@@ -755,7 +757,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "bilimd",
@@ -771,7 +773,7 @@
                 "ratio": 1.433
             },
             "timeout": 10,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "bili",
@@ -790,7 +792,7 @@
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YJhVp-4r.bmp"
             },
             "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "biliych",
@@ -809,7 +811,7 @@
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/DLYuzBTJ.bmp"
             },
             "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "bilixs",
@@ -828,7 +830,7 @@
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1JTNmUos.bmp"
             },
             "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         },
         {
             "key": "bilixp",
@@ -847,7 +849,7 @@
                 "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/iO5IVxTF.bmp"
             },
             "timeout": 20,
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/vfhhyWXx.png;md5;bd17b3c5ab7dab4ea99d96b3f29be600"
+            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef"
         }
         ],
     
@@ -998,138 +1000,6 @@
             "super.ffzy",
             "cachem3u8.2s0"
         ],
-        "regex": [
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-            "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-            "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-            "17.99",
-            "14.45"
-        ]
-    },
-    {
-        "name": "索尼",
-        "hosts": [
-            "suonizy"
-        ],
-        "regex": [
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-            "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
-        ]
-    },
-    {
-        "name": "快看",
-        "hosts": [
-            "kuaikan"
-        ],
-        "regex": [
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-        ]
-    },
-    {
-        "name": "leshiyun",
-        "hosts": [
-            "leshiyuncdn"
-        ],
-        "regex": [
-            "15.92"
-        ]
-    },
-    {
-        "name": "看影网",
-        "hosts": [
-            "fentvoss"
-        ],
-        "regex": [
-            "38.68",
-            "38.12",
-            "38.80",
-            "30.08",
-            "44.00",
-            "36.80",
-            "40.68",
-            "29.08",
-            "29.28",
-            "24.88"
-        ]
-    },
-    {
-        "name": "1080zyk",
-        "hosts": [
-            "high24-playback",
-            "high20-playback",
-            "yzzy.play",
-            "yzzy-dy"
-        ],
-        "regex": [
-            "16.63",
-            "17.66"
-        ]
-    },
-    {
-        "name": "ikun",
-        "hosts": [
-            "bfikuncdn"
-        ],
-        "regex": [
-            "#EXTINF.*?\\s+.*?XR8pDxQk.*?\\.ts",
-            "#EXTINF.*?\\s+.*?p5XQill8.*?\\.ts"
-        ]
-    },
-    {
-        "name": "黑木耳hmr",
-        "hosts": [
-            "hmrvideo"
-        ],
-        "regex": [
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3\\.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-        ]
-    },
-    {
-        "name": "ryplay",
-        "hosts": [
-            "cdn.ryplay"
-        ],
-        "regex": [
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.633333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-            //片尾
-            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8\\.333333,[\\s\\S].*?\\.ts",
-            "#EXTINF:2\\.933333,[\\s\\S].*?\\.ts"
-        ]
-    },
-    {
-        "name": "555DM",
-        "hosts": [
-            "cqxfjz"
-        ],
-        "regex": [
-            "10.56"
-        ]
-    },
-    {
-        "name": "海外看",
-        "hosts": [
-            "haiwaikan"
-        ],
-        "regex": [
-            "10.0099",
-            "10.3333",
-            "16.0599",
-            "8.1748",
-            "10.85"
-        ]
-    },
-        {"name":"磁力广告","hosts":["magnet"],"regex":["更多","社 區","x u u","最 新","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
-    ],
-    "ijk":[
-        {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
-        {"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}
-    ],
-    "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","api.htpan.net"]
-}
-   
-    
+
+https://edgeone.gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar
+https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar
