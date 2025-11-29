@@ -915,7 +915,7 @@
         }
     ],
     "lives": [
-        {
+       {
             "name": "冰茶",
             "type": 0,
             "playerType": 2,
