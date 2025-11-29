@@ -85,9 +85,98 @@
             "changeable": 0,
             "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
         },
+		 {
+            "key": "立播",
+            "name": "🌟立播┃秒播",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            },
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
+        {
+            "key": "厂长",
+            "name": "📔厂长┃秒播",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
+		{
+            "key": "鲸鱼",
+            "name": "👀鲸鱼┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p",
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
+        {
+            "key": "橘子",
+            "name": "🍊橘子┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
+		{
+            "key": "欢视",
+            "name": "👓欢视┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT9fFAy5mE5qU=",
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
+		 {
+            "key": "荐片",
+            "name": "🐭荐片┃P2P",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
+		 {
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU=",
+            "jar":"https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774"
+        },
  {
      "key":"苹果",
-     "name":"饭🍎苹果┃不卡",
+     "name":"苹果┃不卡",
      "type":3,
      "api":"csp_LiteAppleGuard",
      "timeout":15,
@@ -98,7 +187,7 @@
    },
    {
      "key":"糯米",
-     "name":"饭🍓糯米┃秒播",
+     "name":"糯米┃秒播",
      "type":3,
      "api":"csp_NmyswvGuard",
      "timeout":15,
@@ -109,7 +198,7 @@
    },
 {
             "key": "文采",
-            "name": "饭💮文采┃秒播",
+            "name": "文采┃秒播",
             "type": 3,
             "api": "csp_JpysGuard",
             "timeout": 15,
@@ -1126,4 +1215,5 @@
     ],
     "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","api.htpan.net"]
 }
+
 
