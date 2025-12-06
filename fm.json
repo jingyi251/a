@@ -617,15 +617,7 @@
             "ext": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt|ca94b06ca359d80e|120",
             "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
-        {
-            "key": "蔬菜",
-            "name": "🫛┃蔬菜┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://huohu.yihn.cc|huohushipingetap|140",
-            "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-        {
+              {
             "key": "黑猫",
             "name": "🐼┃黑猫┃APP",
             "type": 3,
@@ -649,15 +641,7 @@
             "ext": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt|ce032244d093b3e2",
             "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
         },
-        {
-            "key": "永永",
-            "name": "♾️┃永永┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120",
-            "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
-        },
-       
+              
         {
             "key": "冷心",
             "name": "🧊┃冷心┃APP",
