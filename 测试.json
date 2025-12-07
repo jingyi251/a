@@ -1020,8 +1020,29 @@
 			"quickSearch": 1
 		},
 
-
-
+{
+			"key": "*抖阴视频",
+			"name": "*抖阴视频",
+			"type": 1,
+			"api": "https://www.888dav.com/api.php/provide/vod/",
+			"quickSearch": 0,
+			"ext": "proxy",
+            "jar": "https://clun.top/jar/xc.jar"
+		},
+{
+			"key": "玩偶",
+			"name": "玩偶姐姐",
+			"type": 3,
+			"api": "csp_Doll",
+			"searchable": 1,
+			"recordable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1.309
+			},
+			"ext": "proxy",
+            "jar": "https://clun.top/jar/xc.jar"
+		},
 
 		
       
