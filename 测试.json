@@ -1010,17 +1010,7 @@
 			"searchable": 1,
 			"filterable": 1
 		},
-{
-			"key": "小黄书_py",
-			"name": "小黄书",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"api": "https://clun.top/js/ss/小黄书.py",
-			"order_num": 5,
-			"ext": ""
-		},
+
 {
 			"key": "美少女",
 			"name": "美少女",
@@ -1028,14 +1018,6 @@
 			"api": "https://www.msnii.com/api/xml.php",
 			"searchable": 1,
 			"quickSearch": 1
-		},
-{
-			"key": "*抖阴视频",
-			"name": "*抖阴视频",
-			"type": 1,
-			"api": "https://www.888dav.com/api.php/provide/vod/",
-			"quickSearch": 0,
-			"ext": "proxy"
 		},
 
 
