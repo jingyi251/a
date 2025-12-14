@@ -6,6 +6,67 @@
     "spider": "https://pan.baidu.re/down.php/85206c56dac80eed5291d2d76d091ec6.txt;md5;85206c56dac80eed5291d2d76d091ec6",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+ "lives": [
+   {
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?url=https://live.ottiptv.cc",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
+           
+        {
+            "name": "冰茶",
+            "type": 0,
+            "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
+      
+        {
+            "name": "MIGU",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+      
+{
+          "name": "本地live文件",
+          "type":"0",
+          "pass": true,
+          "url":"http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+          "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
+        },
+        {
+          "name": "BMCH",
+          "type":"0",
+          "pass": true,
+          "url": "https://proxy.gitwarp.com/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
+          "epg": "https://epg.v1.mk/json?ch={name}&date={date}",     
+          "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
+          "name": "Tianmu",
+          "type":"0",
+          "pass": true,
+          "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt",
+          "epg": "https://epg.v1.mk/json?ch={name}&date={date}",     
+          "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
+	      "name": "fanmingming",
+	      "type":"0",
+        "pass": true,
+	      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+    	}
+        
+    ],
+
     "sites": [
         {
             "key": "豆瓣",
