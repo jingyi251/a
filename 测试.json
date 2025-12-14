@@ -1,6 +1,5 @@
-//  肥猫      https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236
-//  ok   https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75
-
+//  肥猫      https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9
+//  ok   https://10352.kstore.vip/202512141030.png;md5;8313576a6ec5d44a115b3837eff70ce7
 //  当前接口：https://9877.kstore.space/AnotherD/api.json
 
 {
@@ -889,7 +888,7 @@
                     }
                 ]
             },
-            "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
+            "jar": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"
         },
         {
             "key": "MTV",
@@ -905,7 +904,7 @@
                 "type": "rect",
                 "ratio": 1.333
             },
-            "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
+            "jar": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"
         },
         {
             "key": "喜马拉雅",
@@ -917,7 +916,7 @@
                 "ratio": 1.333
             },
             "ext": "",
-            "jar": "https://img2.gelonghui.com/library/6b83e-77b913e7-5f64-4862-9a15-6222f3fc77c3.png;md5;6b83e9a49c3ef7cba2be8f11790b9236"
+            "jar": "https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9"
         },
 	{
       "key": "🍊Boba影视🍊",
@@ -1001,50 +1000,9 @@
             "ext": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
             "jar": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
         },
-{
-			"key": "py_七区",
-			"name": "七区(T3)",
-			"type": 3,
-			"api": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/七区.py",
-			"quickSearch": 1,
-			"searchable": 1,
-			"filterable": 1
-		},
 
-{
-			"key": "美少女",
-			"name": "美少女",
-			"type": 0,
-			"api": "https://www.msnii.com/api/xml.php",
-			"searchable": 1,
-			"quickSearch": 1
-		},
 
-{
-			"key": "*抖阴视频",
-			"name": "*抖阴视频",
-			"type": 1,
-			"api": "https://www.888dav.com/api.php/provide/vod/",
-			"quickSearch": 0,
-			"ext": "proxy",
-            "jar": "https://clun.top/jar/xc.jar"
-		},
-{
-			"key": "玩偶",
-			"name": "玩偶姐姐",
-			"type": 3,
-			"api": "csp_Doll",
-			"searchable": 1,
-			"recordable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1.309
-			},
-			"ext": "proxy",
-            "jar": "https://clun.top/jar/xc.jar"
-		},
 
-		
       
         {
             "key": "天翼影视",
