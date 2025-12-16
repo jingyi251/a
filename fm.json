@@ -1,8 +1,8 @@
-//  王二小       https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png;md5;172c5b6351ce1531deb3821c41a7d9a4
+//  王二小      https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1765824347239XW9m5i.txt;md5;ca6d7be5c03091001488cbf33969f75dd
 //  肥猫      https://img2.gelonghui.com/library/e7cfb-348c5e58-f21d-4f6e-8a92-65ec14dcdacc.png;md5;e7cfb8920b79a7383eaa7bf0597f3bf9
-//饭太硬    https://oss4liview.moji.com/thd_file/2025/12/12/b83407761373998be1a32e9c8a53230d.jpg;md5;3962e9dbce2c7b61a53b1b796f098d47
-//  ok   https://10352.kstore.vip/202512120850.png;md5;68060405b6dfe95cc44a905a76678b34
-//小米   https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df
+//饭太硬   https://oss4liview.moji.com/thd_file/2025/12/12/b83407761373998be1a32e9c8a53230d.jpg;md5;3962e9dbce2c7b61a53b1b796f098d47
+//  ok   http://oss4liview.moji.com/thd_file/2025/12/16/f556ecfa7197d4401ea7d191dbac317f.jpg;md5;4c16127fc652a0c6a379e1dcd3f084bf
+//小米   https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a
 
 {
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
@@ -86,11 +86,22 @@
             "changeable": 0,
             "jar":"https://oss4liview.moji.com/thd_file/2025/12/12/b83407761373998be1a32e9c8a53230d.jpg;md5;3962e9dbce2c7b61a53b1b796f098d47"
         },
-		{
+{
             "key": "及时雨PHP",
             "name": "及时雨PHP",
             "type": 4,
             "api": "https://diwu.de5.net/XPG/及时雨.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+		{
+            "key": "小苹果PHP",
+            "name": "小苹果PHP",
+            "type": 4,
+            "api": "https://diwu.de5.net/XPG/小苹果.php",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -535,7 +546,7 @@
             "type": 3,
             "api": "csp_Appfox",
             "ext": "https://fox.ystva.com",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -544,7 +555,7 @@
             "type": 3,
             "api": "csp_Appfox",
             "ext": "https://aikan-1319209748.cos.ap-shanghai.myqcloud.com/aikan.json",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -555,7 +566,7 @@
             "quickSearch": 0,
             "api": "csp_AppRJ",
             "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc=",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -567,7 +578,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -579,7 +590,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -591,7 +602,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -602,7 +613,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -613,7 +624,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -622,7 +633,7 @@
             "type": 3,
             "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://101.35.85.16:5555",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -636,7 +647,7 @@
                 "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
                 "apisignkey": "lvdoutv-1.0.0"
             },
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -647,7 +658,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -663,7 +674,7 @@
                 "ratio": 1.333
             },
             "ext": "https://ev2089.zxbwv.com",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -674,7 +685,7 @@
             "searchable": 1,
             "api": "csp_AppRJ",
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg=",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -683,7 +694,7 @@
             "type": 3,
             "quickSearch": 0,
             "api": "csp_FreeOk",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -694,7 +705,7 @@
             "quickSearch": 0,
             "api": "csp_AppQi",
             "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -705,7 +716,7 @@
             "quickSearch": 0,
             "api": "csp_AppQi",
             "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -716,7 +727,7 @@
             "searchable": 1,
             "api": "csp_AppQi",
             "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -735,7 +746,7 @@
             "name": "🔥火火┃影视",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -743,7 +754,7 @@
             "name": "🥝奇优┃影视",
             "type": 3,
             "api": "csp_Qiyou",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -754,7 +765,7 @@
             "quickSearch": 0,
             "api": "csp_DuanJu",
             "ext": "",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -764,7 +775,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "api": "csp_Gz360",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -774,7 +785,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "api": "csp_Jpys",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -784,7 +795,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "api": "csp_MiSou",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
 
         {
@@ -792,7 +803,7 @@
             "name": "📕有声┃听书",
             "type": 3,
             "api": "csp_TingBook",
-            "jar": "https://img2.gelonghui.com/library/44349-0cfd4fad-ee8d-4628-b11a-08f6a5e5e508.png;md5;4434934a25184813d1891b8ab99a89df"
+            "jar": "https://img2.gelonghui.com/library/6e409-70b7571b-e49d-49bc-b376-fecd7314d285.png;md5;6e40989c1bcf742bd29365700a1a066a"
         },
       
 
@@ -1199,5 +1210,4 @@
     ],
     "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","api.htpan.net"]
 }
-
 
