@@ -75,17 +75,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-		{
-            "key": "及时雨PHP",
-            "name": "及时雨PHP",
-            "type": 4,
-            "api": "https://diwu.de5.net/XPG/及时雨.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+		
         {
             "key": "配置中心",
             "name": "配置｜中心",
@@ -111,6 +101,28 @@
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
+        },
+		{
+            "key": "及时雨PHP",
+            "name": "及时雨PHP",
+            "type": 4,
+            "api": "https://diwu.de5.net/XPG/及时雨.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+		{
+            "key": "小苹果PHP",
+            "name": "小苹果PHP",
+            "type": 4,
+            "api": "https://diwu.de5.net/XPG/小苹果.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
         },
         {
             "key": "热播影视",
