@@ -98,16 +98,50 @@
             "changeable": 1
         },
 		{
-            "key": "小苹果PHP",
-            "name": "小苹果PHP",
-            "type": 4,
-            "api": "https://diwu.de5.net/XPG/小苹果.php",
+            "key": "apple",
+            "name": "apple",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/apple.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "changeable": 1
-        },
+    },
+{
+            "key": "韩剧网",
+            "name": "韩剧网",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/韩剧网.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "聚合短剧",
+            "name": "聚合短剧",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/聚合短剧.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+  "key": "新韩剧网",
+  "name": "新韩剧网(py)",
+  "type": 3,
+  "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/新韩剧网.min.py",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {}
+},
+
 	
 {
             "key": "奶酪",
