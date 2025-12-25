@@ -15,7 +15,84 @@
             "searchable": 0
         },
 
+{
+            "key": "apple",
+            "name": "apple",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/apple.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "海龟",
+            "name": "海龟",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/海龟.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "韩剧网",
+            "name": "韩剧网",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/韩剧网.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "鸡白",
+            "name": "鸡白",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/鸡白.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "聚合短剧",
+            "name": "聚合短剧",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/聚合短剧.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "永乐视频",
+            "name": "永乐视频",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/永乐视频.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
 
+{
+  "key": "新韩剧网",
+  "name": "新韩剧网(py)",
+  "type": 3,
+  "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/新韩剧网.min.py",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {}
+},
 
 
 
@@ -1167,6 +1244,7 @@
         }
     ]
 }
+
 
 
 
