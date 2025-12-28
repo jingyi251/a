@@ -235,6 +235,40 @@
             "changeable": 1
     },
 {
+            "key": "可可影视[优]",
+            "name": "可可影视[优]",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/可可影视[优].js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+{
+            "key": "界影视",
+            "name": "界影视",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/界影视.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+  "key": "永乐视频",
+  "name": "永乐视频",
+  "type": 4,
+  "api": "http://zhangqun1818.serv00.net:5052/?sp=永乐视频",
+  "style": {
+    "type": "rect",
+    "ratio": 1.33
+  },
+  "changeable": 1
+ },
+{
             "key": "embyjs",
             "name": "embyjs",
             "type": 3,
