@@ -1,6 +1,6 @@
 //  王二小      https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1765824347239XW9m5i.txtd
 //  肥猫      https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png
-//饭太硬   https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg
+//饭太硬   https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg
 //  ok   http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg
 //小米   https://img2.gelonghui.com/library/26c48-e3487e20-44ba-4e37-8953-f4fbba99daed.png
 {
@@ -83,10 +83,11 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },
 
 {
+           {
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
             "type": 3,
@@ -95,7 +96,148 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0=",
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
+
+        {
+            "key": "苹果",
+            "name": "🍎苹果┃秒播",
+            "type": 3,
+            "api": "csp_LiteAppleGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "剧圈",
+            "name": "🐻剧圈┃多线",
+            "type": 3,
+            "api": "csp_JqqGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
+        },
+        {
+            "key": "下饭",
+            "name": "🍙下饭┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+        },
+        {
+            "key": "极狐",
+            "name": "🦊极狐┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+Szfz8zv0jAjao20UU0cIAxL6DQ15qJ1O+BZw910sXeeL8VPwXcg/2xjQv8/GZnOrqqcWiP4CKLWif2sVyC8ihYjNklP7o6mQAL7VoFMG5d5pWhXSwS1CO7g1gaj"
+        },
+        {
+            "key": "猫猫",
+            "name": "🐟猫猫┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TzO2dLnkGttKsG/VQlfYhse6W4krqxpf/pTg9dmsH2eb8NUmmkm4DhzFe8kHZ7PrOyQVnHyAuvclaK0T3HznC8qJ0VbobLPPUC2PY8SEZ0l7m9RXRytWuzjxkX4Dg=="
+        },
+        {
+            "key": "橘子",
+            "name": "🍊橘子┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+wpBsGA6aydW3fmWrXH1ve0HjKxzV5kNEdcrI7mT1i2DMtcTIh17XhLS0CiSqizjQaqBYcSlQY="
+        },
+        {
+            "key": "鲸鱼",
+            "name": "👀鲸鱼┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+        },
+        {
+            "key": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "奥特",
+            "name": "🏝奥特┃多线",
+            "type": 3,
+            "api": "csp_AueteGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "荐片",
+            "name": "🐭荐片┃P2P",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "新6V",
+            "name": "🧲新6V┃磁力",
+            "type": 3,
+            "api": "csp_SixVGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xb6v.com/"
+        },
+        {
+            "key": "Dm84",
+            "name": "🚌巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84Guard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },,
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },	
         {
             "key": "厂长",
@@ -107,7 +249,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },
 		{
             "key": "鲸鱼",
@@ -119,7 +261,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p",
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },
        
 		{
@@ -133,7 +275,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT9fFAy5mE5qU=",
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },
 		 {
             "key": "荐片",
@@ -145,7 +287,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },
 		 {
             "key": "热播",
@@ -158,7 +300,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
         },
  {
      "key":"苹果",
@@ -169,7 +311,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+     "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
    },
   {
             "key": "文采",
@@ -181,7 +323,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
    },
  {
             "key": "剧圈",
@@ -192,7 +334,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/e45d7eb1cecead58dd5aca7e089dadf6.jpg"
+            "jar":"https://oss4liview.moji.com/thd_file/2026/01/04/3aa1c018f51a14055a1e863ee888f1b6.jpg"
    },
 
 
