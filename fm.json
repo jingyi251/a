@@ -349,7 +349,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php",
+	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
             }
@@ -366,7 +366,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-			"jar": "http://我不是.摸鱼儿.com/d/moyu.php",
+			"jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "ext": {
                 "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
             }
@@ -382,7 +382,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "ext": {
                 "url": "",
                 "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
@@ -398,7 +398,7 @@
             "name": "🐹仓鼠┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "api": "csp_AppQi",
             "ext": {
                 "url": "",
@@ -424,7 +424,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "ext": {
                 "url": "https://www.zjkrmv.vip",
                 "site": "",
@@ -441,7 +441,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "ext": {
                 "url": "",
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
@@ -458,7 +458,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "ext": {
                 "url": "https://guowaiju.com",
                 "site": "",
@@ -474,65 +474,6 @@
 
 
 //  ok 
- {
-            "key": "csp_Ddys",
-            "name": "🍄低端┃在线",
-            "type": 3,
-            "api": "csp_DdysGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "timeout": 30,
-           "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75"
-        },
-{
-     "key": "文才",
-      "name": "🌺文才┃在线",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "searchable": 1,
-       "quickSearch": 1,
-       "changeable": 1,
-       "filterable": 1,
-       "timeout": 10,
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75"
-    },
-    {
-        "key": "小苹果",
-        "name": "🍎苹果┃直连",
-         "type": 3,
-         "api": "csp_XpgGuard",
-         "searchable": 1,
-         "quickSearch": 1,
-         "changeable": 1,
-         "filterable": 1,
-         "timeout": 10,
-         "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75"
-    },
-{
-            "key": "锦鲤短剧",
-            "name": "🐟锦鲤┃短剧",
-            "type": 3,
-            "api": "csp_JinliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75"
-    },
-        {
-            "key": "星芽短剧",
-            "name": "💖星芽┃短剧",
-            "type": 3,
-            "api": "csp_AppXYGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1ibilbZx.png;md5;8071c068a90712a4f01fb7f447a2ef75"
-  },
-
 
 
 
