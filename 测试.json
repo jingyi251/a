@@ -1,14 +1,14 @@
 //  肥猫      https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png
-//  ok   http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg
+//  王二小 https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
 //  当前接口：https://9877.kstore.space/AnotherD/api.json
 
 {
-    "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260103/oDWr/01030041.png;md5;adabfce4b28d756777420f84794da8c1",
+    "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260109/AYrG/01092115.png;md5;929fc6c07304e8c939caad9bb28e1758",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
  "lives": [
 
-	  {
+ {
             "name": "jake",
             "type": 0,
             "url": "https://smart.946985.filegear-sg.me/sub.php?user=tg_Jessica",
@@ -24,8 +24,8 @@
             "timeout": 10,
             "ua": "bingcha/1.1(mianfeifenxiang)"
         },
-
-        {
+           
+               {
             "name": "MIGU",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
@@ -856,31 +856,227 @@
             }
         },
 
-//  ok 
+//  王二小
  
 {
-            "key": "锦鲤短剧",
-            "name": "🐟锦鲤┃短剧",
-            "type": 3,
-            "api": "csp_JinliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-      "jar": "http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg"
+      "key": "WexGuaZi",
+      "name": "💥瓜子┃秒播💥",
+      "type": 3,
+      "api": "csp_WexGuaZiGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
     },
-        {
-            "key": "星芽短剧",
-            "name": "💖星芽┃短剧",
-            "type": 3,
-            "api": "csp_AppXYGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-      "jar": "http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg"
-  },
 
+    {
+      "key": "賤賤",
+      "name": "💥贱片┃秒播💥",
+      "type": 3,
+      "api": "csp_WexJianPianGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexWenCai",
+      "name": "💥文才┃秒播💥",
+      "type": 3,
+      "api": "csp_WexWenCaiGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexXiaoPingGuo",
+      "name": "💥苹果┃秒播💥",
+      "type": 3,
+      "api": "csp_WexXiaoPingGuoGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexDuBoKu",
+      "name": "💥独播┃秒播💥",
+      "type": 3,
+      "api": "csp_WexDuBoKuGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	{
+      "key": "WexYueYue",
+      "name": "💥闪电┃秒播💥",
+      "type": 3,
+      "api": "csp_WexYueYueGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	{
+      "key": "WexYiYs",
+      "name": "💥伊影┃秒播💥",
+      "type": 3,
+      "api": "csp_WexYiYsGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexKaFei",
+      "name": "💥咖啡┃秒播💥",
+      "type": 3,
+      "api": "csp_WexKaFeiGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexReBo",
+      "name": "💥热播┃秒播💥",
+      "type": 3,
+      "api": "csp_WexReBoGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexYunYun",
+      "name": "💥云云┃秒播💥",
+      "type": 3,
+      "api": "csp_WexYunYunGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	{
+      "key": "WexXiongYing",
+      "name": "💥雄鹰┃秒播💥",
+      "type": 3,
+      "api": "csp_WexXiongYingGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexBoBo",
+      "name": "🎇伯伯┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBoBoGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "WexBtTwo",
+      "name": "🎇鼻涕┃秒播🎇",
+      "type": 3,
+      "api": "csp_WexBtTwoGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+    {
+      "key": "新6V",
+      "name": "🎇新6V┃磁力🎇",
+      "type": 3,
+      "api": "csp_WexXb6vGuard",
+      "searchable": 1,
+      "changeable": 0,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	{
+      "key": "WexIkanBot",
+      "name": "🎇爱看┃采集🎇",
+      "type": 3,
+      "api": "csp_WexIkanBotGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+   	 {
+      "key": "DuanJuHaoKan",
+      "name": "🍉短剧┃好看🍉",
+      "type": 3,
+      "api": "csp_DuanJuHaoKanGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	 {
+      "key": "DuanJuQiMiao",
+      "name": "🍉短剧┃小猫🍉",
+      "type": 3,
+      "api": "csp_DuanJuQiMiaoGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	 {
+      "key": "DuanJuHeMa",
+      "name": "🍉短剧┃小马🍉",
+      "type": 3,
+      "api": "csp_DuanJuHeMaGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	 {
+      "key": "DuanJuXingYa",
+      "name": "🍉短剧┃星星🍉",
+      "type": 3,
+      "api": "csp_DuanJuXingYaGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	 {
+      "key": "DuanJuSuiPian",
+      "name": "🍉短剧┃碎片🍉",
+      "type": 3,
+      "api": "csp_DuanJuSuiPianGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+	 {
+      "key": "DuanJuJinLi",
+      "name": "🍉短剧┃小丽🍉",
+      "type": 3,
+      "api": "csp_DuanJuJinLiGuard",
+      "searchable": 1,
+      "changeable": 1,
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
+
+        {
+      "key": "BookShiJie",
+      "name": "🎃‍极品┃听书🎃",
+      "type": 3,
+      "api": "csp_BookShiJieGuard",
+      "searchable": 1,
+      "changeable": 1},
+            "jar": " https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
+    },
   //        肥猫
                         {
             "key": "酷狗",
@@ -1030,7 +1226,8 @@
             "filterable": 1,
             "api": "https://mpimg.cn/down.php/83ae8f8cc97b67604a88af193deb54bb.py",
             "order_num": 5,
-            "ext": ""
+            "ext": "",
+            "jar": "https://edgeone.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xbpq.jar"
         },
 
       
