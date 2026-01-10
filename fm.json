@@ -337,137 +337,364 @@
 
 
 //摸鱼
-     {
-            "key": "Bili",
-            "name": "🅱哔哔合集┃4K弹幕",
+      {
+            "key": "bili",
+            "name": "哔哩哔哩",
             "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
+            "api": "csp_Bili",
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-	        "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
+            "quickSearch": 1,
             "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
-            }
+                "cookie": ""
+            },
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
         {
-            "key": "Biliych",
-            "name": "🅱演唱会集┃4K弹幕",
+            "key": "CZ",
+            "name": "厂长资源",
             "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
+            "api": "csp_CZ",
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-			"jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
-            "ext": {
-                "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
-            }
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://www.czzymovie.com",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
 
-   
+        {
+            "key": "Jpys",
+            "name": "金牌视频",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
 
+        {
+            "key": "Rebo",
+            "name": "热播视频",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            },
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
 
+        {
+            "key": "Guazi",
+            "name": "瓜子资源",
+            "type": 3,
+            "api": "csp_Guazi",
+            "searchable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
 
- {
-            "key": "咖啡",
-            "name": "☕️咖啡┃超清┃弹幕",
+        {
+            "key": "bimoxinghe",
+            "name": "笔墨星河",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_AppYsV2",
+            "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A=",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Jianpian",
+            "name": "荐片视频",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "filterable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "ext": "https://www.zxzjhd.com",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Libvio",
+            "name": "立播视频",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": {
+                "site": "https://www.libvio.app"
+            },
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Jinpaijm",
+            "name": "金牌应用",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA==",
+            "changeable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "huahua",
+            "name": "花花视频",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_AppFox",
+            "ext": "p+FPtr6fYIfomOnA4N4Sl0dFvFqJvfkho3Yem3nNyo6peH9nVFr0wIIfo96V7voEHGrq+0mvfYjwri/nkrWITQ==",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "jumeng",
+            "name": "剧梦视频",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "N5u2FS3i/elUFAoSVYBznb2XBsH21Pu8ka/X8qXgAK2VPcUud/asZs4ML65ngDd3ob1Y/WEaAS/XqMkeQchxAs1tgVw2qnUZJoLNHj6pVZm+8OiyK5gYaZals2ovboy6",
+            "changeable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "shuzi",
+            "name": "数字视频",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": "ij8RUkhocZ9ruRgraOrV50cdijznPXJjPSmDdoI59PzF/K2UT7pKnau1ohLhZpTHxdrsBe+l0Qca19BaNsP0tMwh5qgX5Vzp8djZcM8TGlBmgxUOngKyNKQe04jcTDCX",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "baige",
+            "name": "白鸽视频",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": "N5u2FS3i/elUFAoSVYBzndHyWmPoQhZsTIJ5ve8B5RdbojKSoqbNo9TORMUWkv2seRAMOLNXC0kGo4lOAL64Xk7pAb68ZHIckNJyo2vC4NFuLci8sMhhnj60v/nDbU1U",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "aiying",
+            "name": "爱盈视频",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "sCnv2gwYzALZxDcfyX62oSKxLlLfPpOEf+mKvMQvSpMDoEavlzj4ib+jrumGW1Thrn8REq84SGVeJzq6F/vNAQbZlJ0rkT2djKJq4bTW1XFoW302XV0p+ZSEqBozzdjbdOxaZv+zZWCbSmIlsvXQU5cnwEBCx4/vTVK7uRAHKMytMSWmTqvFCAsCim4kXYme",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Guwo",
+            "name": "顾我视频",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "sCnv2gwYzALZxDcfyX62odvj29IK9rBjcucXypKIufFdmPNgdqJ1QC3/1tU5BzpE6QRHyZZhpYE2iANvQyJEcJnbxot6ElLhqczbYD9E7Gx0ZX5Ndfe/gYfH96S/3Bh/ZnBuT8RppP0xfvhJLL9XtgVCfYQom4JnY6Ax5y9Q9ihBWCa4RFS/Hzwz8+j3Ro/8nxwNFEf5J1MQD7xUihD4PQ==",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Cangshu",
+            "name": "仓鼠视频",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
-            "ext": {
-                "url": "",
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-                "dataKey": "37kj83zs1q16jk6t",
-                "dataIv": "37kj83zs1q16jk6t",
-                "deviceId": "",
-                "version": "101",
-                "ua": ""
-            }
+            "ext": "sCnv2gwYzALZxDcfyX62oU5WQkrrls9RmlBFANGm63njwlAIzmedjdoNo6sg4fA61BJQWaOKuP4gcUzdcgr/eQ0/xUFHrBuL/BhUmgc59s2AShZHvKfpqHq3l4bsWmELcFmGjlr2D/+7Wv2do0s4c+bSmv6VVthXz7kj9aQ8Abil5n7PmZ/S+AlxLxllUIaU0CWfA/vMYL/AxbwgZlH2Nw==",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
-{
-            "key": "仓鼠",
-            "name": "🐹仓鼠┃超清┃弹幕",
+
+        {
+            "key": "Jingyu",
+            "name": "鲸鱼视频",
             "type": 3,
             "quickSearch": 1,
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
             "api": "csp_AppQi",
-            "ext": {
-                "url": "",
-                "site": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt",
-                "dataKey": "da61247f5b662597",
-                "dataIv": "da61247f5b662597",
-                "deviceId": "",
-                "version": "120"
-            }
+            "ext": "sCnv2gwYzALZxDcfyX62oZ+IU0AyvsGMnyyhtaWmhS1Cnf/YszSw+hAfankjknvF2e0ym7cXiVpYRg3GDCbOHZOs6Xq5UnFHXB4iUCElNZeIeC99mNU4iKOz6wnCThCbO4u9hQotX7aO/JSsJT/KC6Dh95YCFad3n8Tf6kSSz2Dl1E3yrn3190D5BBWJtjIo",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
- {
-            "key": "醉挽清风",
-            "name": "♨️醉挽清风┃4K纯净",
-            "type": 4,
-            "api": "http://我不是.摸鱼儿.top/api/yuyutx.php",
+
+        {
+            "key": "Xiaozhu",
+            "name": "小猪视频",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": "sCnv2gwYzALZxDcfyX62oSrS2f56gC6PfB9fUMobU8tFCjY2XWcaioCX4TeXapR9mhHvCc2Qbqw2o3+TIKUevhOHBVYn3mS0V96FB6CX80m4eAYj3+E63PGY3DXkUiZrkU17g2F5ATf8TeTPcDUFWGgQ2D/6vke0un+2TcUNlP84p51Lqmovhijo6ADPlzV48F16ydyOI8NH0KWXNLc3ig==",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Yunyun",
+            "name": "云云视频",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+            "ext": "sCnv2gwYzALZxDcfyX62oXau36TAwGPWJQM5HukwC/t03nAE412fGglV43GvCzvMmcXvxGHi3FBbhKuWPsq1PI72H6CXEzX9I+nFeFHjBnMuRuB5BgkWGUzQevgXd5yW4M7bWEBM9JH2gOo1VBrfLt2+nk9sHARrStb7Vdl0bnmbbPs13qDJ+r+99OwKOgkx",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Kvm4k",
+            "name": "流光溢彩",
+            "type": 3,
+            "api": "csp_Kvm4k",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.4kvm.me",
+                    "https://www.4kvm.tv",
+                    "https://www.4kvm.org"
+                ]
+            },
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Xpg",
+            "name": "小苹果站",
+            "type": 3,
+            "api": "csp_Xpg",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "filterable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
-         {
-            "key": "狂人",
-            "name": "🌀狂人┃超清┃弹幕",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
-            "ext": {
-                "url": "https://www.zjkrmv.vip",
-                "site": "",
-                "dataKey": "vXeyuJFqTKqWUtWU",
-                "dataIv": "vXeyuJFqTKqWUtWU",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
+
         {
-            "key": "驿站",
-            "name": "🕶️驿站┃超清┃弹幕",
+            "key": "TvDy",
+            "name": "天堂资源",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
-            "ext": {
-                "url": "",
-                "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-                "dataKey": "dyyztvapiappyyds",
-                "dataIv": "dyyztvapiappyyds",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
+            "api": "csp_TvDy",
+            "searchable": 1,
+            "filterable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
+
         {
-            "key": "外剧",
-            "name": "🌀外剧┃超清┃弹幕",
+            "key": "YsSo",
+            "name": "资源搜索",
             "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7",
-            "ext": {
-                "url": "https://guowaiju.com",
-                "site": "",
-                "dataKey": "7xv16h7qgkrs9b1p",
-                "dataIv": "7xv16h7qgkrs9b1p",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
+            "api": "csp_YsSo",
+            "searchable": 1,
+            "ext": "https://ysso.cc",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "MqTv",
+            "name": "麻雀视频",
+            "type": 3,
+            "api": "csp_MqTv",
+            "searchable": 1,
+            "ext": "https://www.mqtv.cc",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Xb6v",
+            "name": "六V视频",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "filterable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "Ikanbot",
+            "name": "爱看机器",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "ReBoYingShi",
+            "name": "雪映芳辰",
+            "type": 3,
+            "api": "csp_ReBoYingShi",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "DianYingYunJi",
+            "name": "河清海晏",
+            "type": 3,
+            "api": "csp_DianYingYunJi",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "XiaoHongYS",
+            "name": "小红视频",
+            "type": 3,
+            "api": "csp_XiaoHongYS",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "KnVod",
+            "name": "柯南视频",
+            "type": 3,
+            "api": "csp_KnVod",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "BroVods",
+            "name": "兄弟视频",
+            "type": 3,
+            "api": "csp_BroVods",
+            "searchable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+        },
+
+        {
+            "key": "SeedHub",
+            "name": "种子仓库",
+            "type": 3,
+            "api": "csp_SeedHub",
+            "searchable": 1,
+            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
         },
 
 
