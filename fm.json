@@ -1,8 +1,13 @@
-//  没有王二小      https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249
-//  肥猫      https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d
-//饭太硬  https://oss4liview.moji.com/thd_file/2026/01/10/233b0eee5840dc2c01b8a154e9d572bb.jpg;md5;72d5157673877b07566a97f11c4761df
-//  ok   http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg
-//小米   https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4b757687785f9fa1/0108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac
+//  没有王二小     https://9280.kstore.vip/newwex.json                
+//https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249
+//  肥猫   http://肥猫.com      
+// https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d
+//饭太硬  http://www.饭太硬.com/tv    
+//   https://oss4liview.moji.com/thd_file/2026/01/10/233b0eee5840dc2c01b8a154e9d572bb.jpg;md5;72d5157673877b07566a97f11c4761df
+//  ok   http://ok321.top/ok        
+//  http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg
+//小米  https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json              
+// https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4b757687785f9fa1/0108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac
 {
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
@@ -335,20 +340,64 @@
             "changeable": 1
     },
 
+//老张  https://zhangqun1818.serv00.net/zq/api.json
 
-//摸鱼
-      {
+{
+            "key": "php集合",
+            "name": "php集合",
+            "type": 4,
+            "api": "../php.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://zhangqun1818.serv00.net/zq//fm.jar"
+        },
+
+        {
+            "key": "python集合",
+            "name": "python集合",
+            "type": 4,
+            "api": "../py.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://zhangqun1818.serv00.net/zq//fm.jar"
+        },
+
+{
             "key": "bili",
-            "name": "哔哩哔哩",
+            "name": "哔哩fm",
             "type": 3,
             "api": "csp_Bili",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
+            "changeable": 0,
             "ext": {
+                "type": "沙雕穿越#闽剧#福州评话#短剧#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
                 "cookie": ""
             },
-            "jar":"http://我不是.摸鱼儿.com/d/moyu.php;md5;66272be4057dd42b635f30a2b0d4c5d7"
+            "jar":"https://zhangqun1818.serv00.net/zq//fm.jar"
         },
+
+      
+
+
+
+
+
+
+//摸鱼
+     
         {
             "key": "CZ",
             "name": "厂长资源",
