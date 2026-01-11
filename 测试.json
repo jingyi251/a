@@ -132,24 +132,7 @@
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
 
-{
-            "key": "bili",
-            "name": "哔哩fm",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "type": "沙雕穿越#闽剧#福州评话#短剧#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-                "cookie": ""
-            },
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
+
 
 
 
