@@ -106,196 +106,194 @@
             "searchable": 0
         },
 
-//真心 https://tvbox.catvod.com/FongMi.json		
-{
-      "key": "賤賤",
-      "name": "賤賤",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1"
-      "ext": "https://tvbox.catvod.com/json/jianpian.json",
-      "jar":"https://tvbox.catvod.com/custom_spider.jar"
-    },
-{
-      "key": "Jpys",
-      "name": "金牌影视",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://www.ksnnhbj.com",
-        "commonConfig": "https://tvbox.catvod.com/json/peizhi.json"
-      },
-      "jar":"https://tvbox.catvod.com/custom_spider.jar"
-    },
- {
-      "key": "聚合短剧",
-      "name": "聚合短剧",
-      "type": 3,
-      "api": "csp_JuheShortDrama",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "host": {
-          "百度": "https://api.jkyai.top",
-          "甜圈": "https://mov.cenguigui.cn",
-          "锦鲤": "https://api.jinlidj.com",
-          "番茄": "https://reading.snssdk.com",
-          "番茄2": "https://fqgo.52dns.cc",
-          "星芽": "https://app.whjzjx.cn",
-          "星芽登录": "https://u.shytkjgs.com",
-          "西饭": "https://xifan-api-cn.youlishipin.com",
-          "七猫": "https://api-store.qmplaylet.com",
-          "七猫详情": "https://api-read.qmplaylet.com",
-          "围观": "https://api.drama.9ddm.com",
-          "碎片": "https://free-api.bighotwind.cc",
-          "碎片图片": "https://speed.hiknz.com"
+        //真心 https://tvbox.catvod.com/FongMi.json
+        {
+            "key": "賤賤",
+            "name": "賤賤",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://tvbox.catvod.com/json/jianpian.json",
+            "jar": "https://tvbox.catvod.com/custom_spider.jar"
         },
-        "commonConfig": "https://tvbox.catvod.com/json/peizhi.json"
-      },
-      "jar":"https://tvbox.catvod.com/custom_spider.jar"
-    },
- {
-      "key": "360资源",
-      "name": "360资源-采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/seaxml/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ],
-      "jar":"https://tvbox.catvod.com/custom_spider.jar"
-    },
-    {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-    {
-      "key": "豆瓣采集资源",
-      "name": "豆瓣 | 采集",
-      "type": 1,
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://tvbox.catvod.com/custom_spider.jar"
-    },
-    {
-      "key": "量子",
-      "name": "量子",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://tvbox.catvod.com/custom_spider.jar",
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
-      ],
-      "jar":"https://tvbox.catvod.com/custom_spider.jar"
-    },
-
+        {
+            "key": "Jpys",
+            "name": "金牌影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://www.ksnnhbj.com",
+                "commonConfig": "https://tvbox.catvod.com/json/peizhi.json"
+            },
+            "jar": "https://tvbox.catvod.com/custom_spider.jar"
+        },
+        {
+            "key": "聚合短剧",
+            "name": "聚合短剧",
+            "type": 3,
+            "api": "csp_JuheShortDrama",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "host": {
+                    "百度": "https://api.jkyai.top",
+                    "甜圈": "https://mov.cenguigui.cn",
+                    "锦鲤": "https://api.jinlidj.com",
+                    "番茄": "https://reading.snssdk.com",
+                    "番茄2": "https://fqgo.52dns.cc",
+                    "星芽": "https://app.whjzjx.cn",
+                    "星芽登录": "https://u.shytkjgs.com",
+                    "西饭": "https://xifan-api-cn.youlishipin.com",
+                    "七猫": "https://api-store.qmplaylet.com",
+                    "七猫详情": "https://api-read.qmplaylet.com",
+                    "围观": "https://api.drama.9ddm.com",
+                    "碎片": "https://free-api.bighotwind.cc",
+                    "碎片图片": "https://speed.hiknz.com"
+                },
+                "commonConfig": "https://tvbox.catvod.com/json/peizhi.json"
+            },
+            "jar": "https://tvbox.catvod.com/custom_spider.jar"
+        },
+        {
+            "key": "360资源",
+            "name": "360资源-采集",
+            "type": 1,
+            "api": "https://360zy.com/api.php/seaxml/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ],
+            "jar": "https://tvbox.catvod.com/custom_spider.jar"
+        },
+        {
+            "key": "非凡",
+            "name": "非凡",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },
+        {
+            "key": "豆瓣采集资源",
+            "name": "豆瓣 | 采集",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tvbox.catvod.com/custom_spider.jar"
+        },
+        {
+            "key": "量子",
+            "name": "量子",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "https://tvbox.catvod.com/custom_spider.jar",
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "体育",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克"
+            ]
+        },
 
 
 
@@ -1123,54 +1121,7 @@
             }
         },
 
-//  王二小
- 
-  //        肥猫
-                        {
-            "key": "酷狗",
-            "name": "🐾┃酷狗┃音乐",
-            "type": 3,
-            "api": "csp_Kugou",
-            "playerType": 2,
-            "ext": {
-                "classes": [
-                    {
-                        "type_name": "酷狗",
-                        "type_id": "kugou"
-                    }
-                ]
-            },
-            "jar": " https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-        },
-        {
-            "key": "MTV",
-            "name": "🎧┃明星┃MV",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": " https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-        },
-        {
-            "key": "喜马拉雅",
-            "name": "🎮┃喜马┃听书",
-            "type": 3,
-            "api": "http://hello.xn--z7x900a.com/喜马拉雅.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "ext": "",
-            "jar": " https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
-        },
-	{
+{
       "key": "🍊Boba影视🍊",
       "name": "🍊Boba影视🍊",
       "type": 0,
@@ -1273,6 +1224,53 @@
             "order_num": 5,
             "ext": "",
             "jar": "https://edgeone.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xbpq.jar"
+        },
+
+ 
+  //        肥猫
+                        {
+            "key": "酷狗",
+            "name": "🐾┃酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Kugou",
+            "playerType": 2,
+            "ext": {
+                "classes": [
+                    {
+                        "type_name": "酷狗",
+                        "type_id": "kugou"
+                    }
+                ]
+            },
+            "jar": " https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+        },
+        {
+            "key": "MTV",
+            "name": "🎧┃明星┃MV",
+            "type": 3,
+            "api": "csp_Bili",
+            "playerType": 2,
+            "ext": {
+                "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "jar": " https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
+        },
+        {
+            "key": "喜马拉雅",
+            "name": "🎮┃喜马┃听书",
+            "type": 3,
+            "api": "http://hello.xn--z7x900a.com/喜马拉雅.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "ext": "",
+            "jar": " https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png"
         },
 
       
