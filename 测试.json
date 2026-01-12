@@ -10,8 +10,10 @@
 {
       "name": "catvod.com",
       "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u"
-    },
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "playerType": 2,
+      "timeout": 10
+ },
  {
             "name": "jake",
             "type": 0,
