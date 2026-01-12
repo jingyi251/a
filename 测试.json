@@ -325,8 +325,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext":"2"
-            "changeable": 1,
+            "ext":"0",
+            "changeable": 0,
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
 
@@ -1228,7 +1228,7 @@
 
  
   //        肥猫
-                        {
+       {
             "key": "酷狗",
             "name": "🐾┃酷狗┃音乐",
             "type": 3,
