@@ -113,7 +113,7 @@
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1"
       "ext": "https://tvbox.catvod.com/json/jianpian.json",
       "jar":"https://tvbox.catvod.com/custom_spider.jar"
     },
