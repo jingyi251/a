@@ -7,6 +7,17 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
  "lives": [
+
+{
+            "name": "jake",
+            "type": 0,
+            "url": "https://taoiptv.com/lives/21024.txt?token=e14f8acb2d1840a2",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
+
+
 {
       "name": "catvod.com",
       "type": 0,
