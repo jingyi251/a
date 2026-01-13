@@ -8,8 +8,18 @@
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
  "lives": [
 
+
 {
-            "name": "jake",
+      "name": "catvod.com",
+      "type": 0,
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+
+ },
+{
+            "name": "淘TV",
             "type": 0,
             "url": "https://taoiptv.com/lives/21024.txt?token=e14f8acb2d1840a2",
             "playerType": 2,
@@ -18,13 +28,6 @@
         },
 
 
-{
-      "name": "catvod.com",
-      "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u",
-      "playerType": 2,
-      "timeout": 10
- },
  {
             "name": "jake",
             "type": 0,
