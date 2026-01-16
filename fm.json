@@ -8,6 +8,9 @@
 //  http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg
 //小米  https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json              
 // https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/4b757687785f9fa1/0108.jpg;md5;c2d95a316fb2e52c5f1efdd8ab87e6ac
+
+//香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
+
 {
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
@@ -18,14 +21,16 @@
 {
       "name": "catvod.com",
       "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u"
-    },
+      "url": "https://iptv.catvod.com/tv.m3u",
+      "playerType": 2,
+      "timeout": 10
+ },
 
 
    {
             "name": "冰茶",
             "type": 0,
-            "url": "https://bc.188766.xyz/?url=https://live.ottiptv.cc",
+            "url": "https://bc.188766.xyz/?url=http://live.metshop.top",
             "playerType": 2,
             "timeout": 10,
             "ua": "bingcha/1.1(mianfeifenxiang)"
@@ -973,7 +978,7 @@
     },
 
 
-//小米
+//香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
        
 
 
@@ -981,206 +986,30 @@
 
 
 
+ {"key": "csp_XYQHiker_短剧五五","name":"🎬短剧五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/短剧五五.json"},
 
-  //        肥猫
-                {
-            "key": "csp_Bili",
-            "name": "🅱┃️哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "./bili.json",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_Dm84",
-            "name": "🤣┃动漫┃巴士",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Dm84",
-            "ext": "https://dm84.net",
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_FourK",
-            "name": "🌋┃绝对┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_FourK",
-            "ext": "https://www.4kvm.tv",
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_FirstAid",
-            "name": "🚑┃急救┃教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            },
-            "gridview": "0-0-4.1",
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "酷狗",
-            "name": "🐾┃酷狗┃音乐",
-            "type": 3,
-            "api": "csp_Kugou",
-            "playerType": 2,
-            "ext": {
-                "classes": [
-                    {
-                        "type_name": "酷狗",
-                        "type_id": "kugou"
-                    }
-                ]
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "MTV",
-            "name": "🎧┃明星┃MV",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "喜马拉雅",
-            "name": "🎮┃喜马┃听书",
-            "type": 3,
-            "api": "http://hello.xn--z7x900a.com/喜马拉雅.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "ext": "",
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "看球",
-            "name": "⚾┃看球┃直播",
-            "type": 3,
-            "api": "csp_Kanqiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "drpy_js_310直播",
-            "name": "🏀┃体育┃直播",
-            "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            },
-            "ext": "https://img2.gelonghui.com/library/d6014-7a5d5b19-3fe5-456a-8335-925bc845606fnull",
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "儿童",
-            "name": "📚┃儿童┃启蒙",
-            "type": 3,
-            "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_少儿",
-            "name": "📚┃少儿┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "https://img2.gelonghui.com/library/1903b-eb0f1675-2437-4e72-bcf0-427b1626d79fnull",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_小学",
-            "name": "📚┃小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "https://img2.gelonghui.com/library/a1140-144855fe-3eaa-44f3-b689-6812c233de54null",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_初中",
-            "name": "📚┃初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "https://img2.gelonghui.com/library/ba156-73e16cad-8257-4f33-b8c0-e051e72e546dnull",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
-        },
-        {
-            "key": "csp_高中",
-            "name": "📚┃高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-            "ext": {
-                "json": "https://img2.gelonghui.com/library/e44b3-4a82ab48-e014-49b2-bb66-ee5207e8f195null",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
-            "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d" 
-        }  
+  {"key":"csp_Bili","name":"🐞哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/Bili.json"},
+        {"key":"csp_Bili幼儿","name":"🐞哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/幼儿乐园.json"},
+        {"key":"csp_Bili少儿","name":"🐞哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/少儿教育.json"},
+        {"key":"csp_Bili小学","name":"🐞哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/小学课堂.json"},
+        {"key":"csp_Bili初中","name":"🐞哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/初中课堂.json"},
+        {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/高中课堂.json"},
+        //{"key":"JS哔哩直播","name":"哔哩直播[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/哔哩直播.js"},
+        {"key": "csp_XYQHiker_戏曲多多","name":"🎻戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/戏曲多多.json"},
+        //{"key": "csp_XYQHiker_酷奇MV","name":"🎤酷奇MV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/酷奇MV.json"},
+        //{"key": "csp_XYQHiker_短剧屋","name":"🎬短剧屋","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/短剧屋.json"},
+        //需要登入了{"key": "csp_XYQHiker_速剧","name":"速剧(短剧)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/速剧.json"},
+        {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝.json"},
+        {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝2.json"},
+        {"key": "csp_XYQHiker_播视童趣","name":"👶🏻播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/播视童趣.json"},
+        {"key": "csp_XYQHiker_风车动漫","name":"🌪风车动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/风车动漫.json"},
+        {"key": "csp_XYQHiker_樱花动漫","name":"🌸樱花动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/樱花动漫.json"},
+        {"key": "csp_XYQHiker_去看吧动漫","name":"🔭去看吧动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/去看吧动漫.json"},
+        {"key": "csp_XYQHiker_嗷呜动漫","name":"🙀嗷呜动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/嗷呜动漫.json"},
+        {"key": "csp_XYQHiker_动漫巴士","name":"🚌动漫巴士(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/动漫巴士.json"},
+        {"key": "csp_XYQHiker_番茶动漫","name":"番茶动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/番茶动漫.json"},
+        {"key": "csp_XYQHiker_age动漫","name":"AGE动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/age动漫.json"}
+       
  ],    
   
     "parses": [
@@ -1379,6 +1208,5 @@
     ],
     "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","api.htpan.net"]
 }
-
 
 
