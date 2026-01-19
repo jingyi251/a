@@ -255,6 +255,30 @@
             "changeable": 1,
             "jar":"https://oss4liview.moji.com/thd_file/2026/01/19/b265333a17ecfbd97fcec88180c1b7e4.jpg;md5;a723216704490fa7b2d9151c3e4fa7c6"
          },
+
+//老张  https://zhangqun1818.serv00.net/zq/api.json
+
+
+        {
+            "key": "python集合",
+            "name": "python集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+        },
+
+
+
+
+
+
+
      //真心 https://tvbox.catvod.com/FongMi.json
       
         {
@@ -531,23 +555,6 @@
             },
             "changeable": 1
     },
-
-//老张  https://zhangqun1818.serv00.net/zq/api.json
-
-
-        {
-            "key": "python集合",
-            "name": "python集合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/py.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
 
      //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config 
 
