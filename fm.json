@@ -256,31 +256,7 @@
             "jar":"https://oss4liview.moji.com/thd_file/2026/01/15/6def70dc641374d1db3aefb74eee762c.jpg;md5;43e551123db0c41dd70ace45fc226add"
          },
      //真心 https://tvbox.catvod.com/FongMi.json
-        {
-            "key": "賤賤",
-            "name": "賤賤",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.catvod.com/json/jianpian.json",
-            "jar": "https://tvbox.catvod.com/custom_spider.jar"
-        },
-        {
-            "key": "Jpys",
-            "name": "金牌影视",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://www.ksnnhbj.com",
-                "commonConfig": "https://tvbox.catvod.com/json/peizhi.json"
-            },
-            "jar": "https://tvbox.catvod.com/custom_spider.jar"
-        },
+      
         {
             "key": "聚合短剧",
             "name": "聚合短剧",
