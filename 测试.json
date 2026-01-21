@@ -8,7 +8,7 @@
     "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260121/Ear7/01210918.png;md5;ade313eb20c4b4009bc2a8531ff990b1",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-    "notice": "有肏屄视频",
+    "notice": "这里有肏屄视频，爱爱看吗？",
  "lives": [
 
 
@@ -320,29 +320,6 @@
 
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
-{
-            "key": "qnwPHP",
-            "name": "全能王PHP",
-            "type": 4,
-            "api": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/全能王.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
-{
-            "key": "爱瓜TV",
-            "name": "爱瓜TV",
-            "type": 4,
-            "api": "https://zhangqun1818.serv00.net/aigua1.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
 
 {
             "key": "js集合",
