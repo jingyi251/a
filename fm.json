@@ -12,14 +12,24 @@
     "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
     "lives": [
 
+//https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
 
+ {
+            "name": "👖猫影TV直播",
+            "type":0,
+            "url":"https://iptv.catvod.com/tv.m3u",
+            "ua":"Goiptv/8.8.8",
+            "timeout":10,
+            "playerType":2
+   },
 
-      {
-            "name": "catvod.com",
-            "type": 0,
-            "url": "https://iptv.catvod.com/tv.m3u"
-        },
+{ 
+"name": "👖裤佬TV直播",
+"type": 1,
+"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+},
 
+    
 
 
    {
