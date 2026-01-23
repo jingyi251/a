@@ -10,7 +10,16 @@
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "notice": "👖肏屄爱看吗👖",
  "lives": [
+//直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
+{
+            "name": "iptv-api",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "bingcha/1.1(mianfeifenxiang)"
+        },
 
 {
       "name": "catvod.com",
@@ -21,15 +30,6 @@
       "ua": "bingcha/1.1(mianfeifenxiang)"
 
  },
-{
-            "name": "淘TV",
-            "type": 0,
-            "url": "https://taoiptv.com/lives/21024.txt?token=e14f8acb2d1840a2",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "bingcha/1.1(mianfeifenxiang)"
-        },
-
 
  {
             "name": "jake",
