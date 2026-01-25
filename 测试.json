@@ -84,7 +84,6 @@
     ],
 
     "sites": [
-		
        {
             "key": "豆瓣",
             "name": "二〇｜二六",
@@ -118,7 +117,6 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-
         //真心 https://tvbox.catvod.com/FongMi.json
         {
             "key": "賤賤",
@@ -432,7 +430,115 @@
 
 
 
+//肏屄
+{
+      "key": "🍊Boba影视🍊",
+      "name": "🍊Boba影视🍊",
+      "type": 0,
+      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
 
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "悬疑片",
+        "剧情片",
+        "4K",
+        "国产剧",
+        "欧美剧",
+        "日韩剧",
+        "港剧",
+        "台剧",
+        "泰国剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "大陆动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画电影",
+        "布袋戏",
+        "Netflix电影",
+        "Netflix电视剧",
+        "短剧",
+        "纪录片",
+        "体育",
+        "日韩无码",
+        "欧美精品",
+        "国产精品",
+        "中文字幕",
+        "人妻系列",
+        "强奸乱伦",
+        "自拍偷拍",
+        "重口味"
+      ]
+    },
+ {
+            "key": "cam4",
+            "name": "cam4",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net:5052/?sp=cam4",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+        
+       {
+            "key": "松视开通2",
+            "name": "🈲🔞松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+ {
+            "key": "ss直播",
+            "name": "🔞ss直播",
+            "type": 3,
+            "api": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
+            "jar": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
+        },
+       {
+	     "key": "py_七区",
+	     "name": "七区(T3)",
+	     "type": 3,
+             "api": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/七区.py",
+             "quickSearch": 1,
+	     "searchable": 1,
+	     "filterable": 1,
+            "jar": "https://cdn.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xc.jar"
+	},
+{
+            "key": "MissAV-py",
+            "name": "🔞MissAV",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://mpimg.cn/down.php/83ae8f8cc97b67604a88af193deb54bb.py",
+            "order_num": 5,
+            "ext": "",
+            "jar": "https://edgeone.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xbpq.jar"
+        },
+
+
+
+//主接口
 
      {
             "key": "热播影视",
@@ -736,7 +842,19 @@
                 "version": "120"
             }
         },
-        
+        {
+            "key": "旗星",
+            "name": "旗星｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://ys.qist.top",
+                "dataKey": "2SWSPFxugBLPPOKo",
+                "dataIv": "2SWSPFxugBLPPOKo",
+                "version": "120"
+            }
+        },
        
         {
             "key": "哔哩视频",
@@ -790,7 +908,33 @@
             "type": 3,
             "api": "csp_SP360"
         },
+       
         {
+            "key": "人人",
+            "name": "人人｜4K",
+            "type": 3,
+            "api": "csp_RenRen"
+        },
+ {
+            "key": "即刻",
+            "name": "即刻｜4K",
+            "type": 3,
+            "api": "csp_Jike",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "双星",
+            "name": "双星｜4K",
+            "type": 3,
+            "api": "csp_ShuangXing",
+            "style": {
+                "type": "list"
+            }
+        },
+
+ {
             "key": "玩偶",
             "name": "玩偶｜4K",
             "type": 3,
@@ -1071,138 +1215,6 @@
                 ]
             }
         },
-        {
-            "key": "人人",
-            "name": "人人｜4K",
-            "type": 3,
-            "api": "csp_RenRen"
-        },
- {
-            "key": "即刻",
-            "name": "即刻｜4K",
-            "type": 3,
-            "api": "csp_Jike",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "双星",
-            "name": "双星｜4K",
-            "type": 3,
-            "api": "csp_ShuangXing",
-            "style": {
-                "type": "list"
-            }
-        },
-
-{
-      "key": "🍊Boba影视🍊",
-      "name": "🍊Boba影视🍊",
-      "type": 0,
-      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "悬疑片",
-        "剧情片",
-        "4K",
-        "国产剧",
-        "欧美剧",
-        "日韩剧",
-        "港剧",
-        "台剧",
-        "泰国剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "大陆动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "动画电影",
-        "布袋戏",
-        "Netflix电影",
-        "Netflix电视剧",
-        "短剧",
-        "纪录片",
-        "体育",
-        "日韩无码",
-        "欧美精品",
-        "国产精品",
-        "中文字幕",
-        "人妻系列",
-        "强奸乱伦",
-        "自拍偷拍",
-        "重口味"
-      ]
-    },
- {
-            "key": "cam4",
-            "name": "cam4",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=cam4",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
-        
-       {
-            "key": "松视开通2",
-            "name": "🈲🔞松视2",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
- {
-            "key": "ss直播",
-            "name": "🔞ss直播",
-            "type": 3,
-            "api": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
-            "jar": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
-        },
-       {
-	     "key": "py_七区",
-	     "name": "七区(T3)",
-	     "type": 3,
-             "api": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/七区.py",
-             "quickSearch": 1,
-	     "searchable": 1,
-	     "filterable": 1,
-            "jar": "https://cdn.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xc.jar"
-	},
-{
-            "key": "MissAV-py",
-            "name": "🔞MissAV",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://mpimg.cn/down.php/83ae8f8cc97b67604a88af193deb54bb.py",
-            "order_num": 5,
-            "ext": "",
-            "jar": "https://edgeone.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xbpq.jar"
-        },
-
- 
-  //        肥猫
             
         {
             "key": "锦鲤短剧",
