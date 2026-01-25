@@ -117,7 +117,12 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-
+{
+      "key": "T4-yinyue5",
+      "name": "🎵大全｜音乐",
+      "type": 4,
+      "api": "https://catbox.n13.club/t9/yinyue5.php"
+    },
         //真心 https://tvbox.catvod.com/FongMi.json
         {
             "key": "賤賤",
