@@ -84,6 +84,23 @@
     ],
 
     "sites": [
+
+//https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
+         {
+            "key": "直播转点播",
+            "name": "直播转点播",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
+            "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
+            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
+        },
+
+
+
+
+
        {
             "key": "豆瓣",
             "name": "二〇｜二六",
@@ -480,6 +497,16 @@
         "重口味"
       ]
     },
+{
+            "key": "色播",
+            "name": "LIVE",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/色播聚合.py",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar"
+        },
  {
             "key": "cam4",
             "name": "cam4",

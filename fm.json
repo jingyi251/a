@@ -81,6 +81,17 @@
 
 
 
+//https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
+         {
+            "key": "直播转点播",
+            "name": "直播转点播",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
+            "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
+            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
+        },
 
 //饭太硬
 
@@ -111,7 +122,6 @@
             "changeable": 0,
             "jar":"https://oss4liview.moji.com/thd_file/2026/01/26/19a68532f9cc373fb51fb4e3e7283c7f.jpg;md5;dcf87c6876047e7d41ce0b45a6b176e5"
      },
-       
         {
             "key": "剧圈",
             "name": "🐻剧圈┃多线",
