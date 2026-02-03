@@ -471,21 +471,18 @@
         },
 
 
-		       
+{
+            "key": "qnwPHP",
+            "name": "全能王PHP",
+            "type": 4,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/%E5%85%A8%E8%83%BD%E7%8E%8B%E7%BB%88%E7%AB%AF%E5%85%BC%E5%AE%B9%E4%BF%AE%E5%A4%8D%E7%89%88PC.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },		       
 		
 		
 
-{
-            "key": "及时雨PHP",
-            "name": "及时雨PHP",
-            "type": 4,
-            "api": "https://diwu.de5.net/XPG/及时雨.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
 {
             "key": "兄弟影视",
             "name": "兄弟影视",
