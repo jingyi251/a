@@ -423,28 +423,17 @@
 //哦
 
 {
-            "key": "及时雨PHP",
-            "name": "及时雨PHP",
+            "key": "独播库
+            "name": "独播库",
             "type": 4,
-            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/%E5%8F%8A%E6%97%B6%E9%9B%A8.php",
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "changeable": 1
         },
-		{
-            "key": "小苹果PHP",
-            "name": "小苹果PHP",
-            "type": 4,
-            "api": "https://diwu.de5.net/XPG/小苹果.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
-
+		
 
 
 //肏屄
