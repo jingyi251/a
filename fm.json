@@ -98,6 +98,107 @@
             "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
             "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
         },
+
+
+
+{
+            "key": "独播库",
+            "name": "独播库",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+{
+            "key": "兄弟影视",
+            "name": "兄弟影视",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/兄弟影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+{
+            "key": "鬼片之家",
+            "name": "鬼片之家",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/鬼片之家.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "金牌影院",
+            "name": "金牌影院",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/金牌影院.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+//{
+            //"key": "永乐视频 ",
+           // "name": "永乐视频 ",
+            //"type": 3,
+           // "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/永乐视频 .js",
+           // "style": {
+             //   "type": "rect",
+             //   "ratio": 1.33
+           // },
+           // "changeable": 1
+   // },
+//{
+            //"key": "韩剧网",
+            //"name": "韩剧网",
+            //"type": 3,
+           // "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/韩剧网.js",
+          //  "style": {
+             //   "type": "rect",
+              //  "ratio": 1.33
+          //  },
+            //"changeable": 1
+  //  },
+{
+            "key": "聚合短剧",
+            "name": "聚合短剧",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/聚合短剧.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "AppFox模板",
+            "name": "AppFox模板",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/AppFox模板.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+
+
+
+
+
+
+
 //香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
 
 {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
@@ -467,110 +568,6 @@ key":"荐片",
        
 		
 		
-{
-            "key": "AppFox模板",
-            "name": "AppFox模板",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/AppFox模板.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-
-
-{
-            "key": "独播库",
-            "name": "独播库",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-
-{
-            "key": "兄弟影视",
-            "name": "兄弟影视",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/兄弟影视.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-
-{
-            "key": "鬼片之家",
-            "name": "鬼片之家",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/鬼片之家.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-{
-            "key": "金牌影院",
-            "name": "金牌影院",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/金牌影院.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-{
-            "key": "永乐视频 ",
-            "name": "永乐视频 ",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/永乐视频 .js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-
-		{
-            "key": "apple",
-            "name": "apple",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/apple.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-{
-            "key": "韩剧网",
-            "name": "韩剧网",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/韩剧网.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-{
-            "key": "聚合短剧",
-            "name": "聚合短剧",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/聚合短剧.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
 
      //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config 
 
