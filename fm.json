@@ -686,20 +686,7 @@ key":"荐片",
 
 
 //摸鱼
-     {
-            "key": "3Q影视",
-            "name": "3Q影视",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/3Q影视.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-
-
+    
 
         {
             "key": "CZ",
