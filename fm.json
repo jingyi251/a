@@ -98,13 +98,6 @@
             "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
         },
 
-{
-            "name": "TV-无水印资源",
-            "api": "https://api.wsyzy.net/api.php/provide/vod",
-            "detail": "",
-            "bz": "1",
-            "paichu": "1,2,3,4"
-        },
 
 {
             "key": "独播库",
@@ -419,6 +412,15 @@ key":"荐片",
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
 
+
+{
+            "name": "TV-无水印资源",
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "detail": "",
+            "bz": "1",
+            "paichu": "1,2,3,4",
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+        },
 
 
 
