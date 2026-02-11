@@ -11,7 +11,6 @@
     "notice": "👖肏屄爱看吗👖",
  "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-
 {
             "name": "iptv-api",
             "type": 0,
@@ -24,7 +23,7 @@
 {
       "name": "catvod.com",
       "type": 0,
-      "url": "https://iptv.catvod.com/tv.m3u",
+      "url": "https://iptv.catvod.com/list.php?token=fa689589dfa099582c2306abdcf5918578152193f47b92137f0a54335c155886",
       "playerType": 2,
       "timeout": 10,
       "ua": "bingcha/1.1(mianfeifenxiang)"

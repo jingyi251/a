@@ -17,7 +17,7 @@
  {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://iptv.catvod.com/tv.m3u",
+            "url":"https://iptv.catvod.com/list.php?token=b0f8c325e3d31524ed7bf066df22c915bbf97707f8542c7f4a7b1288cc6b8520",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
