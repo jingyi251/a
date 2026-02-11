@@ -14,7 +14,13 @@
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
-
+{
+            "name": "TV-无水印资源",
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "detail": "",
+            "bz": "1",
+            "paichu": "1,2,3,4"
+        },
  {
             "name": "👖猫影TV直播",
             "type":0,
