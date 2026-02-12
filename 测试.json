@@ -2178,10 +2178,7 @@
             "changeable": 0
         }
     ],
-    "lives": [
-        {}
-    ],
-    "parses": [
+       "parses": [
         {
             "name": "聚合",
             "type": 3,
