@@ -21,12 +21,11 @@
      //   },
 {
             "name": "iptv-api",
-            "type":0,
-            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
-            "ua":"Goiptv/8.8.8",
-            "timeout":10,
-            "playerType":2
-   },
+            "type": 0,
+            "playerType": 2,
+            "url": "hhttps://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
 
 {
       "name": "catvod.com",
