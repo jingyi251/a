@@ -114,7 +114,16 @@
             "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
             "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
         },
-
+{
+            "key": "直播转点播",
+            "name": "无水印资源2000部",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
+            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.json",
+            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
+        },
 
 
 
