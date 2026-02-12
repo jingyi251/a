@@ -56,6 +56,17 @@
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         },
       
+
+{
+          "name": "无水印资源2000部",
+          "type":"0",
+          "pass": true,
+          "url":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/b/无水印资源2000部.txt",
+          "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
+        },
+
+
 {
           "name": "本地live文件",
           "type":"0",
