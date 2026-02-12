@@ -9,51 +9,36 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "notice": "👖肏屄爱看吗👖",
- "lives": [
+  "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-//{
-       //     "name": "iptv-api",
-         //   "type": 0,
-         //   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
-          //  "playerType": 2,
-          //  "timeout": 10,
-          //  "ua": "bingcha/1.1(mianfeifenxiang)"
-     //   },
+
+//https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+
 { 
 "name": "👖裤佬TV直播",
 "type": 1,
 "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
 },
 
-{
-            "name": "iptv-api",
-            "type": 0,
-            "playerType": 2,
-            "url": "hhttps://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-        },
 
-{
-      "name": "catvod.com",
-      "type": 0,
-      "url": "https://iptv.catvod.com/list.php?token=fa689589dfa099582c2306abdcf5918578152193f47b92137f0a54335c155886",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "bingcha/1.1(mianfeifenxiang)"
 
- },
 
  {
-            "name": "jake",
-            "type": 0,
-            "url": "https://smart.946985.filegear-sg.me/sub.php?user=tg_Jessica",
-            "playerType": 2,
-            "timeout": 10,
-            "ua": "bingcha/1.1(mianfeifenxiang)"
-        },
-  // { "name": "冰茶","type": 0,"url": "https://bc.188766.xyz/?url=http://live.metshop.top","playerType": 2, "timeout": 10,"ua": "bingcha/1.1(mianfeifenxiang)" },
+            "name": "👖猫影TV直播",
+            "type":0,
+            "url":"https://iptv.catvod.com/list.php?token=b0f8c325e3d31524ed7bf066df22c915bbf97707f8542c7f4a7b1288cc6b8520",
+            "ua":"Goiptv/8.8.8",
+            "timeout":10,
+            "playerType":2
+   },
+
+    
+
+
+  // { "name": "冰茶","type": 0,"url": "https://bc.188766.xyz/?url=https://live.metshop.top","playerType": 2, "timeout": 10,"ua": "bingcha/1.1(mianfeifenxiang)" },
            
-               {
+              
+        {
             "name": "MIGU",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
@@ -94,6 +79,7 @@
     	}
         
     ],
+
 
     "sites": [
 
