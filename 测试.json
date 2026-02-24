@@ -359,7 +359,7 @@
 {
             "key": "肏屄",
             "name": "肏屄",
-            "type": 4,
+            "type": 1,
             "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "style": {
