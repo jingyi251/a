@@ -343,20 +343,7 @@
            "jar":"https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8"
      },
 
-        {
-            "key": "光影",
-            "name": "🌞光影┃多线",
-            "type": 3,
-            "api": "csp_AppNoxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuu/VCCnyVL/Snb60T3H42VFwcgQWv43+HUeuF84cUpc9smkjU36oQqPTjRDlTbRHjUMjVz7/OB6Zlc9KG55HvmFKFepNRIpAdhU83eykx7Wd+jtXSNA8b8LuWRPJF9Kcj/DQvvLAQdSdalpQcgxABQwOb/Mcs8ZJV3J39c8cwYxGh30=",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8"
-     },
-
-        {
+              {
             "key": "视界",
             "name": "🍙视界┃多线",
             "type": 3,
@@ -629,6 +616,45 @@
 		
 
      //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config 
+
+ {
+            "name": "💬嗷嗚|彈幕|豆瓣",
+            "key": "GoConfig",
+            "type": 3,
+            "api": "csp_GoConfigAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "name": "😈嗷嗚|短剧|导航",
+            "key": "DjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "short_play"
+        },
+        {
+            "name": "🐲嗷嗚|漫剧|导航",
+            "key": "MjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "comic_series"
+        },
+
+
+
 {
             "name": "🥔瓜子|秒播",
             "key": "Guazi",
@@ -728,7 +754,174 @@
             "changeable": 1,
             "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+ {
+            "name": "🔥热播|秒播",
+            "key": "Rbys",
+            "type": 3,
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://v.rbotv.cn",
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
 
+        {
+            "name": "🥇金牌|秒播",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+{
+            "name": "🏭厂长|2K",
+            "key": "Czzy",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "📽️LBV|2K",
+            "key": "Libvio",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "📀俩BT|2K",
+            "key": "Bttwo",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🍭豪堪|短剧",
+            "key": "HHkk",
+            "type": 3,
+            "api": "csp_HHkkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🛸盒马|短剧",
+            "key": "Hema",
+            "type": 3,
+            "api": "csp_HemaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🧸拜拜|短剧",
+            "key": "Bddj",
+            "type": 3,
+            "api": "csp_BddjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🎀围观|短剧",
+            "key": "Wgdj",
+            "type": 3,
+            "api": "csp_WgdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🐠锦鲤|短剧",
+            "key": "JLdj",
+            "type": 3,
+            "api": "csp_JLdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🍩甜圈|短剧",
+            "key": "TQdj",
+            "type": 3,
+            "api": "csp_TQdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🐱喵喵|短剧",
+            "key": "Qmdj",
+            "type": 3,
+            "api": "csp_QmdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "⭐星星|短剧",
+            "key": "Xydj",
+            "type": 3,
+            "api": "csp_XydjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🎂岁岁|短剧",
+            "key": "Spdj",
+            "type": 3,
+            "api": "csp_SpdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
 
 
 
@@ -744,7 +937,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.czzymovie.com",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 {
             "key": "Kan360",
@@ -759,7 +952,7 @@
                     "https://jx.xmflv.com/?url="
                 ]
             },
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
 
@@ -771,7 +964,7 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "pWLjYsLv1mpiSv+WqFNaIqp5t2Fo1rfLU1hwJwJ3KAGKWPMicT5CGiEJRsrqJm9/nvc1/bybKq1jaWaAf7G9gUJC37DHLmVmIm9/p/N1fBD+82t9o4+ohiIbelQv/KcjFIKtpyq6+YLDnlgrruYRKUgTa4rOFFgLDPhiYQ9OCWc=",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
 
@@ -782,7 +975,7 @@
             "changeable": 0,
             "api": "csp_AppFox",
             "ext": "GvE9VjZcKAqoJldDfjF/ECcNd1RQlbzQsau0pQNOL/YWscnJYTMdB9NKsGcYtklo",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
 
@@ -795,7 +988,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "pWLjYsLv1mpiSv+WqFNaIoEuco3PXPBxoLkOiVeOktPnxnt2E0PVuzvK7F7x1ynX1v8YSUBGs2JHAIuhIm1wYiWmv9DIhlQpRP9BiU9ZFbBMjDIXMCJ3qkAjDRLyy06u7nmYwLMXVj7tmABUTWw155g3/HsQaLbd2tCXKZrsh0iSqp9yMbNuGYjW3EbKOHQpXlVOrvvfLgjHi8EsUMVR8KAJ1AoQoFhzwF06Ah/5hW0=",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
 
@@ -805,7 +998,7 @@
             "type": 3,
             "api": "csp_FishHxq",
             "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
 
@@ -817,7 +1010,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
                {
@@ -828,7 +1021,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
                 {
@@ -840,7 +1033,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.czzymovie.com",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
         {
@@ -850,7 +1043,7 @@
             "api": "csp_Jpys",
             "searchable": 1,
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
 
@@ -860,7 +1053,7 @@
             "type": 3,
             "api": "csp_Guazi",
             "searchable": 1,
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
         {
@@ -870,7 +1063,7 @@
             "api": "csp_Zxzj",
             "searchable": 1,
             "ext": "https://www.zxzjhd.com",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
         {
@@ -880,7 +1073,7 @@
             "api": "csp_TvDy",
             "searchable": 1,
             "filterable": 1,
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
         {
@@ -890,7 +1083,7 @@
             "api": "csp_MqTv",
             "searchable": 1,
             "ext": "https://www.mqtv.cc",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
         {
@@ -901,7 +1094,7 @@
             "searchable": 1,
             "filterable": 0,
             "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
               {
@@ -912,7 +1105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png"
+            "jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png"
         },
 
        
