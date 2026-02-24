@@ -465,8 +465,10 @@
             "searchable": 0,
             "filterable": 0,
             "quickSearch": 0,
-            "changeable": 0
+            "changeable": 0,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
         {
             "name": "😈嗷嗚|短剧|导航",
             "key": "DjHggg",
@@ -477,8 +479,11 @@
             "filterable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "short_play"
+            "ext": "short_play",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
         {
             "name": "🐲嗷嗚|漫剧|导航",
             "key": "MjHggg",
@@ -489,8 +494,11 @@
             "filterable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "comic_series"
+            "ext": "comic_series",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
 
 
 
@@ -507,8 +515,11 @@
                 "sites": "",
                 "filters": "./json/guazi.json"
             },
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
 
         {
             "name": "☕韩剧|秒播",
@@ -519,8 +530,11 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
 
         {
             "name": "🌱春天|秒播",
@@ -532,8 +546,11 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw==",
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
 
         {
             "name": "🍑糖心|秒播",
@@ -544,8 +561,11 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
 
         {
             "name": "🎪伊外|秒播",
@@ -556,8 +576,11 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
 
         {
             "name": "🎯荐片|秒播",
@@ -568,8 +591,11 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+
+
  {
             "name": "🪁杜北|秒播",
             "key": "Dubk",
