@@ -4,6 +4,7 @@
 //  王二小 https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1768017106788HThPaP.txt;md5;5b0bc87da0fa638ac559f57825025249"
 //  当前接口：https://9877.kstore.space/AnotherD/api.json
 //肏屄https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90
+//海角肏屄https://gh-proxy.org/https://github.com/FGBLH/fgrjk2/blob/main/haijiao888
 {
     "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260210/KY5z/02101145.png",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -44,13 +45,14 @@
     
 
 
-  { "name": "冰茶","type": 0,"url": "https://bc.188766.xyz/?url=https://live.metshop.top","playerType": 2, "timeout": 10,"ua": "bingcha/1.1(mianfeifenxiang)" },
+  { "name": "海角肏屄","type": 0,"url": "https://gh-proxy.org/https://github.com/FGBLH/fgrjk2/blob/main/haijiao888","playerType": 2, "timeout": 10,"ua": "bingcha/1.1(mianfeifenxiang)" },
            
               
         {
-            "name": "MIGU",
+            "name": "肏屄",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx%E8%A7%86%E9%A2%91%E8%B5%84%E6%BA%90
+",
             "playerType": 2,
             "timeout": 10,
             "ua": "bingcha/1.1 (mianfeifenxiang) "
