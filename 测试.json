@@ -8,7 +8,7 @@
 {
     "spider": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260210/KY5z/02101145.png",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/1.MP4",
+    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/1.gif",
     "notice": "👖肏屄爱看吗👖",
   "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
@@ -36,7 +36,8 @@
  {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":" https://iptv.catvod.com/list.php?token=af4d9d2770405b8e12bd27e88265b9f06e36c4664705f34180d21899c91efc3e",
+            "url":" https://iptv.catvod.com/list.php?token=af4d9d2770405b8e12bd27e88265b9f06e36c4664705f34180d21899c91efc3e
+",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
