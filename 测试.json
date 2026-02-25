@@ -128,8 +128,19 @@
             "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
         },
 
+{
+     {
+      "key": "souav",
+      "name": "SouAV资源",
+      "type": 1,
+      "api": "https://api.souavzyw.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+        },
 
-
+ 
 
        {
             "key": "豆瓣",
