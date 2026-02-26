@@ -427,7 +427,19 @@
 
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
-
+{
+            "key": "哔哩fm",
+            "name": "哔哩fm",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "Bili",
+            "changeable": 1,
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+        },
 
         {
             "key": "python集合",
