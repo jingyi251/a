@@ -425,21 +425,63 @@
 
 
 
-
 //老张  https://zhangqun1818.serv00.net/zq/api.json
-{
-            "key": "哔哩fm",
-            "name": "哔哩fm",
+ {
+            "key": "捡的音乐",
+            "name": "捡的音乐",
             "type": 3,
             "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext": "Bili",
-            "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "ext": "Music",
+            "filterable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
+
+   {
+            "key": "PY聚合",
+            "name": "PY聚合1",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "PY$$$py",
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
+
+        {
+            "key": "JS聚合",
+            "name": "JS聚合1",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "PY$$$js",
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
+
+        {
+            "key": "采集全集",
+            "name": "采集全集1",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "ext": "CJJH",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
 
         {
             "key": "python集合",
