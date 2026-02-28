@@ -126,16 +126,6 @@
             "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.json",
             "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
         },
-{
-            "key": "AV",
-            "name": "AV",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
-            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/AV.json",
-            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
-        },
 
 {
       "key": "souav",
@@ -184,7 +174,18 @@
             "searchable": 0
         },
         //真心 https://tvbox.catvod.com/FongMi.json
-        {
+       {
+            "key": "賤賤",
+            "name": "AV",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/AV.json",
+            "jar": "https://tvbox.catvod.com/custom_spider.jar"
+        },
+ 
+ {
             "key": "賤賤",
             "name": "賤賤",
             "type": 3,
