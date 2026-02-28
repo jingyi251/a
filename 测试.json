@@ -57,7 +57,15 @@
             "timeout": 10,
             "ua": "bingcha/1.1 (mianfeifenxiang) "
         },
-      
+    {
+          "name": "AV",
+          "type":"0",
+          "pass": true,
+          "url":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/AV.json",
+          "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
+          "logo": "https://epg.iill.top/logo/{name}.png"
+        },
+
 
 {
           "name": "无水印资源2000部",
@@ -174,16 +182,7 @@
             "searchable": 0
         },
         //真心 https://tvbox.catvod.com/FongMi.json
-       {
-            "key": "賤賤",
-            "name": "AV",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/AV.json",
-            "jar": "https://tvbox.catvod.com/custom_spider.jar"
-        },
+       
  
  {
             "key": "賤賤",
