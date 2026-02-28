@@ -443,37 +443,10 @@
         },
 
    {
-            "key": "PY聚合",
-            "name": "PY聚合1",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "PY$$$py",
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
-
-        {
-            "key": "JS聚合",
-            "name": "JS聚合1",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "PY$$$js",
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
-
-        {
-            "key": "采集全集",
-            "name": "采集全集1",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "ext": "CJJH",
+            "key": "荐片采集",
+            "name": "荐片采集",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -482,6 +455,11 @@
             "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
 
+
+
+
+
+      
 
         {
             "key": "python集合",
@@ -566,10 +544,9 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "sites": "",
-                "filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
-            },
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "sites": "",
+            "filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
+                       },
             "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
 
