@@ -267,6 +267,59 @@
 {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/百忙无果.js"},
 
  //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
+ {
+            "name": "💬嗷嗚|彈幕|豆瓣",
+            "key": "GoConfig",
+            "type": 3,
+            "api": "csp_GoConfigAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+ {
+            "name": "🥔瓜子|秒播",
+            "key": "Guazi",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sites": "",
+                "filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
+            },
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "☕韩剧|秒播",
+            "key": "Hxq",
+            "type": 3,
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🌱春天|秒播",
+            "key": "NewGr",
+            "type": 3,
+            "api": "csp_NewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw==",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
 
   {
             "name": "🍑糖心|秒播",
@@ -279,8 +332,212 @@
             "changeable": 1,
             "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+ {
+            "name": "🎪伊外|秒播",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
 
-    
+        {
+            "name": "🎯荐片|秒播",
+            "key": "JPian",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🔥热播|秒播",
+            "key": "Rbys",
+            "type": 3,
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://v.rbotv.cn",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🥇金牌|秒播",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🪁杜北|秒播",
+            "key": "Dubk",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json",
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+{
+            "name": "🏆高端|2K",
+            "key": "Ddys",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+     {
+            "name": "🏭厂长|2K",
+            "key": "Czzy",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "📽️LBV|2K",
+            "key": "Libvio",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "📀俩BT|2K",
+            "key": "Bttwo",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🍭豪堪|短剧",
+            "key": "HHkk",
+            "type": 3,
+            "api": "csp_HHkkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🛸盒马|短剧",
+            "key": "Hema",
+            "type": 3,
+            "api": "csp_HemaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🧸拜拜|短剧",
+            "key": "Bddj",
+            "type": 3,
+            "api": "csp_BddjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🎀围观|短剧",
+            "key": "Wgdj",
+            "type": 3,
+            "api": "csp_WgdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🐠锦鲤|短剧",
+            "key": "JLdj",
+            "type": 3,
+            "api": "csp_JLdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+               {
+            "name": "🐱喵喵|短剧",
+            "key": "Qmdj",
+            "type": 3,
+            "api": "csp_QmdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "⭐星星|短剧",
+            "key": "Xydj",
+            "type": 3,
+            "api": "csp_XydjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
+        {
+            "name": "🎂岁岁|短剧",
+            "key": "Spdj",
+            "type": 3,
+            "api": "csp_SpdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
  {
