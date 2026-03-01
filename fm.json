@@ -280,6 +280,19 @@
             "changeable": 0,
             "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
         },
+ {
+            "name": "💬嗷嗚|彈幕|豆瓣",
+            "key": "GoConfig",
+            "type": 3,
+            "api": "csp_GoConfigAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
+        },
+
         {
             "name": "😈嗷嗚|短剧|导航",
             "key": "DjHggg",
@@ -291,10 +304,11 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "short_play",
-            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
+
         {
-             "name": "🐲嗷嗚|漫剧|导航",
+            "name": "🐲嗷嗚|漫剧|导航",
             "key": "MjHggg",
             "type": 3,
             "api": "csp_HgggAmns",
@@ -304,9 +318,43 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "comic_series",
-            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
-{
+
+       
+        {
+            "name": "🎉Bili|合集",
+            "key": "Bili",
+            "type": 3,
+            "api": "csp_BiliAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "json": "./json/bili.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
+        },
+
+        {
+            "name": "🎸酷狗|音乐",
+            "key": "KuGou",
+            "type": 3,
+            "api": "csp_KuGouAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
+        },
+
+               {
             "name": "🥔瓜子|秒播",
             "key": "Guazi",
             "type": 3,
@@ -316,11 +364,12 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-            "sites": "",
-            "filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
-                       },
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+                "sites": "",
+                "filters": "./json/guazi.json"
+            },
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
+
         {
             "name": "☕韩剧|秒播",
             "key": "Hxq",
@@ -330,11 +379,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
-
-
 
         {
             "name": "🌱春天|秒播",
@@ -346,11 +392,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw==",
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
-            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
-
-
 
         {
             "name": "🍑糖心|秒播",
@@ -361,11 +404,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
-
-
 
         {
             "name": "🎪伊外|秒播",
@@ -376,11 +416,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
-
-
 
         {
             "name": "🎯荐片|秒播",
@@ -392,34 +429,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
-
- {
-            "name": "🪁杜北|秒播",
-            "key": "Dubk",
-            "type": 3,
-            "api": "csp_DubkAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json",
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
- {
-            "name": "🍿哔嘀|2K",
-            "key": "Bidys",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
- {
+        {
             "name": "🔥热播|秒播",
             "key": "Rbys",
             "type": 3,
@@ -429,7 +442,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://v.rbotv.cn",
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -441,10 +454,47 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
-{
+        {
+            "name": "🪁杜北|秒播",
+            "key": "Dubk",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json",
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
+        },
+
+        {
+            "name": "🏆高端|2K",
+            "key": "Ddys",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
+        },
+
+        {
+            "name": "🍿哔嘀|2K",
+            "key": "Bidys",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
+        },
+
+        {
             "name": "🏭厂长|2K",
             "key": "Czzy",
             "type": 3,
@@ -453,7 +503,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -465,7 +515,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -477,7 +527,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -489,7 +539,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -501,7 +551,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -513,7 +563,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -525,7 +575,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": " https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -537,7 +587,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -549,7 +599,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -561,7 +611,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -573,7 +623,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
         {
@@ -585,7 +635,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6"
         },
 
 
