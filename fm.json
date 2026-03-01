@@ -268,19 +268,7 @@
 
  //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config 
 
- {
-            "name": "💬嗷嗚|彈幕|豆瓣",
-            "key": "GoConfig",
-            "type": 3,
-            "api": "csp_GoConfigAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar":" https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
- {
+  {
             "name": "💬嗷嗚|彈幕|豆瓣",
             "key": "GoConfig",
             "type": 3,
