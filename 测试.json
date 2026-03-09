@@ -13,12 +13,11 @@
   "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
-//https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+//https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
 {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://iptv.catvod.com/list.php?token=af4d9d2770405b8e12bd27e88265b9f06e36c4664705f34180d21899c91efc3e
-",
+            "url":"https://iptv.catvod.com/list.php?token=af4d9d2770405b8e12bd27e88265b9f06e36c4664705f34180d21899c91efc3e",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
@@ -27,8 +26,7 @@
  {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://live.catvod.com/live.php?token=49c60c8169ce473ff7219fe0c7d8fed0dea8cceb81fd681d9e051e138ff4fd75
-",
+            "url":"https://live.catvod.com/live.php?token=49c60c8169ce473ff7219fe0c7d8fed0dea8cceb81fd681d9e051e138ff4fd75",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
@@ -44,6 +42,8 @@
 "type": 1,
 "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
 },
+
+
 
 
 
@@ -89,7 +89,7 @@
           "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
           "logo": "https://epg.iill.top/logo/{name}.png"
         }
-    ],
+      ],
 
 
     "sites": [
@@ -359,19 +359,51 @@
 
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
+
 {
-            "key": "肏屄",
-            "name": "肏屄",
-            "type": 1,
-            "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+            "key": "捡的音乐新",
+            "name": "捡的音乐新",
+            "type": 3,
+            "api": "csp_ProxySpider",
             "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "Music1",
+            "filterable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+ {
+            "key": "采集全集",
+            "name": "采集全集",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/cj.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
+
+
+
+
+{
+            "key": "AV-souav资源",
+            "name": "AV-souav资源",
+            "api": "https://api.souavzy.vip/api.php/provide/vod",
+            "detail": "https://api.souavzy.vip",
+            "bz": "0",
+            "paichu": "",
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
+
+
 
 {
             "key": "js集合",
