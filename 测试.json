@@ -360,49 +360,6 @@
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
-{
-            "key": "捡的音乐新",
-            "name": "捡的音乐新",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "searchable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "Music1",
-            "filterable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
- {
-            "key": "采集全集",
-            "name": "采集全集",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/cj.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
-
-
-
-{
-            "key": "AV-souav资源",
-            "name": "AV-souav资源",
-            "api": "https://api.souavzy.vip/api.php/provide/vod",
-            "detail": "https://api.souavzy.vip",
-            "bz": "0",
-            "paichu": "",
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
-
 
 
 {
