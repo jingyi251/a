@@ -360,7 +360,17 @@
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
-
+{
+            "key": "爱瓜实验",
+            "name": "爱瓜实验",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 0,
+           "ext": "AiguaTV",
+            "filterable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
 
 {
             "key": "js集合",
