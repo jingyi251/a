@@ -14,9 +14,17 @@
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+ {
+            "name": "👖本猫影TV直播",
+            "type":0,
+            "url":"https://iptv.catvod.com/list.php?token=dd01a0b8debd7a9beaab60315001961d4d61e665bf6ee94d9a640eab0ec43a95",
+            "ua":"Goiptv/8.8.8",
+            "timeout":10,
+            "playerType":2
+   },
 
 {
-            "name": "👖猫影TV直播",
+            "name": "👖港猫影TV直播",
             "type":0,
             "url":"https://live.catvod.com/live.php?token=d4b44a34a2ba36a4c8c91f00a101141ddfcf48c5298a13b01e86bb12c37c5ef3",
             "ua":"Goiptv/8.8.8",
@@ -24,14 +32,6 @@
             "playerType":2
    },
 
- {
-            "name": "👖猫影TV直播",
-            "type":0,
-            "url":"https://iptv.catvod.com/list.php?token=dd01a0b8debd7a9beaab60315001961d4d61e665bf6ee94d9a640eab0ec43a95",
-            "ua":"Goiptv/8.8.8",
-            "timeout":10,
-            "playerType":2
-   },
 { 
 "name": "👖裤佬TV直播2",
 "type": 1,
