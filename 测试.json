@@ -17,7 +17,7 @@
 {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://iptv.catvod.com/list.php?token=af4d9d2770405b8e12bd27e88265b9f06e36c4664705f34180d21899c91efc3e",
+            "url":"https://live.catvod.com/live.php?token=d4b44a34a2ba36a4c8c91f00a101141ddfcf48c5298a13b01e86bb12c37c5ef3",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
@@ -26,7 +26,7 @@
  {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://live.catvod.com/live.php?token=49c60c8169ce473ff7219fe0c7d8fed0dea8cceb81fd681d9e051e138ff4fd75",
+            "url":"https://iptv.catvod.com/list.php?token=dd01a0b8debd7a9beaab60315001961d4d61e665bf6ee94d9a640eab0ec43a95",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2

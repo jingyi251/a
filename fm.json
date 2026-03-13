@@ -18,7 +18,7 @@
 {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://iptv.catvod.com/list.php?token=af4d9d2770405b8e12bd27e88265b9f06e36c4664705f34180d21899c91efc3e",
+            "url":"https://live.catvod.com/live.php?token=d4b44a34a2ba36a4c8c91f00a101141ddfcf48c5298a13b01e86bb12c37c5ef3",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
@@ -27,7 +27,7 @@
  {
             "name": "👖猫影TV直播",
             "type":0,
-            "url":"https://live.catvod.com/live.php?token=49c60c8169ce473ff7219fe0c7d8fed0dea8cceb81fd681d9e051e138ff4fd75",
+            "url":"https://iptv.catvod.com/list.php?token=dd01a0b8debd7a9beaab60315001961d4d61e665bf6ee94d9a640eab0ec43a95",
             "ua":"Goiptv/8.8.8",
             "timeout":10,
             "playerType":2
@@ -1361,6 +1361,5 @@
     ],
     "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","api.htpan.net"]
 }
-
 
 
