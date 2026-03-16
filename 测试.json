@@ -112,14 +112,19 @@
         },
 
 {
-      "key": "souav",
-      "name": "SouAV资源",
-      "type": 1,
-      "api": "https://api.souavzyw.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "key": "油管webjar",
+            "name": "油管webjar",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "YoutubeSpider1$$$PL动作片#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL战争剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧",
+            "filterable": 1,           
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
 
  
