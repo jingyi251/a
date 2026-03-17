@@ -363,7 +363,7 @@
 {
             "key": "污漫漫画",
             "name": "污漫漫画",
-            "type": 4,
+            "type": 1,
             "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/py/%E6%B1%A1%E6%BC%AB%E6%BC%AB%E7%94%BB.py",
             "searchable": 1,
             "style": {
