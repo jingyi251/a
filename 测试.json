@@ -88,6 +88,19 @@
 
 
     "sites": [
+{
+            "key": "污漫漫画",
+            "name": "污漫漫画",
+            "type": 2,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/py/%E6%B1%A1%E6%BC%AB%E6%BC%AB%E7%94%BB.py",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
 
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
          {
@@ -345,19 +358,6 @@
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
-{
-            "key": "污漫漫画",
-            "name": "污漫漫画",
-            "type": 1,
-            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/py/%E6%B1%A1%E6%BC%AB%E6%BC%AB%E7%94%BB.py",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
 
 {
             "key": "js集合",
