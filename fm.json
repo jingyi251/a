@@ -14,6 +14,13 @@
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+
+{ 
+"name": "👖裤佬TV直播",
+"type": 1,
+"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
+},
+
  {
             "name": "👖本猫影TV直播",
             "type":0,
@@ -32,11 +39,6 @@
             "playerType":2
    },
 
-{ 
-"name": "👖裤佬TV直播",
-"type": 1,
-"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
-},
 
 {
             "name": "iptv",
