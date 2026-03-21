@@ -20,6 +20,18 @@
 "type": 1,
 "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
 },
+ {
+            "name": "🐙74源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://im5k.fun/vip.m3u"
+        },
+        {
+            "name": "🐙风云源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://iptv.4666888.xyz/FYTV.txt"
+        },
 
  {
             "name": "👖本猫影TV直播",
