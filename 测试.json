@@ -201,12 +201,6 @@
             "quickSearch": 1,
             "ext": "http://m51.gotto.top/api.php/v1.vod"
         },
- {
-			"key": "zhuanxiang",
-			"name": "🐙专享4K｜追剧",
-			"type": 4,
-			"api": "http://sspa8.top:99/php/%E4%B8%93%E4%BA%AB.php"
-		},
 		{
 			"key": "T4-哇哇",
 			"name": "🐙哇哇影视｜追剧",
