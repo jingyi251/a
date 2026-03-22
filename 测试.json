@@ -14,6 +14,14 @@
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+ {
+            "name": "宫殿",
+            "type": 0,
+            "url": "https://gongdian.top/tv/iptv",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        },
+
 { 
 "name": "👖裤佬TV直播",
 "type": 1,
@@ -136,10 +144,43 @@
             "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
 
-
+{
+            "key": "腾腾视频",
+            "name": "🎇｜腾腾｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js"
+        },
+        {
+            "key": "酷酷视频",
+            "name": "🎇｜酷酷｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js"
+        },
+        {
+            "key": "果果视频",
+            "name": "🎇｜果果｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js"
+        },
+        {
+            "key": "奇奇视频",
+            "name": "🎇｜奇奇｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js"
+        },
+        {
+            "key": "360影视",
+            "name": "🎇｜六零｜解析",
+            "type": 3,
+            "api": "csp_SP360"
+        },
 //https://gh-proxy.org/https://github.com/FGBLH/fgrjk/blob/main/%E9%94%8B%E5%93%A5%E5%BD%B1%E8%A7%86json
 {
-        "key":"爱奇艺弹幕",
+       "key":"爱奇艺弹幕",
         "name":"🐙爱奇艺视频 TG:@usfgrjk",
         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
         "type":3,
@@ -602,16 +643,6 @@
         "重口味"
       ]
     },
-{
-            "key": "色播",
-            "name": "LIVE",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/色播聚合.py",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/CatVodSpider-GM/NSFW-Spiders/refs/heads/main/Spiders-Lib/GM.jar"
-        },
  {
             "key": "cam4",
             "name": "cam4",
@@ -638,12 +669,12 @@
             "key": "ss直播",
             "name": "🔞ss直播",
             "type": 3,
-            "api": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
+            "api": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
-            "jar": "https://hk.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
+            "ext": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
+            "jar": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
         },
        {
 	     "key": "py_七区",
