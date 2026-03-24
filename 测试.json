@@ -159,9 +159,8 @@
                 "type": "rect",
                 "ratio": 1.33
             },
-            "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
+            "changeable": 1      
+       },
 //https://16151.kstore.space       https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 {
             "key": "腾腾视频",
