@@ -90,6 +90,75 @@
           "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
           "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
       },
+//https://16409.kstore.vip/tv/ngzmods.json
+{
+      "key": "hipy_js_4K-AV",
+      "name": "🧲磁力在线┃原盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://16409.kstore.vip/js/dyg.json",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "瓜子影视",
+      "name": "🍉GZ┃HD2K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "金牌影视",
+      "name": "🔦金牌┃HD2K",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "热播影视",
+      "name": "🌋热播影视┃秒播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "韩剧看看",
+      "name": "🫧韩剧┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://16409.kstore.vip/js/hanjukan.json",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+
+    {
+      "key": "剧和短剧",
+      "name": "🪔聚合┃短剧",
+      "type": 3,
+      "api": "https://16409.kstore.vip/js/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
 
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
          {
@@ -139,17 +208,17 @@
             },
             "changeable": 1
     },
-{
-            "key": "金牌影院",
-            "name": "金牌影院",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/金牌影院.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
+//{
+           // "key": "金牌影院",
+          //  "name": "金牌影院",
+           // "type": 3,
+           // "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/金牌影院.js",
+          //  "style": {
+            //    "type": "rect",
+             //   "ratio": 1.33
+          //  },
+           // "changeable": 1
+   // },
 //{
             //"key": "永乐视频 ",
            // "name": "永乐视频 ",
