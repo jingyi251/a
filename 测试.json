@@ -39,9 +39,9 @@
             "ua": "okhttp",
             "url": "http://iptv.4666888.xyz/FYTV.txt"
         },
-//https://16409.kstore.vip/tv/ngzmods.json
+//南哥https://16409.kstore.vip/tv/ngzmods.json
 {
-      "name": "live",
+      "name": "南哥live",
       "type": 0,
       "playerType": 1,
       "url": "https://16409.kstore.vip/tv/api/tvlist.txt",
