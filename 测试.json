@@ -121,7 +121,7 @@
     "sites": [
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
 
-//{"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"http://ser995290833053.gptapp.ren/tvbox/php/pptv.php?token=yyds"},
+{"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"http://ser995290833053.gptapp.ren/tvbox/php/pptv.php?token=yyds"},
 
 
          {
@@ -158,7 +158,7 @@
             "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
 
-{"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/php/token%3Dyyds.PHP"},
+//{"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/php/token%3Dyyds.PHP"},
 
 {
             "key": "污漫漫画",
