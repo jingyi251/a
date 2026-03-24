@@ -149,17 +149,7 @@
         },
 
 
-    {
-      "key": "剧和短剧",
-      "name": "🪔聚合┃短剧",
-      "type": 3,
-      "api": "https://16409.kstore.vip/js/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
+    
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
          {
             "key": "直播转点播",
