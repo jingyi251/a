@@ -115,6 +115,29 @@
       },
       "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
         },
+{
+      "key": "小羊",
+      "name": "🎑南歌┃羊羊4K",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://qjappcms410.xy4k.com",
+        "dataKey": "mC6kG4mI1uM8tS4o",
+        "dataIv": "mC6kG4mI1uM8tS4o"
+      },
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "移动",
+      "name": "🎯移动┃在线4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
 
 {
       "key": "hipy_js_4K-AV",

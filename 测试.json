@@ -160,18 +160,101 @@
 
 //{"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/php/token%3Dyyds.PHP"},
 
+//https://16409.kstore.vip/tv/ngzmods.json
 {
-            "key": "污漫漫画",
-            "name": "污漫漫画",
-            "type":3,
-            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/py/%E6%B1%A1%E6%BC%AB%E6%BC%AB%E7%94%BB.py",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1      
-       },
+      "key": "秒看蓝光",
+      "name": "🎇秒看蓝光",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
+        "ua": "okhttp/3.14.9"
+      },
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+{
+      "key": "小羊",
+      "name": "🎑南歌┃羊羊4K",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": {
+        "url": "https://qjappcms410.xy4k.com",
+        "dataKey": "mC6kG4mI1uM8tS4o",
+        "dataIv": "mC6kG4mI1uM8tS4o"
+      },
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "移动",
+      "name": "🎯移动┃在线4K",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_YD",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+{
+      "key": "hipy_js_4K-AV",
+      "name": "🧲磁力在线┃原盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://16409.kstore.vip/js/dyg.json",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "瓜子影视",
+      "name": "🍉GZ┃HD2K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "金牌影视",
+      "name": "🔦金牌┃HD2K",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "热播影视",
+      "name": "🌋热播影视┃秒播",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      },
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "韩剧看看",
+      "name": "🫧韩剧┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://16409.kstore.vip/js/hanjukan.json",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
 //https://16151.kstore.space       https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 {
             "key": "腾腾视频",
