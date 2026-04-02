@@ -14,6 +14,14 @@
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+
+{
+            "name": "🐙7748",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://hk.gh-proxy.org/https://github.com/zilong7728/Collect-IPTV/blob/main/best_sorted.m3u8"
+        },
+
  {
             "name": "宫殿",
             "type": 0,
@@ -397,6 +405,7 @@
 
 
  //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
+//  https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/config
  {
             "name": "💬嗷嗚|彈幕|豆瓣",
             "key": "GoConfig",
@@ -407,7 +416,8 @@
             "filterable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "ext": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/douban.json",
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
  {
@@ -421,9 +431,9 @@
             "changeable": 1,
             "ext": {
                 "sites": "",
-                "filters": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
+                "filters": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/guazi.json"
             },
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -435,7 +445,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -448,7 +458,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw==",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
   {
@@ -460,7 +470,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
  {
             "name": "🎪伊外|秒播",
@@ -471,7 +481,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -483,8 +493,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "ext": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/jpian.json",
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -497,7 +507,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://v.rbotv.cn",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -509,7 +519,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -521,8 +531,8 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json",
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "ext": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/dubk.json",
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 {
             "name": "🏆高端|2K",
@@ -533,7 +543,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
      {
@@ -545,7 +555,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -557,7 +567,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -569,7 +579,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -581,7 +591,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -593,7 +603,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -605,7 +615,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -617,7 +627,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -629,7 +639,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
                {
@@ -641,7 +651,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -653,7 +663,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
         {
@@ -665,7 +675,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
         },
 
 
@@ -739,7 +749,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
           {
             "key": "原创",
@@ -751,7 +761,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -763,7 +773,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -777,7 +787,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -789,7 +799,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -802,7 +812,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM=",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
               {
@@ -814,8 +824,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI+4lWpuLce9V0IYMxpf6yxk9eNgZeUKx9NtuGiHL8VT2Ch5q3FzA/wpUpTequjCAiOuXKzelf2sV2H63VJyZQ4c7pP8BFS7Fs0PEY8l0RhZXAOtNtyr8hvgS7hJiUAsUDP4QRvtkbFEb5s8uhxNaug1QfpGf2o72OyjvreagTpQQNBEaLPlXB3CE6LnhIbUuoXOOtSXE1grCABKC38KFogYurdAWX9+j7EWxPpX3A==",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiGLA=",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -827,8 +837,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7UEoRLhBVvSwnsuM5MO9ZiIJs6T6MfJNEk2ptvW4yXL42Edzeou/SGHg=",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -840,8 +850,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg==",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+            "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -854,7 +864,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kvDImBOA4Uobe87udCDvyRKfZx+2mS22nhAooKRgLo9y7UE+qFZ1UBoc16Q==",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -866,7 +876,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
         {
@@ -879,7 +889,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/03/14/a6f5b702c9718d0fe2960c07422b108c.jpg;md5;5f3cf55afb559c8457a04bd214404e93"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg"
      },
 
 
@@ -1066,8 +1076,8 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AS489lHIPXXnFM64nq+j83AKsZBAWHJxiolcdAQhVx+XVHnaLVj3OiTSytruFyLqxsmm1AhgdalU+scPnz4hkUu01Ppy9Ttysn+LieUGod/lwmSMJ4CVW/EDO33YUhidr+lqJcnx7APcA2mG4Y+5AmEYH2Wol6qcFUo1sogtH+iYZ/YXtoPKCywF1JMyBjfj7Pn83+MTjKTUrb53bT4gJlw=",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI=",
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1077,8 +1087,8 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AaIkDkIeL0bF5foLGJpX+cbUjv1IbY05okz9VBt5znOYXxZtodjbPHHdcEg6FdVbb9WW7sl623Wj49ZNOxTIHR9cruqS3Rcl5VJPgjC/JLvofUwvzUraVUMLTIxvs2j5L4vg/hN1o5TDRbWkq8SrCRxY2QopBTqPw75C/ECyvBQlV3NZjWlbu5YUr8jGhJJfdJ7o1gh6Xeg0pGMngVpBeDuQDhdUmkvCl658cEP/Oics",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "ext": "AbG7h4pmDnn/waoolgqc8W4kIhS+tE907yHIEgYckbWEi3wH79nTiAgj7bpB+YqToiFOM9EWVM678o/8wF/l6lmYKRX/nzLpvDy3R0qQPIQqjHln23L5L3+Psnk2XxFC5jCqmTu49ip/+ho2bvZpD3aWEof4ob377XwQS1uZYPh15i51WB128btBmVtAO+RbQwejzHfLdBDRFM/GUyRHwek=",
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1089,7 +1099,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "AQ8xy13uUB+vU0X5VQoLoHQ0PbaWVadAyXpMKT4lGXmz4P8/XgMiirPtAaVdXwlAm5uF7AEvL3DXQh1rGvz8VkkK/iJRxAipX1t/HMeh8FiNDuXLu5Z6IRNARKpTACYVrIClJSw/mWpypTq/VHPWokB3OA8LPPKPaOao8P8nVbJ8xyA50XNWEVFnl2cVRf3xMlAzAZVOwhnDWXYRcDjo8oE=",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1100,7 +1110,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "ASeCaY5Xxcx0BdbJGIqllhkRBuCPwC/Kv1uDvURkfncW+fNupjJjBKERvDuCKL7Nc8bCYJ/Fboktq3geJgU0aE2SxOjoiU03IEtvv1np76XEOBn7dBJNwW8toIqv9PBY9T18yzCX3DoyksVEv01kRtBDqSTgbilbqOHhtNEm+L3ti2PLM08SEhkA/nE//PAwfIVtUWhsYKorNLuB7RxQ2Egqj4D7q7Tw3sH/yNbHthqw",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1111,7 +1121,7 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "AZMWjtBVHqg1eqc24zPBCnp+8nUMJ1DhABffeziVNB/hZ1AHDr9HynmQ7Hea0MJa9TQvImvwo+VcBjCulptXIj6796jroFgU16XtcGODMtfDJ8RJjrEa+2QJ1eVamXkB+N3GrowCHjQsVd5GK4QAxVeW7oVMa/kmxFpF4XWFHhz5YGcXOSxIhznhRlZln5Ap8sol6sjWUfBhblNbLgjDBzKdTxu/NjbUZFhO8y6IP8SZhvrY0CxMo8/Kp6AnCYGRyA==",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1120,7 +1130,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "AW8zc43nkd9VeK5DW/DjDZZyQ8CitfFSJkst0xRXhXKcj6hD8v1lusJ6ESqiEdq4U9Sr7SwyYTtqa4cJasPcQfIJNNXAbtzzK1SRuX5y5rV0MoS7+vWxG8iPCQvXee+amQTW4IiuoWX3HVnOSd+ViPayPdXO+rvvR+ymyTYToZAW8UikQ/chpFk3HKJ+bLBq/FejMjlZvZdbCyM/3ZYxY9E=",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1138,7 +1148,7 @@
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
             },
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1150,7 +1160,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "ARIf/javCFZrnb7bhwzDQ1I/gYi3vwqodTXDNuHLJQLoHd59j15mVOndyVuPO6QgZdzkptgM5xHcyglZVNZ5Y03yB+SaFazAu3GCkMHSzwpbm/dSSiQ8OxQeetnxiSz91ibY5976IFoMCFopDPhKbYNTr7teWVcVWi20mwhdkrg3Ul7mJ8cYHqa57ZUYzAH1Ab4ht/EMVZSnHosw6B+3jUNcHywS4S4CgRS+0BRsZFNaTcutrXgEYm7d12jGjT9cj7XmK0cj+2mV6zrCROKE+wUb6bLDVrtsxwHLykBah4DLQIlRxqKtSkCA3NU1U+Zlb800G77DrCf3g86bItws62w=",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1162,7 +1172,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "AcQgxCZJh0zfuqWhi3EWO0lHZHvcxjcjkSwh/L0j5HEY9Fq3+o2hdqQXb/2viRHayRmBY64JuCWIkKKgRdpy650qa/qp5Yx5LMXbHLNBOw7Y2ZGmPIKIXZw4s07EI1OuOTxg5Jj1a2VvZaGGrWPO5Zx84C6LNBDniS3O/XXNtDexGf7mP03SjlVcLkS00BSjgZJIy7PZA3fuP0lUeIdK+T0JzxKFrX5IxrgxOGYTCb4UUXOKaASBFqPcbpdj1SMNkCxWhqz9lcA8n+r81dRn4TMOKoyFaxJmX3DfKc1UzGgH",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1173,7 +1183,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "AXBlmIaXssBpd3Fa+kwjwLQb1/iS17U9n98QF7PrEQQBsrDqGYa/UHvP9eMSQFc7xxy63YaGklVEc+zsxq7CHCQEnNfRoaZdDnwsUwKmWxnYn4lRh3CRnB6gOvpRkamwTzo6Ytzy0enTk/xpedKn+Z8DUSn7CsdzN51bXQA8I2K32X7yAnnIKXwZfslGY5H8Y0eMEYSLh/Ny+xy2UQO2jT7GrWI9Ih8uT6wSdIXGXAnpjySRe5YMMXwVltzCkBw0Ow==",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1183,7 +1193,7 @@
             "changeable": 0,
             "api": "csp_AppFox",
             "ext": "Ac9bpM2BcSDtRFXJIKv7cKam+MagzI4MRN9VkD0cdbZYR2sdZMY+KrFlbb/4YNndRu8tZ6ryTJc7jJekLp6O4gnnRwzqwP3+4rp/r5A5u/Qt",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
   
@@ -1193,7 +1203,7 @@
             "type": 3,
             "api": "csp_FishHxq",
             "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1203,7 +1213,7 @@
             "api": "csp_CupFox",
             "searchable": 1,
             "changeable": 1,
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1214,7 +1224,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1226,7 +1236,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://www.czzymovie.com",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1236,7 +1246,7 @@
             "api": "csp_WenCai",
             "searchable": 1,
             "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1245,7 +1255,7 @@
             "type": 3,
             "api": "csp_Guazi",
             "searchable": 1,
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1255,7 +1265,7 @@
             "api": "csp_Zxzj",
             "searchable": 1,
             "ext": "https://www.zxzjhd.com",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1265,7 +1275,7 @@
             "api": "csp_TvDy",
             "searchable": 1,
             "filterable": 1,
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1275,7 +1285,7 @@
             "api": "csp_MqTv",
             "searchable": 1,
             "ext": "https://www.mqtv.cc",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
         {
@@ -1286,7 +1296,7 @@
             "searchable": 1,
             "filterable": 0,
             "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
-            "jar":"https://pubali.oss-cn-hangzhou.aliyuncs.com/20260315/182900_/4A6ymff6k9C9/fish03151828.png"
+            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Feaec8334-a3eb-4c1d-8aa3-38c8b43fede1.php"
         },
 
 
