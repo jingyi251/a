@@ -670,6 +670,25 @@
 
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
+
+{
+            "key": "哔哩lz",
+            "name": "哔哩lz",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "Bilibili"
+            },
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
+
+
  {
             "key": "捡的音乐新",
             "name": "捡的音乐新",
