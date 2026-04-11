@@ -173,20 +173,6 @@
         },
 
     {
-      "key": "热播影视",
-      "name": "🌋热播影视┃秒播",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      },
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
-    {
       "key": "韩剧看看",
       "name": "🫧韩剧┃蓝光",
       "type": 3,
