@@ -173,12 +173,36 @@
             "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.json",
             "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
         },
+{
+            "key": "七哥大洋马",
+            "name": "七哥大洋马",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/七哥大洋马.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+{
+            "key": "🔞 Beeg",
+            "name": "🔞 Beeg",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/%F0%9F%94%9E%20Beeg.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
 
 {
             "key": "AppFox模板",
             "name": "AppFox模板",
             "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/AppFox模板.js",
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/七哥大洋马.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
