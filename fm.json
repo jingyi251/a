@@ -112,7 +112,7 @@
 //https://16409.kstore.vip/tv/ngzmods.json
 {
       "key": "秒看蓝光",
-      "name": "🎇秒看蓝光",
+      "name": "🎇www.nan2025.com",
       "type": 3,
       "api": "csp_AppGet",
       "ext": {
@@ -136,7 +136,20 @@
       },
       "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
         },
-
+{
+      "key": "段友",
+      "name": "🎑南歌┃段友4K",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://shangjihuoke.com",
+        "dataKey": "8E2DC386FD452D05",
+        "dataIv": "8E2DC386FD452D05"
+      },
+      "jar": "https://gitee.com/nangezhe/kan/raw/master/ngzmods/nange.jar"
+    },
    
 {
       "key": "hipy_js_4K-AV",
