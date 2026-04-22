@@ -345,75 +345,57 @@
         },
 
 //https://gh-proxy.org/https://github.com/FGBLH/fgrjk/blob/main/%E9%94%8B%E5%93%A5%E5%BD%B1%E8%A7%86json
+ //{
+    //     "key":"AQY",
+    //    "name":"🐙爱奇艺｜追剧",
+     //   "type":3,
+     //   "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+     //   "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
+    //    },
+    //     {"key":"YK",
+    //    "name":"🐙优酷视频｜追剧",
+     //   "type":3,
+   //     "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+ //       "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
+   //     },
+    //    {"key":"TX",
+     //   "name":"🐙腾讯视频｜追剧",
+     //   "type":3,
+     //   "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+     //   "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
+     //   },
+     //    {"key":"MG",
+    //    "name":"🐙芒果视频｜追剧",
+   //     "type":3,
+    //    "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+    //    "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
+   //     },
+   //     {"key": "sgys",
+    //    "name": "🐙搜狗视频｜追剧",
+    //    "type": 3,
+    //    "api": "MJS_sgys",
+      //  "searchable": 1,
+      //  "quickSearch": 1,
+      //  "filterable": 1,
+     //   "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
+    //    "api": "http://www.meowtv.cn/js/drpy2.min.js"
+    //    },
 {
-       "key":"爱奇艺弹幕",
-        "name":"🐙爱奇艺视频 TG:@usfgrjk",
-        "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
-        "type":3,
-        "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
-         "searchable":1,
-         "quickSearch":0,
-         "changeable":1,
-         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/爱奇艺弹幕.js"
-         },
-         {
-         "key":"优酷弹幕",
-         "name":"🐙优酷视频｜追剧",
-         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
-         "type":3,
-         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
-         "searchable":1,
-         "quickSearch":0,
-         "changeable":1,
-         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/优酷弹幕.js"
-         },
-         {"key":"腾讯弹幕",
-         "name":"🐙腾讯视频｜追剧",
-         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
-         "type":3,
-         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
-         "searchable":1,
-         "quickSearch":0,
-         "changeable":1,
-         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/腾讯弹幕.js"
-         },
-         {
-         "key":"芒果弹幕",
-         "name":"🐙芒果视频｜追剧",
-         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
-          "type":3,
-          "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
-          "searchable":1,
-          "quickSearch":0,
-          "changeable":1,
-           "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/芒果弹幕.js"
-           },
-        {"key": "sgys",
-        "name": "🐙搜狗视频｜追剧",
-        "type": 3,
-        "api": "MJS_sgys",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
-        "api": "http://www.meowtv.cn/js/drpy2.min.js"
-        },
-{
-            "key": "还行",
-            "name": "🐙还行4K｜追剧",
-            "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
-            "type": 3,
+           "key": "还行",
+           "name": "🐙还行4K｜追剧",
+          "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+          "type": 3,
             "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
+           "searchable": 1,
+           "quickSearch": 1,
             "ext": "http://m51.gotto.top/api.php/v1.vod"
         },
-		{
-			"key": "T4-哇哇",
-			"name": "🐙哇哇影视｜追剧",
-			"type": 4,
-			"api": "https://catbox.n13.club/t9/哇哇影视.php"
-		},
+	{
+		"key": "T4-哇哇",
+		"name": "🐙哇哇影视｜追剧",
+		"type": 4,
+		"api": "https://catbox.n13.club/t9/哇哇影视.php"
+	},
 
 
 
