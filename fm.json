@@ -640,6 +640,49 @@
             "paichu": "1,2,3,4",
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
+{
+            "key": "阅读助手",
+            "name": "阅读助手",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "ReaderHelper"
+            },
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+{
+            "key": "清单播放",
+            "name": "清单播放",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2243.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+{
+            "key": "旺旺短剧",
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/ww.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 0,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+    
 
 
 

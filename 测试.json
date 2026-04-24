@@ -423,8 +423,9 @@
                 "ratio": 1.33
             },
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+
 
 {
             "key": "python集合",
@@ -437,8 +438,9 @@
                 "ratio": 1.33
             },
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+
 
      {
             "key": "php集合",
@@ -451,8 +453,9 @@
                 "ratio": 1.33
             },
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+
 {
             "key": "采集集合",
             "name": "采集集合",
@@ -465,8 +468,54 @@
             },
             "ext": "0",
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+
+{
+            "key": "清单播放",
+            "name": "清单播放",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2243.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+{
+            "key": "旺旺短剧",
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/ww.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 0,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+    
+
+{
+            "key": "阅读助手",
+            "name": "阅读助手",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "ReaderHelper"
+            },
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+
 
 //ext改为0就是正常和瑟瑟，2是瑟瑟，1是正常
         {
@@ -480,8 +529,9 @@
                 "ratio": 1.33
             },
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+
 
 {
             "key": "bili",
@@ -499,8 +549,9 @@
                 "type": "沙雕穿越#闽剧#福州评话#短剧#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
                 "cookie": ""
             },
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+
 
 //哦
 
