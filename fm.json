@@ -1018,237 +1018,361 @@
 		
 		
 
-//摸鱼    http://我不是.摸鱼儿.com
+//摸鱼    https://6800.kstore.vip/fish.json
 
-           
-        {
-            "key": "晚吟",
-            "name": "晚吟｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+          {
+      "key": "Kan360",
+      "name": "流离｜寒鸦",
+      "type": 3,
+      "api": "csp_Kan360",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+        "fishjx": [
+          "https://jx.xmflv.com/?url="
+        ]
+      },
+            "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "明玦",
-            "name": "明玦｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AbG7h4pmDnn/waoolgqc8W4kIhS+tE907yHIEgYckbWEi3wH79nTiAgj7bpB+YqToiFOM9EWVM678o/8wF/l6lmYKRX/nzLpvDy3R0qQPIQqjHln23L5L3+Psnk2XxFC5jCqmTu49ip/+ho2bvZpD3aWEof4ob377XwQS1uZYPh15i51WB128btBmVtAO+RbQwejzHfLdBDRFM/GUyRHwek=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+       {
+      "key": "三秋影视",
+      "name": "三秋｜APP",
+      "api": "csp_App3Q",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "厌离",
-            "name": "厌离｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AQ8xy13uUB+vU0X5VQoLoHQ0PbaWVadAyXpMKT4lGXmz4P8/XgMiirPtAaVdXwlAm5uF7AEvL3DXQh1rGvz8VkkK/iJRxAipX1t/HMeh8FiNDuXLu5Z6IRNARKpTACYVrIClJSw/mWpypTq/VHPWokB3OA8LPPKPaOao8P8nVbJ8xyA50XNWEVFnl2cVRf3xMlAzAZVOwhnDWXYRcDjo8oE=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+
+      {
+      "key": "玄羽",
+      "name": "玄羽｜APP",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AR2YshFQZFgTeyCygDO6OgGjn6YXU/1HL4Z+FScW+/hZp6UWxx1bbMyFzdNpVWIBdiG+VWvWc5rYXiGlkPXxMvzDyDfkUPpbmk6e4B9zkMSC+XolV6nAYXCNv92rOUwzoexLzhBRTevBRnrGwzziWxdfYzrSh8XPz5VIxJvRqAWJYlirJHqgVEpbXOhRj9mPU/pygOsDe5t7tbQG215gZ8a2JfA1d92i4At+CFD6G1g+RDRhk1MSUUPa01iskyl8iQ9x6amu8ZA9SDZnAIitOhI2/CcQ5gKB/dZOLi4TxJ21uX2Wutw1IajFcy/mO3250K+tWdYnyz3IQfDqWAtUTbGonl7h1pwhfX5V7PLEOmIpElD+fRAUBduYAqnfLK4sMyhjFD5uec/3TNR6SNDGH5V+OR63F405R9MbOMAcLzvpN5HrEQenVD1MYqr2u8jse1XcaaTD8fvyemBtV203kXNUrk8Ec1MVGdDvWAq5nJXL4Q8+jHKQsII99IVrHG8E9+RsLzjPXncJlhUtb+91Zog/AMdh2BOJtRg4PvFPbgPumrYuIzEPLCDw6Iw92MHcjDIFpwODko5WsHcpATY+GJPWKcG7T7kUnx0v29wGP4+vZRitcw1ZOehnCH/NDc3LV5L1PCKQ4ZsB5ffh65XVY+VbLGUVSvz/Mb34s4V1sXWL/enJEXUZQSKlSwEcpVCb/9j6hFOgw+YlfKRCCD9uI6FX4k32QRz9xdcCdabd9zrHgye+okzTayQq0CAMa8wDEfZIAPucT/hL9zSXFPFkeT4=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "枫眠",
-            "name": "枫眠｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "ASeCaY5Xxcx0BdbJGIqllhkRBuCPwC/Kv1uDvURkfncW+fNupjJjBKERvDuCKL7Nc8bCYJ/Fboktq3geJgU0aE2SxOjoiU03IEtvv1np76XEOBn7dBJNwW8toIqv9PBY9T18yzCX3DoyksVEv01kRtBDqSTgbilbqOHhtNEm+L3ti2PLM08SEhkA/nE//PAwfIVtUWhsYKorNLuB7RxQ2Egqj4D7q7Tw3sH/yNbHthqw",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "如兰",
+      "name": "如兰｜APP",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AR4m6OocKejmJLc/wMrs0F/7mtZ2j/FHbUOglMRrjrqqf9oNPQSPSJzNbwJYU2QQ2WJSaIX0MptpfTfytxuR93ymQSngeYaJFUGNRtyMnqCbfbqDaKMG7HUqC+hQcyi3qLDpghAlT7Bc/tRwmsob5R8f4oKz4Ctru9PS6j3vEIXAgqhOO6aALVYZdYfjpnOJUrq0q/rlZ5SPtUcjNLnR/uy1w+NliDCR+lmSjpOmT6suTn+/kTonfKFVNWpckeaDs0Md2uGkZWoIpf8zuNNpPLLExI7yj+hAMwvFFKPDwdMWNsV3JHUiUnaFB4rEzs/p0ANBWCCv4Omsn1VT/1wy+hAnDfjHWz615Ae3uN5DaRU98UGoWrigwo5qbFNLU5945JhOAcQHWiVesnj7Fa+xB4FlwwTjOhhTU1SQr2mkzIHsyWuXUfer9aBw+LgmZ9eo48CZDTEKM3pq7QP+uCXuFXgDlAtKgFqjlUk3I2YM6YTKrDRlXxpYHwNnKq32KdvGnacSzext7kKblBREEcEMZZEOX0S/Dx66vDJdDVU9LVFHRIAd+NUZda/K1SRS0j1lcqjmF93VPhEcHT+vSO/AtsAuBlziOYC8G6ndypldkdlhJeLDbqHZzXlp+xVXSvyWujsdhCjYnmhD9Po/P9Z+mSP2ffbKWk5hWJTZex+a1vfHvn+sXfALV0JMMEENotGO5g27SQpwcCWk9TJ/EQx3xYlcfrqplw2t3b1wkWPoIWl1CwCdP6gpEx/XfTi9Qx2dGg==",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "思追",
-            "name": "思追丨APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": "AZMWjtBVHqg1eqc24zPBCnp+8nUMJ1DhABffeziVNB/hZ1AHDr9HynmQ7Hea0MJa9TQvImvwo+VcBjCulptXIj6796jroFgU16XtcGODMtfDJ8RJjrEa+2QJ1eVamXkB+N3GrowCHjQsVd5GK4QAxVeW7oVMa/kmxFpF4XWFHhz5YGcXOSxIhznhRlZln5Ap8sol6sjWUfBhblNbLgjDBzKdTxu/NjbUZFhO8y6IP8SZhvrY0CxMo8/Kp6AnCYGRyA==",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "敛芳",
+      "name": "敛芳｜APP",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AZ8FEYQHBeg4QmYgsLdGvxtjyJFuTwgzcZ9EHI3saDKwh7Dg2a5gW6gQKPqFZK1MK8fhLSsT+GKU8cFzWs06VPwO2oBSsDIHbgL1nVIFO61e1K2BpRBHuRokjBydmnQsyX84Su+CQ20VALXImcsJBI0IInUo3Agae/DaJWNz2XgT6SJ6dXVnrjBKgqaXLDzewWBYU5oIwwpdRcnx4evDZwtaDaLLff/M0I9i+Km6wnfNYhV+n8wumTA+kKStzxKl4BcZlPFiOen19yN8zmTTl8AHGx8bDQXQv2NmQ6q/rki6IIJelnHqutgHDOJPq4G+aZJt6RuCz3yXqdv9AZfxWZipkpfbbrBUgn3royZO/bOBAxLta8i+hSBwIMXdnCqEkPmQoUXtQjCH79YBpi/ajOs9wmeL+YTlb0RZ7oML1BuaLXldcJHvOZsUcaTfM9stI2CqLgz906GkDZxykC5FZuYriNU8xzuRzeEqttMUqCkRAr2FH6Qp+vNXfxN0Q1tXbQ7iYguj9QeA0awSYYry2VyTzYot5168P3vTuKjlxycCuLKkVUWUg1HI9kCC5COK3JXplyzrh3xTXK1kolrSEn7HMs0PUmfEZHB3ISbdT6pB5ZkMioLGSbL34I4R/k2hP3vlRjjiIBA/D4qbj3DPkpEKT1Ci2y6MaEVndn+FbMvJ62LPytsmzBKF0C1EdmF8ekfzLzbzLFHhuMaX5Cmgsvb/TibwvIHjR+ntOU4cth0U7C274gKDU8kiupne9dknLw==",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "琼林",
-            "name": "琼林｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "AW8zc43nkd9VeK5DW/DjDZZyQ8CitfFSJkst0xRXhXKcj6hD8v1lusJ6ESqiEdq4U9Sr7SwyYTtqa4cJasPcQfIJNNXAbtzzK1SRuX5y5rV0MoS7+vWxG8iPCQvXee+amQTW4IiuoWX3HVnOSd+ViPayPdXO+rvvR+ymyTYToZAW8UikQ/chpFk3HKJ+bLBq/FejMjlZvZdbCyM/3ZYxY9E=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "怀桑",
+      "name": "怀桑｜APP",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Aey0H1IVVgH6JF5Tyng4o1l0UHiaXENvzMubfWofIdS4alGpPyrakxjaV+QnqNUkGgi/EJpuCcLxim8AQ6gYQYeIidvKCaYEV0B0Lk1HqWKSaBRDKF9kzx1VNgW8GaY1dYnzMD6DvETPpO88mKlwWRmZYCXuK/+FbtM37ENBbmyZ9hPLpzMLHky0gf+Oe5xB2FT94CnK4djI/jD3gqkCkDt9SmNrsYFFR2nDu1SrQJeVSgzx7M2LYuTj+E8PwbJAxBFH8g04gHQJtU6o/nrx2TqDK26WHFMejWvI8j8bHVQ5aK5Y4/fZ8lVIZHTAb3clJ7GTA+bgMSWDddCjIpKUzAAzKjrVEuMq59QTWta9ZvMN8rbzeTN9hMp2lQqIBTF4u/g657KJS5RKbLAr7lVcrcjrMvZwe6EVwpy3480CXbG+9TLTWm2hRbhMqXRUjMii3sOlQFcra+XF7vyGl7O+GRzEWxR+/UYUdJ6Vt7rzSiOUhNxdCunFEERKIk/1rIBcoHL3tPvXj7LOD/193xNTZR9TEvT//ET3qdyJvfPrTSBWk37ZKim1d4WSM3hwqSI+X/7vPXt40leKSXIGK15ajaHJtpQNRfxF1BA4pVSe602OQrRsQHYeBwASZl2+zIa8KCVg0EjD/qBWjk37VM5Iwl61ykswGgRWKWFzDzVDHYgg6vJ1aTWmZngusAwxClBMsTyM/B4ZxuodUjv9cAAUkUk=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "金牌",
-            "name": "金牌｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://qj3.ggtvb.cc",
-                "dataKey": "eecbio48dsq13kkk",
-                "dataIv": "eecbio48dsq13kkk",
-                "search": "searchList4",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            },
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "长泽",
+      "name": "长泽｜APP",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AXCBj5iowoVvHyi5t1+KdWKiwkguKBtxl+07UD+Yhlqa/ZPfvqsDVbvJjODnQyU9zCkd35xXPE5YEyFzoQdfnzrLSxPdSbNuguQnZpaa7FwK9J8rZYQCsaqrfXlbGcakhiSRXtj5RJLW6waEroeVrjCkbVz/xgEld9MVOgFkSZGuPPiKcJQKB+rzqXMVicBbol8cijO1iWzXIeuPfGQLOZvVTFZqrZGkFtR+j5+Jj0AWDDQ494uey8XIxIejWMSibD8xob6I77m/krY9DmZM6jHdG26MwkLkyGO9lSDubISJoKFzFYPM137ZDvJSIyWjioL/CkarK1A6hiRZK1o02os+l5CGFZZZWf4mLrh3WDXWitiaCnQGv94+zOt+ztjY5CNHBKAtlEKoes5JEaYYRLi661H77z9VErCFm5NwNxJ6wYLnRIHCM6/haRx0GqPR/h1tfPqZBhJQTJVgz6N80Hz1GRtDZKDw45BCkkjwtEnk9uKJF93dH/jThb4BcA9XxzEEV3mFUp8qXPUtJF0zxlJtnoYBDCEWT4Ax+h4kUa+jU8mB7Q8/38exbw1CsJphYP5wBYD07UfiUYZj/PW0n0f7/Zw/IGaF2bzJiYK3+kySYrvxTFB8dR3YnmEoqDSqB799pAapyoKhs+Re4/wW2klu3yDDPA5ePZj/R/+1MgXn/w4i2d/S/Cb494oEOCtz0jukudu8Ca1qZq9K+fVxxy1mEsa6yJUR3kvXHV1cojO/0MJhkABoGPFhnHGJK4/fVNJkCIMbLvetur4ZXLYZTss=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "忘机",
-            "name": "忘机｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "ARIf/javCFZrnb7bhwzDQ1I/gYi3vwqodTXDNuHLJQLoHd59j15mVOndyVuPO6QgZdzkptgM5xHcyglZVNZ5Y03yB+SaFazAu3GCkMHSzwpbm/dSSiQ8OxQeetnxiSz91ibY5976IFoMCFopDPhKbYNTr7teWVcVWi20mwhdkrg3Ul7mJ8cYHqa57ZUYzAH1Ab4ht/EMVZSnHosw6B+3jUNcHywS4S4CgRS+0BRsZFNaTcutrXgEYm7d12jGjT9cj7XmK0cj+2mV6zrCROKE+wUb6bLDVrtsxwHLykBah4DLQIlRxqKtSkCA3NU1U+Zlb800G77DrCf3g86bItws62w=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "晚吟",
+      "name": "晚吟｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AbrYAR+wwOYjHghDPvaX+/5t5b6NyxuD7nLJL5Mkgv5I2+1VyAvyMSPCcr0pkyfvVaks34Ns7c6YilTDKwkr15v9zSJ73LDie9jB36BsHpuJr4nA0TWLSZuYaL0J4HEDwJ6XmisDagr6zUEI08pEZgCt5SVyO22Pa9zv4XbKuR50iS2HF1lbZmsdjEkZ2JrB5J3+iUWtOLmIqxmHQCzP1C4=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "曦臣",
-            "name": "曦臣｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "AcQgxCZJh0zfuqWhi3EWO0lHZHvcxjcjkSwh/L0j5HEY9Fq3+o2hdqQXb/2viRHayRmBY64JuCWIkKKgRdpy650qa/qp5Yx5LMXbHLNBOw7Y2ZGmPIKIXZw4s07EI1OuOTxg5Jj1a2VvZaGGrWPO5Zx84C6LNBDniS3O/XXNtDexGf7mP03SjlVcLkS00BSjgZJIy7PZA3fuP0lUeIdK+T0JzxKFrX5IxrgxOGYTCb4UUXOKaASBFqPcbpdj1SMNkCxWhqz9lcA8n+r81dRn4TMOKoyFaxJmX3DfKc1UzGgH",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "厌离",
+      "name": "厌离｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AYzygyRIBpoo44RlNZLzD5sWPWEAyx0tMn+XdMPt6/KjGk1xiZH+VMpMMrE6+zxuI4MFN/wn1sW/cDZkVRwH6TyoWvZrBDczvNuGuiRM0rK0JDIrm80zIEOP9ByWWuCGPXyzHwqh38WCWC1z7v/taX/thj9tgSihEdHAgI7FRHvaUlZ/uL9Xr9p4neO5HFeJagkdhyE6xanOEFSPt7HRH7M=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "景仪",
-            "name": "景仪｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AXBlmIaXssBpd3Fa+kwjwLQb1/iS17U9n98QF7PrEQQBsrDqGYa/UHvP9eMSQFc7xxy63YaGklVEc+zsxq7CHCQEnNfRoaZdDnwsUwKmWxnYn4lRh3CRnB6gOvpRkamwTzo6Ytzy0enTk/xpedKn+Z8DUSn7CsdzN51bXQA8I2K32X7yAnnIKXwZfslGY5H8Y0eMEYSLh/Ny+xy2UQO2jT7GrWI9Ih8uT6wSdIXGXAnpjySRe5YMMXwVltzCkBw0Ow==",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "枫眠",
+      "name": "枫眠｜APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "Afw7EQZoX/L2gMvrCApQzIViOi20nBFjzar80zRimEjSc6rc6TqoE1aJuVCWGkKLGQ1R/nTsFk4xEH2lo/frIH0fJa+Vo4JEFmJzfan/VJbas3wGHhdyIkgMwJG5IzemGZR0vU4a1NpPNt6eHUQm6k4ePmMRxn7BtaKpYy/szXSNeV4jow6yzsgURQmqKMj5eXEm1DoIRtizl0Zdi4w1DLQ=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "麒麟",
-            "name": "麒麟｜APP",
-            "type": 3,
-            "changeable": 0,
-            "api": "csp_AppFox",
-            "ext": "Ac9bpM2BcSDtRFXJIKv7cKam+MagzI4MRN9VkD0cdbZYR2sdZMY+KrFlbb/4YNndRu8tZ6ryTJc7jJekLp6O4gnnRwzqwP3+4rp/r5A5u/Qt",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "思追",
+      "name": "思追丨APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AU307h2KNobLNHi8K6Don7Q6ak/s8rASRxeDMosaB2TJSi+m4PxR3WsjeCNpiB6xL2G2k8H35Ki0RQVYdRU/b0FwHjChf2nPpIBGA6Pl5vhXOWgqwuJP28NRd9Y8g13FrWWqboe0s8ArJ8Vh33rL3dmY8ljUBPDOGyEmOFMEYu6Ec1xsZDAtUzHXJQDkfup9GekHknvwhZXH4a1AR8nOmwI=",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-  
-        {
-            "key": "fishhxq",
-            "name": "韩小圈｜影视",
-            "type": 3,
-            "api": "csp_FishHxq",
-            "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+       {
+      "key": "fishhxq",
+      "name": "韩小圈｜影视",
+      "type": 3,
+      "api": "csp_FishHxq",
+      "ext": "https://fishapi.wya6.com/fish/fishhxq.php",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "CupFox",
-            "name": "茶杯狐｜影视",
-            "type": 3,
-            "api": "csp_CupFox",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "CupFox",
+      "name": "茶杯狐｜影视",
+      "type": 3,
+      "api": "csp_CupFox",
+      "searchable": 1,
+      "changeable": 1,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "RenRen",
-            "name": "人人｜影视",
-            "type": 3,
-            "api": "csp_RenRen",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "RenRen",
+      "name": "人人｜影视",
+      "type": 3,
+      "api": "csp_RenRen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "CZ",
-            "name": "厂长｜影视",
-            "type": 3,
-            "api": "csp_CZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://www.czzymovie.com",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "CZ",
+      "name": "厂长｜影视",
+      "type": 3,
+      "api": "csp_CZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.czzymovie.com",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "wencai",
-            "name": "文才｜影视",
-            "type": 3,
-            "api": "csp_WenCai",
-            "searchable": 1,
-            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "wencai",
+      "name": "文才｜影视",
+      "type": 3,
+      "api": "csp_WenCai",
+      "searchable": 1,
+      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "Guazi",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Guazi",
-            "searchable": 1,
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "Guazi",
+      "name": "瓜子｜影视",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "Zxzj",
-            "name": "在线｜影视",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "ext": "https://www.zxzjhd.com",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "Zxzj",
+      "name": "在线｜影视",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "ext": "https://www.zxzjhd.com",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "TvDy",
-            "name": "天堂｜影视",
-            "type": 3,
-            "api": "csp_TvDy",
-            "searchable": 1,
-            "filterable": 1,
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "TvDy",
+      "name": "天堂｜影视",
+      "type": 3,
+      "api": "csp_TvDy",
+      "searchable": 1,
+      "filterable": 1,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "MqTv",
-            "name": "麻雀｜影视",
-            "type": 3,
-            "api": "csp_MqTv",
-            "searchable": 1,
-            "ext": "https://www.mqtv.cc",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "MqTv",
+      "name": "麻雀｜影视",
+      "type": 3,
+      "api": "csp_MqTv",
+      "searchable": 1,
+      "ext": "https://www.mqtv.cc",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
-        {
-            "key": "Ikanbot",
-            "name": "爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "filterable": 0,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F1069338d-8ee3-44cf-8586-a5df76ec1e7e.php"
+    {
+      "key": "Ikanbot",
+      "name": "爱看｜影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "filterable": 0,
+      "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+
+    {
+      "key": "Jianpian",
+      "name": "荐片｜磁力",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "filterable": 1,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    {
+      "key": "Xb6v",
+      "name": "6 V｜磁力",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "searchable": 1,
+      "filterable": 1,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    
+    {
+      "key": "ChuXin",
+      "name": "初心｜音乐",
+      "type": 3,
+      "api": "csp_ChuXin",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    {
+      "key": "aiting",
+      "name": "爱听｜音乐",
+      "type": 3,
+      "api": "csp_AiTingMusic",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    {
+      "key": "Music24bit",
+      "name": "无损｜音乐",
+      "type": 3,
+      "api": "csp_Music24bit",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "categories": [
+          "周杰伦",
+          "林俊杰",
+          "陈奕迅",
+          "邓紫棋",
+          "薛之谦"
+        ]
+      },
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+
+    {
+      "key": "TingBook",
+      "name": "六月｜有声",
+      "type": 3,
+      "api": "csp_TingBook",
+      "searchable": 1,
+      "indexs": 0,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
+      },
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    {
+      "key": "TingBookJinXia",
+      "name": "堇夏｜有声",
+      "type": 3,
+      "api": "csp_TingBookJinXia",
+      "searchable": 1,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "https://m.ting15.com",
+      "style": {
+        "type": "list"
+      },
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    
+    {
+      "key": "Market",
+      "name": "网盘｜市场",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "KeJpmGBHNDNtao15t//le78AVNnA15NohxNlQzOy74KP4rP9PzNe6/JMxl2ealSMH+DMy3pMWGdoIgfZhbU6Gnwr6RCt2yx5qzhbchh4Dkea8uxJiFKZrXXX+78cGsE5xVesK28LUCDPGza58+ymXCFyviXGbf7VroGuGiCSI3O9U0RJIcWVbQWDQ2lWduKWYyFrlmEPQu3ePYFHUX8EGXDXMr15WH88JVlN7vnLqUhJv4qheq3TMcdceNQZ4e96eiWjAtdlSkOId644S2gQbHPsE1m68RxAx95ZTlMf0sGMFzsDp6MA9eQrbRP3sPWfW4I2nNxjTga+BbnLe5ES7TrsDfzJ7wCqjDAzW2LoHxxvnlJ7qrc+pWpKJARiszk+7dVLhNqhfjWY/i/GftEZiA71wbT4wul4QoPCmVrIYyaFWFxUaVHUVGrqEmw++js/87Xb8sawjnFXROsI6qK0+wRmiiGJ37nw0Dsyuxn7jUMYOpzEQFTlxq8Y3JcBGK8lGIcTrx0OTGwFH8Rhdsur4gdF4fxHM9BvKI5LFAO5wNSpAY429fskzXx97IsdI7HIeSQ+YY5Yir2ZnVeDDBK8qA==",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
+        },
+
+    
+    {
+      "key": "Fishdrive",
+      "name": "摸鱼｜媒体库",
+      "type": 3,
+      "api": "csp_FishDrive",
+      "indexs": 0,
+      "searchable": 1,
+      "filterable": 1,
+      "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/fishdrive.json",
+       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260421/tZqx/fish04210306.php"
         },
 
 
