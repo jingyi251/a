@@ -411,6 +411,30 @@
 
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
+{
+      "key": "jabie",
+      "name": "jabie",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/jabie.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+{
+      "key": "在线之家",
+      "name": "在线之家",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/在线之家.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
 
 {
             "key": "js集合",
