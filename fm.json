@@ -312,6 +312,19 @@
 
 
 
+{
+            "key": "盼她",
+            "name": "💥｜盼她｜免扫",
+            "type": 3,
+            "api": "csp_PanTa",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
 
  
  {
@@ -561,6 +574,18 @@
             "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
         },
 
+{
+      "key": "在线之家",
+      "name": "在线之家",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/在线之家.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
 
 
    {
