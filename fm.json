@@ -109,7 +109,7 @@
           "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
           "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
       },
-//https://16409.kstore.vip/tv/ngzmods.json
+//南哥https://16409.kstore.vip/tv/ngzmods.json
 {
       "key": "秒看蓝光",
       "name": "🎇www.nan2025.com",
@@ -259,7 +259,11 @@
 {"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0}, 
 
-//https://16151.kstore.space       https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
+
+//  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
+//  https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/config
+
+// 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 {
             "key": "腾腾视频",
             "name": "🎇｜腾腾｜解析",
@@ -309,279 +313,233 @@
 
 
 
-
- //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
-//  https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/config
+ 
  {
-            "name": "💬嗷嗚|彈幕|豆瓣",
-            "key": "GoConfig",
+            "key": "金牌影视",
+            "name": "💥｜金牌｜影视",
             "type": 3,
-            "api": "csp_GoConfigAmns",
-            "indexs": 1,
-            "searchable": 0,
+            "api": "csp_Glod",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+       {
+            "key": "guazi",
+            "name": "💥｜瓜子 | 影视",
+            "type": 3,
+            "api": "csp_Guazi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {},
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "jianpian",
+            "name": "💥｜荐片｜P2P",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/4825D8E_773_jp_20260131234113588newMediaFile.bmp",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "Xb6v",
+            "name": "💥｜新6V｜磁力",
+            "type": 3,
+            "api": "csp_Xb6v",
+            "searchable": 1,
+            "filterable": 1,
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "热播影视",
+            "name": "💥｜热播｜影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/douban.json",
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "ext": {
+                "site": [
+                    "http://v.rbotv.cn"
+                ]
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "XinHan",
+            "name": "💥｜韩剧｜影视",
+            "type": 3,
+            "api": "csp_XinHan",
+            "searchable": 0,
+            "filterable": 1,
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
  {
-            "name": "🥔瓜子|秒播",
-            "key": "Guazi",
+            "key": "灵虎",
+            "name": "💓｜灵虎｜APP",
             "type": 3,
-            "api": "csp_GuaziAmns",
-            "searchable": 1,
-            "filterable": 1,
             "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "version": "120"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "缘梦",
+            "name": "💓｜缘梦｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://165.99.42.137:5432",
+                "dataKey": "1234567890987654",
+                "dataIv": "1234567890987654"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "爱影",
+            "name": "💓｜爱影｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
             "changeable": 1,
             "ext": {
-                "sites": "",
-                "filters": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/guazi.json"
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt",
+                "dataKey": "ada211sdfsff3261",
+                "dataIv": "ada211sdfsff3261",
+                "init": "initV122",
+                "search": "mineInfo",
+                "ua": "okhttp/3.10.0"
             },
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "☕韩剧|秒播",
-            "key": "Hxq",
+            "key": "金牌",
+            "name": "💓｜金牌｜APP",
             "type": 3,
-            "api": "csp_HxqAmns",
+            "api": "csp_AppQi",
             "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "ext": {
+                "url": "https://qj3.ggtvb.cc",
+                "dataKey": "eecbio48dsq13kkk",
+                "dataIv": "eecbio48dsq13kkk",
+                "search": "searchList4",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "🌱春天|秒播",
-            "key": "NewGr",
+            "key": "奇奇",
+            "name": "💓｜奇奇｜APP",
             "type": 3,
-            "api": "csp_NewGrAmns",
+            "api": "csp_AppQi",
             "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
             "changeable": 1,
-            "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw==",
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-  {
-            "name": "🍑糖心|秒播",
-            "key": "TnewGr",
-            "type": 3,
-            "api": "csp_TnewGrAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
- {
-            "name": "🎪伊外|秒播",
-            "key": "YIys",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "ext": {
+                "url": "http://110.42.67.221:8009",
+                "dataKey": "123456789abcdefg",
+                "dataIv": "123456789abcdefg",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "🎯荐片|秒播",
-            "key": "JPian",
+            "key": "老鹰",
+            "name": "💓｜老鹰｜APP",
             "type": 3,
-            "api": "csp_JPianAmns",
+            "api": "csp_AppQi",
             "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/jpian.json",
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "ext": {
+                "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+                "dataKey": "zxPtEUDGVllIUhDB",
+                "dataIv": "zxPtEUDGVllIUhDB",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "🔥热播|秒播",
-            "key": "Rbys",
+            "key": "优兔",
+            "name": "💓｜优兔｜APP",
             "type": 3,
-            "api": "csp_RbysAmns",
+            "api": "csp_AppQi",
             "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://v.rbotv.cn",
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "ext": {
+                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+                "dataKey": "UrWKPnmQWJA8AQzd",
+                "dataIv": "UrWKPnmQWJA8AQzd",
+                "ua": "okhttp/3.10.0"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "🥇金牌|秒播",
-            "key": "JinPai",
+            "key": "juheduanju",
+            "name": "🌟｜聚合｜短剧",
             "type": 3,
-            "api": "csp_JinPaiAmns",
-            "searchable": 1,
+            "api": "csp_JuheShortDrama",
+            "changeable": 0,
             "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "🪁杜北|秒播",
-            "key": "Dubk",
+            "key": "HeMa",
+            "name": "🌟｜盒马｜短剧",
             "type": 3,
-            "api": "csp_DubkAmns",
-            "searchable": 1,
+            "api": "csp_HeMa",
+            "searchable": 0,
+            "changeable": 0,
             "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/json/dubk.json",
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-{
-            "name": "🏆高端|2K",
-            "key": "Ddys",
-            "type": 3,
-            "api": "csp_DdysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-     {
-            "name": "🏭厂长|2K",
-            "key": "Czzy",
-            "type": 3,
-            "api": "csp_CzzyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "📽️LBV|2K",
-            "key": "Libvio",
+            "key": "JuWang",
+            "name": "🌟｜剧王｜短剧",
             "type": 3,
-            "api": "csp_LibvioAmns",
-            "searchable": 1,
+            "api": "csp_JuWang",
+            "searchable": 0,
+            "changeable": 0,
             "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
         {
-            "name": "📀俩BT|2K",
-            "key": "Bttwo",
+            "key": "七星短剧",
+            "name": "🌟丨七星丨短剧",
             "type": 3,
-            "api": "csp_BttwoAmns",
+            "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
             "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "🍭豪堪|短剧",
-            "key": "HHkk",
-            "type": 3,
-            "api": "csp_HHkkAmns",
-            "searchable": 1,
-            "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "🛸盒马|短剧",
-            "key": "Hema",
-            "type": 3,
-            "api": "csp_HemaAmns",
-            "searchable": 1,
             "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "🧸拜拜|短剧",
-            "key": "Bddj",
-            "type": 3,
-            "api": "csp_BddjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "🎀围观|短剧",
-            "key": "Wgdj",
-            "type": 3,
-            "api": "csp_WgdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "🐠锦鲤|短剧",
-            "key": "JLdj",
-            "type": 3,
-            "api": "csp_JLdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-               {
-            "name": "🐱喵喵|短剧",
-            "key": "Qmdj",
-            "type": 3,
-            "api": "csp_QmdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "⭐星星|短剧",
-            "key": "Xydj",
-            "type": 3,
-            "api": "csp_XydjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
-        },
-
-        {
-            "name": "🎂岁岁|短剧",
-            "key": "Spdj",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/bfdb--cvdvds.png"
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
 
@@ -1018,8 +976,7 @@
 		
 		
 
-//摸鱼    https://6800.kstore.vip/fish.json
-
+//摸鱼    https://6800.kstore.vip/fish.json     http://www.小不点.com
           {
       "key": "Kan360",
       "name": "流离｜寒鸦",
