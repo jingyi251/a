@@ -590,10 +590,10 @@
 
 
 {
-      "key": "55电影",
-      "name": "55电影",
+      "key": "4KVM",
+      "name": "4KVM",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/55电影.py",
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/4KVM.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
