@@ -109,205 +109,11 @@
           "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
           "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
       },
-//南哥https://16409.kstore.vip/tv/ngzmods.json
-{
-      "key": "秒看蓝光",
-      "name": "🎇www.nan2025.com",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": {
-        "site": "https://mk1080.top/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
-        "ua": "okhttp/3.14.9"
-      },
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-{
-      "key": "hipy_js_4K-AV",
-      "name": "🧲磁力在线┃原盘",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://16409.kstore.vip/js/dyg.json",
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
-    {
-      "key": "瓜子影视",
-      "name": "🍉GZ┃HD2K",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
-    {
-      "key": "金牌影视",
-      "name": "🔦金牌┃HD2K",
-      "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
-    {
-      "key": "韩剧看看",
-      "name": "🫧韩剧┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://16409.kstore.vip/js/hanjukan.json",
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
-
-    
-//https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
-         {
-            "key": "直播转点播",
-            "name": "直播转点播",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
-            "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
-            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
-        },
-
-
-{
-            "key": "独播库",
-            "name": "独播库",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-
-{
-            "key": "兄弟影视",
-            "name": "兄弟影视",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/兄弟影视.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-
-{
-            "key": "鬼片之家",
-            "name": "鬼片之家",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/鬼片之家.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-{
-            "key": "AppFox模板",
-            "name": "AppFox模板",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/AppFox模板.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
-{
-            "key": "wv_3q",
-            "name": "wv | 3Q影视",
-            "api": "csp_WvSpider",
-            "type": "3",
-            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/3Q%E5%BD%B1%E8%A7%86..js",
-            "searchable": 1,
-            "filterable": 1,
-            "switchable": 1,
-            "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/jar/WvSpider.jar"
-        },
-
-
-
-
-
-
-
-
-
-//香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
-
-{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
-{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net"},
-{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0}, 
-
 
 //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 //  https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/config
 
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
-{
-            "key": "腾腾视频",
-            "name": "🎇｜腾腾｜解析",
-            "type": 3,
-            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js",
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
-        {
-            "key": "酷酷视频",
-            "name": "🎇｜酷酷｜解析",
-            "type": 3,
-            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js",
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
-        {
-            "key": "果果视频",
-            "name": "🎇｜果果｜解析",
-            "type": 3,
-            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js",
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
-        {
-            "key": "奇奇视频",
-            "name": "🎇｜奇奇｜解析",
-            "type": 3,
-            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
-            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js",
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
-        {
-            "key": "360影视",
-            "name": "🎇｜六零｜解析",
-            "type": 3,
-            "api": "csp_SP360",
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
 
 
 
@@ -356,10 +162,9 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/4825D8E_773_jp_20260131234113588newMediaFile.bmp",
+            "ext": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/config/jianpian.json",
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
-
         {
             "key": "Xb6v",
             "name": "💥｜新6V｜磁力",
@@ -554,7 +359,185 @@
             "filterable": 1,
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
+{
+            "key": "腾腾视频",
+            "name": "🎇｜腾腾｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/TXSP.js",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
 
+        {
+            "key": "酷酷视频",
+            "name": "🎇｜酷酷｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/YKSP.js",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "果果视频",
+            "name": "🎇｜果果｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/MGSP.js",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "奇奇视频",
+            "name": "🎇｜奇奇｜解析",
+            "type": 3,
+            "api": "https://pan.vma.cc/pan/down.php/ec67b9045d393737f073d2c9365533f0.js",
+            "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/js/AQY.js",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+        {
+            "key": "360影视",
+            "name": "🎇｜六零｜解析",
+            "type": 3,
+            "api": "csp_SP360",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+
+
+
+
+
+//南哥https://16409.kstore.vip/tv/ngzmods.json
+{
+      "key": "秒看蓝光",
+      "name": "🎇www.nan2025.com",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
+        "ua": "okhttp/3.14.9"
+      },
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+{
+      "key": "hipy_js_4K-AV",
+      "name": "🧲磁力在线┃原盘",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://16409.kstore.vip/js/dyg.json",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "瓜子影视",
+      "name": "🍉GZ┃HD2K",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "金牌影视",
+      "name": "🔦金牌┃HD2K",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+    {
+      "key": "韩剧看看",
+      "name": "🫧韩剧┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://16409.kstore.vip/js/hanjukan.json",
+      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
+        },
+
+
+    
+//https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
+         {
+            "key": "直播转点播",
+            "name": "直播转点播",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
+            "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
+            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
+        },
+
+
+{
+            "key": "独播库",
+            "name": "独播库",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+{
+            "key": "兄弟影视",
+            "name": "兄弟影视",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/兄弟影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+{
+            "key": "鬼片之家",
+            "name": "鬼片之家",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/鬼片之家.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "AppFox模板",
+            "name": "AppFox模板",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/js/AppFox模板.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+{
+            "key": "wv_3q",
+            "name": "wv | 3Q影视",
+            "api": "csp_WvSpider",
+            "type": "3",
+            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/3Q%E5%BD%B1%E8%A7%86..js",
+            "searchable": 1,
+            "filterable": 1,
+            "switchable": 1,
+            "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/jar/WvSpider.jar"
+        },
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
@@ -693,6 +676,29 @@
             "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
     
+
+
+
+
+
+
+
+
+//香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
+
+{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
+{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net"},
+{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_JianPian","name":"🔨荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0}, 
+
+
+
+
+
 
 
 
