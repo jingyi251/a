@@ -102,20 +102,27 @@
     ],
     "sites": [
 
-      {
-          "key":"drpy_js_豆瓣",
-          "name":"[豆瓣[js]",
-          "type":3,
-          "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-          "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
-      },
+      //{
+        //  "key":"drpy_js_豆瓣",
+        //  "name":"[豆瓣[js]",
+        //  "type":3,
+         // "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+        //  "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
+   //   },
 
 //  嗷呜接口：https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config
 //  https://gh-proxy.org/https://github.com/JJBJJ/FreeSpider/blob/master/config
 
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 
-
+{
+            "key": "Douban",
+            "name": "drpy_js_豆瓣",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "filterable": 1
+        },
 
 
 {
