@@ -127,20 +127,6 @@
 
 
 
-{
-            "key": "盼她",
-            "name": "💥｜盼她｜免扫",
-            "type": 3,
-            "api": "csp_PanTa",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
  
  {
             "key": "金牌影视",
@@ -368,6 +354,21 @@
             "filterable": 1,
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
+{
+            "key": "盼她",
+            "name": "💥｜盼她｜免扫",
+            "type": 3,
+            "api": "csp_PanTa",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+
 {
             "key": "腾腾视频",
             "name": "🎇｜腾腾｜解析",
