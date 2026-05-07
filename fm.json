@@ -121,9 +121,10 @@
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
-            "filterable": ,
+            "filterable": 1,
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
+
 
 
 {
