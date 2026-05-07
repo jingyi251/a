@@ -151,16 +151,6 @@
         },
 
         {
-            "key": "jianpian",
-            "name": "💥｜荐片｜P2P",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/config/jianpian.json",
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-        {
             "key": "Xb6v",
             "name": "💥｜新6V｜磁力",
             "type": 3,
