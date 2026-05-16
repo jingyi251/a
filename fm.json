@@ -1,5 +1,5 @@
 //  没有王二小     https://9280.kstore.vip/newwex.json                
-//  肥猫   http://肥猫.com      
+//  肥猫   http://肥猫.com      http://hello.肥猫.net
 //饭太硬  http://www.饭太硬.com/tv    
 //  ok   http://ok321.top/ok        
 //小米  https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json              
@@ -9,7 +9,7 @@
 {
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
     "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
@@ -323,17 +323,7 @@
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
-        {
-            "key": "JuWang",
-            "name": "🌟｜剧王｜短剧",
-            "type": 3,
-            "api": "csp_JuWang",
-            "searchable": 0,
-            "changeable": 0,
-            "filterable": 1,
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
-
+      
         {
             "key": "七星短剧",
             "name": "🌟丨七星丨短剧",
@@ -458,30 +448,11 @@
       "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
         },
 
-    {
-      "key": "韩剧看看",
-      "name": "🫧韩剧┃蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://16409.kstore.vip/js/hanjukan.json",
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
-
+   
 
     
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
-         {
-            "key": "直播转点播",
-            "name": "直播转点播",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
-            "ext": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbzdb.json",
-            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
-        },
-
-
+        
 {
             "key": "独播库",
             "name": "独播库",
@@ -528,17 +499,6 @@
             },
             "changeable": 1
     },
-{
-            "key": "wv_3q",
-            "name": "wv | 3Q影视",
-            "api": "csp_WvSpider",
-            "type": "3",
-            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/3Q%E5%BD%B1%E8%A7%86..js",
-            "searchable": 1,
-            "filterable": 1,
-            "switchable": 1,
-            "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/jar/WvSpider.jar"
-        },
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
@@ -556,19 +516,6 @@
                 "class": "Bilibili"
             },
             "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
-{
-      "key": "在线之家",
-      "name": "在线之家",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/在线之家.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
 
 
@@ -626,58 +573,7 @@
         },
 
 
-{
-            "name": "TV-无水印资源",
-            "api": "https://api.wsyzy.net/api.php/provide/vod",
-            "detail": "",
-            "bz": "1",
-            "paichu": "1,2,3,4",
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
-{
-            "key": "阅读助手",
-            "name": "阅读助手",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "ext": {
-                "class": "ReaderHelper"
-            },
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
-
-{
-            "key": "清单播放",
-            "name": "清单播放",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/zh/2243.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
-
-{
-            "key": "旺旺短剧",
-            "name": "旺旺短剧",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/ww.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "searchable": 1,
-            "changeable": 0,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
-    
-
+{    
 
 
 
@@ -686,7 +582,6 @@
 
 
 //香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
-
 
 {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
 {"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
@@ -705,7 +600,7 @@
 
 
 
-//饭太硬    http://www.饭太硬.com/tv 
+//饭太硬    http://www.饭太硬.com/tv   http://www.饭太硬.art/tv  https://www.饭太硬.net/tv
 {
             "key": "MTV1",
             "name": "🎙️易听音乐┃带歌词",
@@ -897,166 +792,6 @@
 		
 
 //摸鱼    https://6800.kstore.vip/fish.json     http://www.小不点.com
-{
-            "key": "FishMuou",
-            "name": "木偶｜4K",
-            "type": 3,
-            "api": "csp_FishCloudFishGuard",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://123.666291.xyz",
-                    "https://666.666291.xyz",
-                    "https://www.muou.site",
-                    "https://www.muou.asia"
-                ]
-            },
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        
-
-
-             {
-            "key": "若寒",
-            "name": "若寒｜APP",
-            "type": 3,
-            "api": "csp_AppEyFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "AZkhLg8UH9cJk+fre8TqCUEORXUQQByszbMuLXDL6hHHwKQIdllVQGOBqU+ovduV3l3kCaVakm44257EDbAcyOWpPUEo/CaMEKtEIBOOSvdiW1XmbR1k5+f9+iWgBBnt/MUEu4Y67MmQUUWhE6t56eWATTemBk8t0EusDKq3J8kDIWuHf2O0U2wB0pIBngTXjLtMNXptoo10b12ylUe0JRHBydJ0qMtFD/0EENWCKg7/kt+berUWhu4HN2IVRH9AubTkxjBWFQ/cfxVNU74EfMhKCkBhQr1qKtducbNEyxjJHfnRxAragrtefeY5r3HMu23vfFjmcvK5qlkUqaeyJITPx87NC/8ylsi9jxT/So/p5V6KHywmpSN9kRjWeeZ8LVnG3agzJTiRRQxae7v/5XxYfEOCNcIBZrnrw3J50b8HT85LFd8+/gGZN/3rw1sooQI63pM+rJZ9H0UgAYwfELZnVTRQYMUXSNXHkEnleb8mmjODqG8E24TMT6Ulz0f70T2/NWhzvqqcz7XVhEjad/MtQw4Z4HI4FSFKoXBiZa8IkIxdp/836uTb3pqjkkgBbVMdFNnfidNsR+rFQoUSrZrEGEgh6a6IA1Ye4Gy6D/vTPINBjgE6HDepfBGb5hlYVzMwKhJ95gbiVdzG/hbnBHVPBAFTMdlTM1Vqkq7xyX6rGFzdHrVd00Ui2O8ivYRyiA==",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "玄羽",
-            "name": "玄羽｜APP",
-            "type": 3,
-            "api": "csp_AppEyFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "AU15oqAr8ldNhctrCxR+6FnSpTjCRl47OB3HeP7f7ne4Qpw/jvjLN2p6LC0Rt9wMpVHQD5XgCXdlcSwuUFOLeYr45vWfu9U3sxzU5XqRtgAxSzjdQaafORQgznXT8fDaPQoo12H77r6oPzpT9NH+7sp6+eMCKLlHT1nL8GunRVuuoC6QOFYLhVXR2AVa2ph6trmAeMPGeoOYy9ZUO+ir7i32sDW9/jDJEQNu0+gQ26l7J6nKeB4diUR+ZqbwH14CjXR2utj3iN/l9gSZHK2DdKJtCxaS8UlhJjuaCn7APGKVhW35lHzM5C9KO61Zi9lBuwraSRtkY0HmArZ0bwKZBi4j4wkjP7YW2xD6srFajGxAsU/6MpVs6VPmZw2rkh92HRAvt3G7B1bG+iu3AYkccc6UOKQXGv9z6ThsY6vC6ism73CnvbodbZatqIFKOCrSMWWOzyEN2UI9FTFn6xkpKzsFSQTSiv6F3veIKYSLSEY3RCdzT7JrLdr3S5upW21sNo6YKzC77Nl0yIZgX2EYfFk7f3crYuVzXa5Ce+RCOHru9ydWTPfo+WmUKHmbymGwn/a5WLW3qED3A+9mCYTf0MknisljSOJxMckWp9ivJHdLiCPayV3HgKqKZelpXJI5IHlqu3qaAk3LDZyezzPVQuFdmId3egCQKNeoaxfGtPZV0haqWCSZGKO9Qg9s37SeCZxaF1dYPFOkoRqJ0bXZgR4ZwbgtaF7/uNghVyh6UovdZALf3m5RqtjKOSGHhNl7rvrRVx0tIbg3GN+wlc0rork=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "如兰",
-            "name": "如兰｜APP",
-            "type": 3,
-            "api": "csp_AppEyFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "Ac3h6XaxxXRNH21LbBkNwm1xOnwqX+coY8MCu+Uz/B+HLewNBxy2ALWw0c8hwdpyYQbXl0cBj8kHcGVtynsIQtqw6JtdSdOy+UErmSajPsBhjYcCrz7CZmcy8PNAnS88POwtpmFTZ3eYI3kHkING4+5H+9BbzkScoZvvss6heQQfvwTuxdTX8GwklLsI/6SfTtJIcDXXKomaJrRKFGk2qVikEGlIQ/b0sAa9IUKpfivhZZ0LXYs8ZR9MHvFwH9QS1alTjkiuZeoUtw7tqlXzxvNCh2FrD422LeJV6iDZGJZSLW6nUGgR+XTwT9wElzRO7jfARe9w4gxZXg4HftpIvMfCPRFaUxQX4bUfFtrkBuDcJGeB0ptbY4wO72mvzkj6wlg+vRaG7DWXl/PIwXcGSUxPwcu9tlZH6clcYE/5fOnogfkvTlVKQdzcmo+gR6UNAt9rYFDWNIkAAy5rRFCdIeRxLyNWlxhMMxcTtCckg6Bm2+POW5zJQs+i4+DSZnp1/xjcVP+l7j2hXB/PWfXSIcir88WoCDoU4szxsJW28/GSkV5qneRQd5NPG6meiYReeqOBFxB5au2ZhILQgcOAU8Zubm8K8Os0UMFPW3O8SPSOjzHzt0VfP6sleC2r7XF2Yb8XS8XnxVRDFNwHhSnLJ6/OxnC1z0302KyI4bEqdSuu9rfpOvVvDTBJc+mCsQGVyaK4UO2JWs8h97ftB3DUcQmT6lvfqELDx847EzsUZEZpxtbMSbclkVGUmEi30R1ppg==",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-        {
-            "key": "敛芳",
-            "name": "敛芳｜APP",
-            "type": 3,
-            "api": "csp_AppEyFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "AXoPC4/s596Z8mmQr+qinqC8Y86UUhi3cIq4pQL9prTGcuX2TWwFHyHLsPqjZBhxlpfmcq2xZq/3fBGp3MAveeo2IBtZ/R441cYTRFIUJPxdADA4w9YguWzAy/qixbvYvK+WoYjxZAjLUPrzio9UMnrTp5bxiPRZy4QvraCCU2Z9d7AR3ga+ecle7rp0vRezYGv8uPZGBsGnMAuTBw1MCn7osLCRbiVW+asjc7kfv4vKmmgkruKxv3ml8/L+OlDv4+qTkSg+5lnRo2DYVbENTCVMCOhE1AMLOjUpn403GflNlAO1JwN27Ab/WHUQjpTAbugK6EdNDJgkFjAmWxrX3TJ4ekZgPiUjSUkpkoqowWqFgpALLlJyW5OE7Cmw0Tt9qOTs2YnCGcc7lt5iQy33wnn+0LaF5/fxDp7KXKg44BjsA5sYrR/BkvLivhTqrcXbj8BQOtpKimPKZ7RqUps53G9XLAJ46gi9ZSk97LkWhneoIAh+cqSxWDG2boCqcMpqZeswFwabkuav7DZ6IeUc81h4fDlhCDuyUh8FfcsGb+peaGE/pID9AkvKlAMDjxO1cbnkkMZ46fm4t7cC88VyQZYUz2b/mLQB73M2IsYHfDFOH4g0yJY3TY/Ss7HN9m8xWPrAzLD+8W6SMx34Kz2cV9mIo6BM1lNKKa7JX40CDWi6o6KIGWx5sghkePPJHho8UDEZUnu6JMdgWryks8+zMqv/OLf35WtsE6QWjL66Ydp+myZMaKTCdE6liE2nRXNKUw==",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "怀桑",
-            "name": "怀桑｜APP",
-            "type": 3,
-            "api": "csp_AppEyFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "AYo9f2bo6h84TRhZh2yaCr4D2ssw8FTAdNAGQJuBZTFGIx2JVSQlQ8fSkm/ecpq26y/RTamSwGfXwPZkwCQvAZe1zwZ7IYdaKsDT1kU0F4BJhGI8Lk2GMzWQZ7QbNqQO04BJVqDN06Jtk6tDEuX/bYyIcNTzgii/snh3ZubbT1OgV+A/MDwxNCyQqeMf9801wXlpee+TLNLATWSixFb/fuAFrOoKoDA3KyTfFzga/CO7j4D4s/+eTdlOqTZLJEdHQGgjZ+fFTwROKSw88t305DRZMgZ7wBzzMYSSokQ/XmLb86hcsb402c0qkk5FIhN+MoMcYycekBR7aMBSn94RKpFtVuiqSb/0UUWp0T8orBDwH7h8h7wdSSEiITeW0NrdUaKoQDGOIX9R8k1tUA2mLZYaI4/+WKOrWNDW6vyj3drUxKhjEhBNfSTlDYk1ldZnWXFIgVaTSJgaIIJc2fi0EI88o00mT8VOszhtWw5EwJc2F+vx1h0Ps7F7IsowOmFPfHt2xSrAMJWifcsl/Cvb1Es7DEUul32DyYIBYRLirfPMsUirKRRIStzqPT5wes2kXk6fVsLOGwvyUzMgnog3bT7JNoFrXewGDvuNCRyegeITXZmb4F/8vr/0la/9C7c5/mPOrQs1ugfJj2mzyca4ka1K8FGZaIb98d6Hj1mdrETy0tYPPOO4IfhAgnq15mRBl6ICyzpr5gt/KcluaeD6nW8=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "长泽",
-            "name": "长泽｜APP",
-            "type": 3,
-            "api": "csp_AppEyFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "AQ17HuY61rPP2dbcSn2nSCN4S44Cabq0NOitJy24O+hRR7pPAGofPYfVOJVOqdMtxGvYgSmemYKVQmIByfDN7GTiAtpY0X9Lb+WcGC11tE6mi+4V0gmmsDGjDiMG4KEImv2EDuRpnnNriVtQzrgxIUuxUBFusY5JkCqcH92i7exqxr44S6+vY3cNlGQgyF3OVDHb+SqgR1A1K2+/5BJf/btlUwW6ZVmOGjOFTmKIEWBIZosQ8VIrc5PxQRsaQTtsVo4sRIrP8VVh4ggWgjRICpmEL47SHqi5702tLQY9D3tChf9Hvv5KznhBIVSds3pp3yfvHMpa3PabR0QyAvPLccgn0TC1U/ossV2QtoW+szCCzfVrvQmN1eVI77AyK1OxXa7idMyXEMvK9F999JoV2xTcTTVySk4/Lb/JqzH3SNu8umOuEb+RY5+E40JB6h+7eU/zoe42Fn0xtUJNpDDMlXLYZutEKBKhtIU8V1y45l/krV4NkyYFxPi0gylIpGeteMURAtq7yIuYz9YjqYFUohMi+Ba6jQ+OE4sJ6uXXyq954Elhhxbk7kUI2ArrtXg62ZP3YiLuSPGpb3tWH/CvWmYdC7VsKUDCqIsV1MNpgO2qsGXgCOpfuWC+3NCwjlbKlPzULlIM01nJuziEKppX2Q0d/2ks2Gm2UqYlZhNjMsRKVGYnxmldvroy7EnsooS99RwVfB5+uMq51ZBlfPWnA1Fvhoyl8lklu4g6on3IMN6XRlmMHLVEtTZM1kNjI9NUeTzKOZwZJeeV0T8ORtZRT84=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "琼林",
-            "name": "琼林｜APP",
-            "type": 3,
-            "api": "csp_AppGetFishGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AVh0HWK1SDzkdXJYRW2UYzqfUUzzUUkXbylDdT+uszsv1n0ylgog2m1ILC47MPNbLlTgQP86OpyI804iQhgYvyydxjwJUHoy7eeCS7t5O+0pEDe/GNhi7nUDAETRCpdEni9tiV72knqoWPObqmW1Z3XH4iu2LkJviveOpSzab0+I619w9/8re1Dl3gnhWtvDkhxfOKylkH8jn/S8ZKhu8eo=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "厌离",
-            "name": "厌离｜APP",
-            "type": 3,
-            "api": "csp_AppGetFishGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "Ab7b7Y5ID8xGbTb46Phc7ZTcz/RKt2nDVNagSHu/7dL2PoUdg+e+CP7Pcluu2LoKN3bF/z1zfADm4SHMiJzuZP7kXgR0g0592+ImagHtMpT1psnFCW5nelDbd1K0ZMzlQLizMRbffFxi5cZEx2YTmNFBUSlaYrSvwev6IdMtxwZ3KLpELDwHAfxDPXYJhWelE/LH4Ky2qH9wFhC3MNxY1sc=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "枫眠",
-            "name": "枫眠｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGetFishGuard",
-            "ext": "AfkbGSXy4JEUp3Sz+gS4vNggCJ7auF5cVerMfmdNsXX0O8b0LEWFMwug63IBgrI5KhurQt+3u2u6fEq+50bepvk7pBI4+b0EkZ1BtX+mS+ioWu8pJyQ0+rZERvJUDumP0djiki/FY+khmpi4M6yKZV0co47wVE3bCf4FRLahsTMTXckRTi1lfpKAJFN68LAIyUqDZuoKgPNrxr5TB9DEyl4=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
-        {
-            "key": "思追",
-            "name": "思追丨APP",
-            "type": 3,
-            "api": "csp_AppGetFishGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "ASKjgwRNiR0Cm6kFKdNzI8WI/ic4PmwK3odgt8MhFQvbl3mhDbShb5bbTFTo7paa8t0h/eK0IaCgWFxjyrk9E3XEhEgnQl4lSED6Aai0eVzXMurDiNGdHxvF3VEUI6e4G/o4FILNazhcr7ECOwLDz/VhNAd/7G/VxdrrL+Dz0oAUiUsfLmy4DiP+aQrY1INXLXmkDb2xN5Ev3pZr7xs6XtM=",
-            "jar":"https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Faee63b8d-eb57-4e75-a834-66f34fa318f1.php"
-        },
-
-
- {
-            "key": "TvDy",
-            "name": "天堂｜影视",
-            "type": 3,
-            "api": "csp_TvDy",
-            "searchable": 1,
-            "filterable": 1 ,
-            "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F5c3fda4d-d5a0-40e6-bcc8-0e0cde00b2d1.php"
-        },
-
-
-
-
-//  ok 
 
 
 
