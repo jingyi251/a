@@ -393,6 +393,25 @@
             "api": "csp_SP360",
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
+{
+            "key": "蜻蜓FM",
+            "name": "♦｜蜻蜓┃广播",
+            "type": 3,
+            "api": "csp_QingTing",
+            "ext": "",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
+
+      
+        {
+            "key": "tingchina",
+            "name": "📚｜海盗｜听书",
+            "type": 3,
+            "api": "csp_TingChina",
+            "changeable": 0,
+            "filterable": 1,
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
 
 
 
@@ -839,25 +858,7 @@
 //香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
        
 
-
-
-
-
-
- {"key": "csp_XYQHiker_短剧五五","name":"🎬短剧五五","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/短剧五五.json"},
-
-  {"key":"csp_Bili","name":"🐞哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/Bili.json"},
-        {"key":"csp_Bili幼儿","name":"🐞哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/幼儿乐园.json"},
-        {"key":"csp_Bili少儿","name":"🐞哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/少儿教育.json"},
-        {"key":"csp_Bili小学","name":"🐞哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/小学课堂.json"},
-        {"key":"csp_Bili初中","name":"🐞哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/初中课堂.json"},
-        {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/biliext/高中课堂.json"},
-        //{"key":"JS哔哩直播","name":"哔哩直播[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/哔哩直播.js"},
-        {"key": "csp_XYQHiker_戏曲多多","name":"🎻戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/戏曲多多.json"},
-        //{"key": "csp_XYQHiker_酷奇MV","name":"🎤酷奇MV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/酷奇MV.json"},
-        //{"key": "csp_XYQHiker_短剧屋","name":"🎬短剧屋","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/短剧屋.json"},
-        //需要登入了{"key": "csp_XYQHiker_速剧","name":"速剧(短剧)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/速剧.json"},
-        {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝.json"},
+         {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝.json"},
         {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝2.json"},
         {"key": "csp_XYQHiker_播视童趣","name":"👶🏻播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/播视童趣.json"},
         {"key": "csp_XYQHiker_风车动漫","name":"🌪风车动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/风车动漫.json"},
