@@ -9,7 +9,7 @@
 {
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
     "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
@@ -235,23 +235,23 @@
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
-        {
-            "key": "金牌",
-            "name": "💓｜金牌｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://qj3.ggtvb.cc",
-                "dataKey": "eecbio48dsq13kkk",
-                "dataIv": "eecbio48dsq13kkk",
-                "search": "searchList4",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            },
-            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
-        },
+       // {
+       //     "key": "金牌",
+       //     "name": "💓｜金牌｜APP",
+        //    "type": 3,
+        //    "api": "csp_AppQi",
+         //   "searchable": 1,
+         //   "changeable": 1,
+         //   "ext": {
+         //       "url": "https://qj3.ggtvb.cc",
+          //      "dataKey": "eecbio48dsq13kkk",
+          //      "dataIv": "eecbio48dsq13kkk",
+         //       "search": "searchList4",
+         //       "init": "initV122",
+          //      "ua": "okhttp/3.10.0"
+         //   },
+         //   "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+      //  },
 
         {
             "key": "奇奇",
@@ -439,14 +439,7 @@
       "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
         },
 
-    {
-      "key": "金牌影视",
-      "name": "🔦金牌┃HD2K",
-      "type": 3,
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-      "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
-        },
+   
 
    
 
@@ -619,7 +612,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
           {
             "key": "原创",
@@ -631,7 +624,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -643,7 +636,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -657,7 +650,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -669,7 +662,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -682,7 +675,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
               {
@@ -695,7 +688,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
   {
             "key": "花花",
@@ -707,7 +700,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ==",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -720,7 +713,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -733,21 +726,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
-        {
-            "key": "爱影",
-            "name": "👀爱影┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbK3c790iI/b5LtEhxNfAQK7DRvrLcqbf1Q0MQntXLZfMhK0Xsn6nwmF+shR8eZ76qXW3y9XKbblunmCSPux0YtJlscp9zpDmW7Ju4ufOtv+BcyBX7VWrSzyUWoVcxGhUtv",   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
-     },
+       
 
         {
             "key": "奥特",
@@ -758,7 +740,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
         {
@@ -771,7 +753,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,   
-           "jar":"https://oss4liview.moji.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg"
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
      },
 
 
@@ -893,11 +875,7 @@
         //{"name":"Json轮询","type":2,"url":"Sequence"},
         //{"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Web聚合","type":3,"url":"Web"},
-        {
-            "name": "-ik9-",
-            "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url="
-        },
+        
      {
       "name": "极速HD4",
       "type": 0,
@@ -909,10 +887,10 @@
       }
     },
         {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
-        {"name":"-咸鱼-","type":0,"url":"https://jx.xymp4.cc/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jx.xyflv.cc/"}}}},
+       
         {"name":"-淘片-","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-冰豆-","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-        {"name":"-77解析-","type":0,"url":"https://jx.77flv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+       
         //{"name":"-hls-","type":0,"url":"https://jx.hls.one/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         //{"name":"-qm解析-","type":0,"url":"http://jiexi44.qmbo.cn/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-zui-","type":0,"url":"https://jx.zui.cm/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
