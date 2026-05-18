@@ -452,7 +452,18 @@
 
     
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
-        
+ {
+  "key": "新韩剧网",
+  "name": "新韩剧网(py)",
+  "type": 3,
+  "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/新韩剧网.min.py",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {}
+}
+     
 {
             "key": "独播库",
             "name": "独播库",
@@ -569,11 +580,13 @@
                 "ratio": 1.33
             },
             "changeable": 1,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
 
 
-   
+
+
+{    
 
 
 
