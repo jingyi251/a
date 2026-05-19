@@ -147,7 +147,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 1,
-            "playerType": 2,
+            "playerType": 2
                     },
 
 {"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"http://ser995290833053.gptapp.ren/tvbox/php/pptv.php?token=yyds"},
