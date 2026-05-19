@@ -138,7 +138,17 @@
 
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
 
-
+{
+            "key": "AI-V-HUB",
+            "name": "V-HUB[成人]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/V-HUB%5B%E6%88%90%E4%BA%BA%5D.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "playerType": 2,
+                    },
 
 {"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"http://ser995290833053.gptapp.ren/tvbox/php/pptv.php?token=yyds"},
 {
