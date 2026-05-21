@@ -1,0 +1,2027 @@
+{
+    "recommend": "LIST:new music this week,最新,最热",
+    "class": [
+        {
+            "type_id": "频道主",
+            "type_name": "频道主"
+        },
+        {
+            "type_id": "直播",
+            "type_name": "24小时直播"
+        },
+        {
+            "type_id": "电影",
+            "type_name": "电影"
+        },
+        {
+            "type_id": "剧集",
+            "type_name": "剧集"
+        },
+        {
+            "type_id": "电视剧",
+            "type_name": "电视剧"
+        },
+        {
+            "type_id": "短剧",
+            "type_name": "短剧"
+        },
+        {
+            "type_id": "音乐",
+            "type_name": "音乐"
+        },
+        {
+            "type_id": "HDR",
+            "type_name": "HDR"
+        },
+        {
+            "type_id": "纪录片",
+            "type_name": "纪录片"
+        },
+        {
+            "type_id": "综艺",
+            "type_name": "综艺"
+        },
+        {
+            "type_id": "体育",
+            "type_name": "体育"
+        },
+        {
+            "type_id": "时尚潮流",
+            "type_name": "时尚潮流"
+        },
+        {
+            "type_id": "放松",
+            "type_name": "放松"
+        },
+        {
+            "type_id": "4K",
+            "type_name": "4K"
+        },
+        {
+            "type_id": "宇宙",
+            "type_name": "科普知识"
+        },
+        {
+            "type_id": "科技",
+            "type_name": "科技"
+        },
+        {
+            "type_id": "解说",
+            "type_name": "解说"
+        },
+        {
+            "type_id": "神秘",
+            "type_name": "神秘"
+        },
+        {
+            "type_id": "动画片",
+            "type_name": "动画片"
+        }
+    ],
+    "filters": {
+        "频道主": [
+            {
+                "key": "tid",
+                "name": "精选频道",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "LT視界",
+                        "v": "LT視界"
+                    },
+                    {
+                        "n": "LT+",
+                        "v": "LT+"
+                    },
+                    {
+                        "n": "王志安",
+                        "v": "王志安"
+                    },
+                    {
+                        "n": "安争鸣",
+                        "v": "安争鸣（Stella An）"
+                    },
+                    {
+                        "n": "小鸣说",
+                        "v": "小鸣说"
+                    },
+                    {
+                        "n": "医痴的木头屋",
+                        "v": "医痴的木头屋"
+                    },
+                    {
+                        "n": "柴静",
+                        "v": "柴静 Chai Jing"
+                    },
+                    {
+                        "n": "汀见",
+                        "v": "汀见"
+                    },
+                    {
+                        "n": "BBC News 中文",
+                        "v": "BBC News 中文"
+                    },
+                    {
+                        "n": "二爷故事",
+                        "v": "@Tankman2020"
+                    },
+                    {
+                        "n": "李肅Hi5第一頻道",
+                        "v": "李肅Hi5第一頻道"
+                    },
+                    {
+                        "n": "左為",
+                        "v": "@zuowei"
+                    },
+                    {
+                        "n": "崔永元",
+                        "v": "崔永元"
+                    },
+                    {
+                        "n": "昨天",
+                        "v": "昨天"
+                    },
+                    {
+                        "n": "新官场",
+                        "v": "新官场"
+                    },
+                    {
+                        "n": "PoliceActivity",
+                        "v": "PoliceActivity"
+                    },
+                    {
+                        "n": "龙兄虎弟",
+                        "v": "龙兄虎弟综艺节目"
+                    },
+                    {
+                        "n": "王玥波",
+                        "v": "王玥波"
+                    },
+                    {
+                        "n": "健康2.0",
+                        "v": "健康2.0"
+                    },
+                    {
+                        "n": "一席YiXi",
+                        "v": "一席YiXi"
+                    },
+                    {
+                        "n": "Linvo說宇宙",
+                        "v": "Linvo說宇宙"
+                    },
+                    {
+                        "n": "老高與小茉",
+                        "v": "老高與小茉"
+                    },
+                    {
+                        "n": "脑洞乌托邦",
+                        "v": "脑洞乌托邦"
+                    },
+                    {
+                        "n": "自说自话的总裁",
+                        "v": "自说自话的总裁"
+                    },
+                    {
+                        "n": "老肉雜談",
+                        "v": "老肉雜談"
+                    },
+                    {
+                        "n": "滇西小哥",
+                        "v": "滇西小哥"
+                    },
+                    {
+                        "n": "老饭骨",
+                        "v": "老饭骨"
+                    },
+                    {
+                        "n": "小高姐",
+                        "v": "小高姐的 Magic Ingredients"
+                    },
+                    {
+                        "n": "小穎美食",
+                        "v": "小穎美食"
+                    },
+                    {
+                        "n": "primitivetechnology",
+                        "v": "primitivetechnology9550"
+                    },
+                    {
+                        "n": "Mr Beast",
+                        "v": "Mr Beast"
+                    },
+                    {
+                        "n": "Airforceproud95",
+                        "v": "Airforceproud95"
+                    },
+                    {
+                        "n": "TheGreatWar",
+                        "v": "TheGreatWar"
+                    },
+                    {
+                        "n": "Mark Rober",
+                        "v": "Mark Rober"
+                    },
+                    {
+                        "n": "不良林",
+                        "v": "不良林"
+                    },
+                    {
+                        "n": "涌哥侃侃",
+                        "v": "涌哥侃侃 playlist"
+                    },
+                    {
+                        "n": "悟空的日常",
+                        "v": "悟空的日常"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "综合频道",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "李子柒",
+                        "v": "李子柒 Liziqi @cnliziqi"
+                    },
+                    {
+                        "n": "滇西小哥",
+                        "v": "滇西小哥 @dianxixiaoge"
+                    },
+                    {
+                        "n": "老高與小茉",
+                        "v": "老高與小茉 @laogao"
+                    },
+                    {
+                        "n": "李永樂老師",
+                        "v": "李永樂老師 @TchLiyongle"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "美食频道",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "美食作家王刚",
+                        "v": "美食作家王刚 @chefwang"
+                    },
+                    {
+                        "n": "小高姐",
+                        "v": "小高姐的 Magic Ingredients @MagicIngredients"
+                    },
+                    {
+                        "n": "小穎美食",
+                        "v": "小穎美食 @XiaoYingFood"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "科普与野外",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "野外求生",
+                        "v": "primitivetechnology9550 @primitivetechnology9550"
+                    },
+                    {
+                        "n": "Mr Beast科普",
+                        "v": "Mr Beast@MrBeast"
+                    },
+                    {
+                        "n": "航天大學",
+                        "v": "Airforceproud95 @Airforceproud95"
+                    },
+                    {
+                        "n": "世界大戰",
+                        "v": "TheGreatWar @TheGreatWar"
+                    },
+                    {
+                        "n": "MarkRober",
+                        "v": "Mark Rober @MarkRober"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "最热",
+                        "v": "hottest"
+                    },
+                    {
+                        "n": "评分最高",
+                        "v": "favorite"
+                    }
+                ]
+            }
+        ],
+        "解说": [
+            {
+                "key": "tid",
+                "name": "频道主",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "宇哥侃故事",
+                        "v": "@yuge"
+                    },
+                    {
+                        "n": "零度解说",
+                        "v": "@lingdujieshuo"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "最热",
+                        "v": "hottest"
+                    }
+                ]
+            }
+        ],
+        "短剧": [
+            {
+                "key": "tid",
+                "name": "短剧",
+                "value": [
+                    {
+                        "n": "抖音",
+                        "v": "PL抖音 短剧"
+                    },
+                    {
+                        "n": "快手",
+                        "v": "PL快手 短剧"
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "PL大陆短剧"
+                    },
+                    {
+                        "n": "香港",
+                        "v": "PL香港短剧"
+                    },
+                    {
+                        "n": "澳门",
+                        "v": "PL澳门短剧"
+                    },
+                    {
+                        "n": "台湾",
+                        "v": "PL台湾短剧"
+                    },
+                    {
+                        "n": "新加坡",
+                        "v": "PL新加坡短剧"
+                    },
+                    {
+                        "n": "马来西亚",
+                        "v": "PL马来西亚短剧"
+                    },
+                    {
+                        "n": "泰国",
+                        "v": "PL泰国短剧"
+                    },
+                    {
+                        "n": "越南",
+                        "v": "PL越南短剧"
+                    },
+                    {
+                        "n": "印度",
+                        "v": "PL印度短剧"
+                    },
+                    {
+                        "n": "韩国",
+                        "v": "PL韩国短剧"
+                    },
+                    {
+                        "n": "日本",
+                        "v": "PL日本短剧"
+                    },
+                    {
+                        "n": "欧美",
+                        "v": "PL欧美短剧"
+                    },
+                    {
+                        "n": "腾讯",
+                        "v": "PL腾讯短剧"
+                    },
+                    {
+                        "n": "爱奇艺",
+                        "v": "PL爱奇艺短剧"
+                    },
+                    {
+                        "n": "优酷",
+                        "v": "PL优酷短剧"
+                    },
+                    {
+                        "n": "芒果",
+                        "v": "PL芒果TV短剧"
+                    },
+                    {
+                        "n": "搜狐",
+                        "v": "PL搜狐短剧"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "短剧",
+                "value": [
+                    {
+                        "n": "都市",
+                        "v": "PL都市短剧"
+                    },
+                    {
+                        "n": "爱情",
+                        "v": "PL爱情短剧"
+                    },
+                    {
+                        "n": "复仇",
+                        "v": "PL复仇短剧"
+                    },
+                    {
+                        "n": "穿越",
+                        "v": "PL穿越短剧"
+                    },
+                    {
+                        "n": "喜剧",
+                        "v": "PL喜剧短剧"
+                    },
+                    {
+                        "n": "奇幻",
+                        "v": "PL奇幻短剧"
+                    },
+                    {
+                        "n": "九酱爱追剧",
+                        "v": "PD@NineSauceDramaTV"
+                    },
+                    {
+                        "n": "百万好剧场",
+                        "v": "PD@1-pw5ox"
+                    },
+                    {
+                        "n": "咖啡追剧",
+                        "v": "PD@coffeedrama605"
+                    },
+                    {
+                        "n": "斗罗短剧",
+                        "v": "PD@DouluoDrama123 斗罗短剧"
+                    },
+                    {
+                        "n": "嘟嘟剧场",
+                        "v": "PD@DUDUJUCHANG"
+                    },
+                    {
+                        "n": "牛牛短剧",
+                        "v": "PD@niuniuduanju"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "最热",
+                        "v": "hottest"
+                    },
+                    {
+                        "n": "评分最高",
+                        "v": "favorite"
+                    },
+                    {
+                        "n": "当天",
+                        "v": "day"
+                    },
+                    {
+                        "n": "本周",
+                        "v": "week"
+                    },
+                    {
+                        "n": "本月",
+                        "v": "month"
+                    }
+                ]
+            }
+        ],
+        "动画片": [
+            {
+                "key": "time",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2024",
+                        "v": "2024"
+                    },
+                    {
+                        "n": "2023",
+                        "v": "2023"
+                    },
+                    {
+                        "n": "2022",
+                        "v": "2022"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "默认中文国漫",
+                        "v": "國漫 劇集 3D"
+                    },
+                    {
+                        "n": "默认",
+                        "v": "animation"
+                    },
+                    {
+                        "n": "儿童早教",
+                        "v": "儿童早教"
+                    },
+                    {
+                        "n": "儿童歌曲",
+                        "v": "儿童歌曲"
+                    },
+                    {
+                        "n": "儿童音乐",
+                        "v": "儿童音乐"
+                    },
+                    {
+                        "n": "儿童绘画",
+                        "v": "儿童绘画"
+                    },
+                    {
+                        "n": "宝宝巴士",
+                        "v": "宝宝巴士"
+                    },
+                    {
+                        "n": "儿歌多多",
+                        "v": "儿歌多多"
+                    },
+                    {
+                        "n": "儿童英语启蒙",
+                        "v": "儿童英语启蒙"
+                    },
+                    {
+                        "n": "儿童启蒙故事",
+                        "v": "儿童启蒙故事"
+                    },
+                    {
+                        "n": "儿童安全教育",
+                        "v": "儿童安全教育"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "默认英文国漫",
+                        "v": "3D Chinese cartoon"
+                    },
+                    {
+                        "n": "小猪佩奇",
+                        "v": "@PeppaPigChineseOfficial 小猪佩奇 中文官方 - Peppa Pig"
+                    },
+                    {
+                        "n": "CoComelon",
+                        "v": "@CoComelon"
+                    },
+                    {
+                        "n": "合集",
+                        "v": "Anime ENG SUB 合集"
+                    },
+                    {
+                        "n": "国漫社",
+                        "v": "@Animation  次元 苍穹动漫 PP看动漫 公馆"
+                    },
+                    {
+                        "n": "国漫工厂",
+                        "v": "@3DGuoman  SUB"
+                    },
+                    {
+                        "n": "阅文动漫",
+                        "v": "@yuewenanimation  SUB"
+                    },
+                    {
+                        "n": "哔哩",
+                        "v": "@madebybilibili  哔哩动漫"
+                    },
+                    {
+                        "n": "腾讯",
+                        "v": "@TencentVideoAnimation SUB"
+                    },
+                    {
+                        "n": "优酷",
+                        "v": "@youkuanimation 优酷动漫"
+                    },
+                    {
+                        "n": "爱奇艺",
+                        "v": "@iQIYIAnime 爱奇艺动漫"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "直播": [
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "默认",
+                        "v": "fully YouTube 新聞 Live 24小时"
+                    },
+                    {
+                        "n": "港台",
+                        "v": "直播 港台"
+                    },
+                    {
+                        "n": "赛事",
+                        "v": "直播 赛事"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "Live",
+                        "v": "live"
+                    },
+                    {
+                        "n": "CNN",
+                        "v": "live CNN"
+                    },
+                    {
+                        "n": "BBC",
+                        "v": "live BBC"
+                    },
+                    {
+                        "n": "games",
+                        "v": "live games"
+                    },
+                    {
+                        "n": "印度電視台",
+                        "v": "@SETIndia"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "News",
+                        "v": "News"
+                    },
+                    {
+                        "n": "时政",
+                        "v": "时政 新闻"
+                    },
+                    {
+                        "n": "体育",
+                        "v": "体育 新闻"
+                    },
+                    {
+                        "n": "娱乐",
+                        "v": "娱乐 新闻"
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "大陆 新闻"
+                    },
+                    {
+                        "n": "港台",
+                        "v": "港台 新闻"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "电视剧": [
+            {
+                "key": "time",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2024",
+                        "v": "2024"
+                    },
+                    {
+                        "n": "2023",
+                        "v": "2023"
+                    },
+                    {
+                        "n": "2022",
+                        "v": "2022"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "華語熱播電視劇官方頻道",
+                        "v": "華語熱播電視劇官方頻道"
+                    },
+                    {
+                        "n": "粵劇",
+                        "v": "粵劇 剧集"
+                    },
+                    {
+                        "n": "TVB",
+                        "v": "@TVB"
+                    },
+                    {
+                        "n": "国剧放映社",
+                        "v": "国剧放映社"
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "大陆 剧集"
+                    },
+                    {
+                        "n": "腾讯",
+                        "v": "腾讯 剧集"
+                    },
+                    {
+                        "n": "爱奇艺",
+                        "v": "爱奇艺 剧集"
+                    },
+                    {
+                        "n": "优酷",
+                        "v": "优酷 剧集"
+                    },
+                    {
+                        "n": "芒果",
+                        "v": "芒果TV 剧集"
+                    },
+                    {
+                        "n": "搜狐",
+                        "v": "搜狐 剧集"
+                    },
+                    {
+                        "n": "华数",
+                        "v": "华数 剧集"
+                    },
+                    {
+                        "n": "港台",
+                        "v": "港台 剧集"
+                    },
+                    {
+                        "n": "美国",
+                        "v": "美国 Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Netflix",
+                        "v": "Netflix Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Disney",
+                        "v": "disney Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Apple",
+                        "v": "apple Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Amazon",
+                        "v": "amazon Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "HBO",
+                        "v": "hbo Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "韩国",
+                        "v": "韩国 剧集"
+                    },
+                    {
+                        "n": "日本",
+                        "v": "日本 剧集"
+                    },
+                    {
+                        "n": "英国",
+                        "v": "英国 Full Episode 完整剧集"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "Drama",
+                        "v": "Full Episode drama"
+                    },
+                    {
+                        "n": "US",
+                        "v": "drama Full Episode US"
+                    },
+                    {
+                        "n": "Netflix",
+                        "v": "netflix Full Episode drama"
+                    },
+                    {
+                        "n": "Disney",
+                        "v": "disney Full Episode drama"
+                    },
+                    {
+                        "n": "Apple",
+                        "v": "apple Full Episode drama"
+                    },
+                    {
+                        "n": "Amazon",
+                        "v": "amazon Full Episode drama"
+                    },
+                    {
+                        "n": "HBO",
+                        "v": "hbo Full Episode drama"
+                    },
+                    {
+                        "n": "Korea",
+                        "v": "korea Full Episode drama"
+                    },
+                    {
+                        "n": "Japan",
+                        "v": "japan Full Episode drama"
+                    },
+                    {
+                        "n": "UK",
+                        "v": "uk Full Episode drama"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "电影": [
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "PL大陆 电影"
+                    },
+                    {
+                        "n": "腾讯",
+                        "v": "PL腾讯 电影"
+                    },
+                    {
+                        "n": "爱奇艺",
+                        "v": "PL爱奇艺 电影"
+                    },
+                    {
+                        "n": "优酷",
+                        "v": "PL优酷 电影"
+                    },
+                    {
+                        "n": "芒果",
+                        "v": "PL芒果TV 电影"
+                    },
+                    {
+                        "n": "搜狐",
+                        "v": "PL搜狐 电影"
+                    },
+                    {
+                        "n": "港台",
+                        "v": "PL港台 电影"
+                    },
+                    {
+                        "n": "美国",
+                        "v": "PL美国 电影"
+                    },
+                    {
+                        "n": "Netflix",
+                        "v": "PLnetflix Full movie 电影"
+                    },
+                    {
+                        "n": "Disney",
+                        "v": "PLdisney Full movie 电影"
+                    },
+                    {
+                        "n": "Apple",
+                        "v": "PLapple Full movie 电影"
+                    },
+                    {
+                        "n": "Amazon",
+                        "v": "PLamazon Full movie 电影"
+                    },
+                    {
+                        "n": "HBO",
+                        "v": "PLhbo Full movie 电影"
+                    },
+                    {
+                        "n": "韩国",
+                        "v": "PL韩国 Full movie 电影"
+                    },
+                    {
+                        "n": "日本",
+                        "v": "PL日本 Full movie 电影"
+                    },
+                    {
+                        "n": "英国",
+                        "v": "PL英国 Full movie 电影"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "movie",
+                        "v": "PLyoutube movies Full movie"
+                    },
+                    {
+                        "n": "US",
+                        "v": "PLus Full movie movie"
+                    },
+                    {
+                        "n": "Netflix movie",
+                        "v": "PLnetflix Full movie movie"
+                    },
+                    {
+                        "n": "Disney",
+                        "v": "PLdisney Full movie movie"
+                    },
+                    {
+                        "n": "Apple",
+                        "v": "PLapple Full movie movie"
+                    },
+                    {
+                        "n": "Amazon",
+                        "v": "PLamazon Full movie movie"
+                    },
+                    {
+                        "n": "HBO",
+                        "v": "PLhbo Full movie movie"
+                    },
+                    {
+                        "n": "Koera",
+                        "v": "PLkorea Full movie movie"
+                    },
+                    {
+                        "n": "Japan",
+                        "v": "PLjapan Full movie movie"
+                    },
+                    {
+                        "n": "UK",
+                        "v": "PLuk Full movie movie"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "最热",
+                        "v": "hottest"
+                    },
+                    {
+                        "n": "评分最高",
+                        "v": "favorite"
+                    },
+                    {
+                        "n": "当天",
+                        "v": "day"
+                    },
+                    {
+                        "n": "本周",
+                        "v": "week"
+                    },
+                    {
+                        "n": "本月",
+                        "v": "month"
+                    }
+                ]
+            }
+        ],
+        "剧集": [
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "华语热播电视剧官方频道",
+                        "v": "PL华语热播电视剧官方频道"
+                    },
+                    {
+                        "n": "粤剧",
+                        "v": "PL粤剧 剧集"
+                    },
+                    {
+                        "n": "TVB",
+                        "v": "PLTVB"
+                    },
+                    {
+                        "n": "国剧放映社",
+                        "v": "PL国剧放映社"
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "PL大陆 剧集"
+                    },
+                    {
+                        "n": "腾讯",
+                        "v": "PL腾讯 剧集"
+                    },
+                    {
+                        "n": "爱奇艺",
+                        "v": "PL爱奇艺 剧集"
+                    },
+                    {
+                        "n": "优酷",
+                        "v": "PL优酷 剧集"
+                    },
+                    {
+                        "n": "芒果",
+                        "v": "PL芒果TV 剧集"
+                    },
+                    {
+                        "n": "搜狐",
+                        "v": "PL搜狐 剧集"
+                    },
+                    {
+                        "n": "华数",
+                        "v": "PL华数 剧集"
+                    },
+                    {
+                        "n": "港台",
+                        "v": "PL港台 剧集"
+                    },
+                    {
+                        "n": "美国",
+                        "v": "PL美国 Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Netflix",
+                        "v": "PLNetflix Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Disney",
+                        "v": "PLdisney Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Apple",
+                        "v": "PLapple Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "Amazon",
+                        "v": "PLamazon Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "HBO",
+                        "v": "PLhbo Full Episode 完整剧集"
+                    },
+                    {
+                        "n": "韩国",
+                        "v": "PL韩国 剧集"
+                    },
+                    {
+                        "n": "日本",
+                        "v": "PL日本 剧集"
+                    },
+                    {
+                        "n": "英国",
+                        "v": "PL英国 Full Episode 完整剧集"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "Drama",
+                        "v": "PLFull Episode drama"
+                    },
+                    {
+                        "n": "US",
+                        "v": "PLdrama Full Episode US"
+                    },
+                    {
+                        "n": "Netflix",
+                        "v": "PLnetflix Full Episode drama"
+                    },
+                    {
+                        "n": "Disney",
+                        "v": "PLdisney Full Episode drama"
+                    },
+                    {
+                        "n": "Apple",
+                        "v": "PLapple Full Episode drama"
+                    },
+                    {
+                        "n": "Amazon",
+                        "v": "PLamazon Full Episode drama"
+                    },
+                    {
+                        "n": "HBO",
+                        "v": "PLhbo Full Episode drama"
+                    },
+                    {
+                        "n": "Korea",
+                        "v": "PLkorea Full Episode drama"
+                    },
+                    {
+                        "n": "Japan",
+                        "v": "PLjapan Full Episode drama"
+                    },
+                    {
+                        "n": "UK",
+                        "v": "PLuk Full Episode drama"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "默认",
+                        "v": ""
+                    },
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "最热",
+                        "v": "hottest"
+                    },
+                    {
+                        "n": "评分最高",
+                        "v": "favorite"
+                    },
+                    {
+                        "n": "当天",
+                        "v": "day"
+                    },
+                    {
+                        "n": "本周",
+                        "v": "week"
+                    },
+                    {
+                        "n": "本月",
+                        "v": "month"
+                    }
+                ]
+            }
+        ],
+        "综艺": [
+            {
+                "key": "time",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2024",
+                        "v": "2024"
+                    },
+                    {
+                        "n": "2023",
+                        "v": "2023"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "默认",
+                        "v": "Variety show"
+                    },
+                    {
+                        "n": "大陆",
+                        "v": "大陆 综艺"
+                    },
+                    {
+                        "n": "芒果",
+                        "v": "芒果 综艺"
+                    },
+                    {
+                        "n": "腾讯",
+                        "v": "腾讯 综艺"
+                    },
+                    {
+                        "n": "爱奇艺",
+                        "v": "爱奇艺 综艺"
+                    },
+                    {
+                        "n": "优酷",
+                        "v": "优酷 综艺"
+                    },
+                    {
+                        "n": "港台",
+                        "v": "港台 综艺"
+                    },
+                    {
+                        "n": "美国",
+                        "v": "美国 综艺"
+                    },
+                    {
+                        "n": "Netflix",
+                        "v": "Netflix 综艺"
+                    },
+                    {
+                        "n": "韩国",
+                        "v": "CRAVITY on Variety Shows 韩国 综艺"
+                    },
+                    {
+                        "n": "日本",
+                        "v": "日本 综艺"
+                    },
+                    {
+                        "n": "英国",
+                        "v": "英国 综艺"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "Variety",
+                        "v": "variety"
+                    },
+                    {
+                        "n": "Netflix variety",
+                        "v": "netflix variety"
+                    },
+                    {
+                        "n": "Korea",
+                        "v": "korea variety"
+                    },
+                    {
+                        "n": "Japan",
+                        "v": "japan variety"
+                    },
+                    {
+                        "n": "UK",
+                        "v": "uk variety"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "小品",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "春晚小品",
+                        "v": "春晚小品"
+                    },
+                    {
+                        "n": "开心麻花",
+                        "v": "开心麻花"
+                    },
+                    {
+                        "n": "喜剧综艺",
+                        "v": "喜剧综艺"
+                    },
+                    {
+                        "n": "德云社",
+                        "v": "德云社"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "纪录片": [
+            {
+                "key": "time",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2024",
+                        "v": "2024"
+                    },
+                    {
+                        "n": "2023",
+                        "v": "2023"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "CCTV纪录片",
+                        "v": "CCTV 纪录片"
+                    },
+                    {
+                        "n": "BBC纪录片",
+                        "v": "BBC 纪录片"
+                    },
+                    {
+                        "n": "国家地理",
+                        "v": "国家地理 纪录片"
+                    },
+                    {
+                        "n": "Netflix纪录片",
+                        "v": "netflix 纪录片"
+                    },
+                    {
+                        "n": "历史",
+                        "v": "历史 纪录片"
+                    },
+                    {
+                        "n": "野性",
+                        "v": "野性 纪录片"
+                    },
+                    {
+                        "n": "地球",
+                        "v": "地球 纪录片"
+                    },
+                    {
+                        "n": "宇宙",
+                        "v": "宇宙 纪录片"
+                    },
+                    {
+                        "n": "海洋",
+                        "v": "海洋 纪录片"
+                    },
+                    {
+                        "n": "人文",
+                        "v": "人文 纪录片"
+                    },
+                    {
+                        "n": "战争",
+                        "v": "战争 纪录片"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "History",
+                        "v": "Full history documentary"
+                    },
+                    {
+                        "n": "WILD",
+                        "v": "Full wild documentary"
+                    },
+                    {
+                        "n": "Earch",
+                        "v": "Full earth documentary"
+                    },
+                    {
+                        "n": "Universe",
+                        "v": "Full universe documentary"
+                    },
+                    {
+                        "n": "Oceans",
+                        "v": "Full oceans documentary"
+                    },
+                    {
+                        "n": "Humanism",
+                        "v": "Full humanism documentary"
+                    },
+                    {
+                        "n": "Wars",
+                        "v": "Full war documentary"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "音乐": [
+            {
+                "key": "time",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2024",
+                        "v": "2024"
+                    },
+                    {
+                        "n": "2023",
+                        "v": "2023"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "地区",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "華語音樂",
+                        "v": "華語音樂"
+                    },
+                    {
+                        "n": "華語MV",
+                        "v": "華語MV"
+                    },
+                    {
+                        "n": "环球视听",
+                        "v": "环球视听1980 @RippleOfficialEvent"
+                    },
+                    {
+                        "n": "YouTube 點閱率最高",
+                        "v": "YouTube 點閱率最高觀看次數最多華語歌曲"
+                    },
+                    {
+                        "n": "海外抖音",
+                        "v": "TikTok 翻唱 抖音 音樂"
+                    },
+                    {
+                        "n": "粵語",
+                        "v": "粵語 音樂"
+                    },
+                    {
+                        "n": "國語",
+                        "v": "國語 音樂"
+                    },
+                    {
+                        "n": "欧美",
+                        "v": "欧美 音乐"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "爱好",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "舞曲",
+                        "v": "慢搖 夜店 低音 女聲 "
+                    },
+                    {
+                        "n": "80-90",
+                        "v": "80 90 音樂"
+                    },
+                    {
+                        "n": "人聲",
+                        "v": "人聲 音樂"
+                    },
+                    {
+                        "n": "A8製造",
+                        "v": "A8製造 工體音樂"
+                    },
+                    {
+                        "n": "硬歌",
+                        "v": "深水炸彈 音樂"
+                    },
+                    {
+                        "n": "重低音DJ",
+                        "v": "3D 8D 慢搖 重低音 音樂"
+                    },
+                    {
+                        "n": "車載舞曲",
+                        "v": "車載慢搖DJ歌曲串燒 深水炸彈DJ歌曲串燒 越南鼓DJ歌曲串燒 音樂"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "歌手",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "邁克爾傑克遜",
+                        "v": "邁克爾傑克遜 演唱會，巡演 音樂"
+                    },
+                    {
+                        "n": "刀郎",
+                        "v": "刀郎 演唱會 巡演 音樂"
+                    },
+                    {
+                        "n": "鳳凰傳奇",
+                        "v": "鳳凰傳奇 演 巡演 音樂"
+                    },
+                    {
+                        "n": "S.H.E",
+                        "v": "S.H.E 演唱會 巡演 音樂"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "体育": [
+            {
+                "key": "time",
+                "name": "年份",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "2024",
+                        "v": "2024"
+                    },
+                    {
+                        "n": "2023",
+                        "v": "2023"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "中文",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "體育直播",
+                        "v": "体育直播"
+                    },
+                    {
+                        "n": "體育赛事",
+                        "v": "体育赛事"
+                    },
+                    {
+                        "n": "足球比賽",
+                        "v": "足球賽事"
+                    },
+                    {
+                        "n": "篮球比賽",
+                        "v": "篮球賽事"
+                    },
+                    {
+                        "n": "极限運動",
+                        "v": "极限運動"
+                    },
+                    {
+                        "n": "健身運動",
+                        "v": "健身運動"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "English",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "Live",
+                        "v": "live sports"
+                    },
+                    {
+                        "n": "Games",
+                        "v": "live games"
+                    },
+                    {
+                        "n": "Soccer",
+                        "v": "live soccer"
+                    },
+                    {
+                        "n": "NBA",
+                        "v": "NBA"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "时尚潮流": [
+            {
+                "key": "tid",
+                "name": "時裝秀",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "街舞",
+                        "v": "脫衣舞 丁字褲 街舞 太空步 機械舞 舞 裸體舞蹈 霹靂舞 魔性舞蹈 鬼步舞 木偶舞 女性藝術舞蹈"
+                    },
+                    {
+                        "n": "時尚走秀",
+                        "v": "T台走秀 lingerie show"
+                    },
+                    {
+                        "n": "時裝秀",
+                        "v": "hdr ASM lingerieTV 東京ファッションショー 下着ショー"
+                    },
+                    {
+                        "n": "潮流秀",
+                        "v": "FASHION IN UHD"
+                    },
+                    {
+                        "n": "時裝模特",
+                        "v": "FASHION Runway"
+                    },
+                    {
+                        "n": "模特",
+                        "v": "比基尼 泳裝 頂級車模 空姐 寫真 Car model Stewardess Portrait"
+                    },
+                    {
+                        "n": "裸体秀",
+                        "v": "hdr 人體藝術 裸体秀 Nude show"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "小姐姐",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "小姐姐超清",
+                        "v": "小姐姐超清"
+                    },
+                    {
+                        "n": "国内小姐姐",
+                        "v": "快手模特 抖音模特 国内小姐姐"
+                    },
+                    {
+                        "n": "韩国小姐姐",
+                        "v": "韩国小姐姐"
+                    },
+                    {
+                        "n": "日本小姐姐",
+                        "v": "日本小姐姐"
+                    },
+                    {
+                        "n": "Al小姐姐",
+                        "v": "Al美女超清"
+                    },
+                    {
+                        "n": "抖音热门小姐姐",
+                        "v": "抖音热门小姐姐"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "HDR": [
+            {
+                "key": "tid",
+                "name": "風景",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "運動",
+                        "v": "GoPro 女翼裝飛行 極限自行車運動"
+                    },
+                    {
+                        "n": "風景",
+                        "v": "hdr 大自然"
+                    },
+                    {
+                        "n": "Links TV頻道主",
+                        "v": "@linksphotograph Links TV hdr"
+                    },
+                    {
+                        "n": "放鬆",
+                        "v": "hdr 放鬆"
+                    },
+                    {
+                        "n": "動物世界",
+                        "v": "hdr Carnivorous Animals 動物世界"
+                    },
+                    {
+                        "n": "深海世界",
+                        "v": "hdr Invertebrate Fish 深海世界"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ],
+        "宇宙": [
+            {
+                "key": "tid",
+                "name": "科普知識",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "宇宙",
+                        "v": "光年 黑洞 銀河系 空間站 太空技術"
+                    },
+                    {
+                        "n": "粒子",
+                        "v": "空間粒子 宇宙磁場 四維空間 元素 量子 光波 光源 靈魂"
+                    },
+                    {
+                        "n": "靠蒙",
+                        "v": "microorganism"
+                    }
+                ]
+            },
+            {
+                "key": "tid",
+                "name": "歷史科普",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": ""
+                    },
+                    {
+                        "n": "世界大戰",
+                        "v": "世界大戰 二戰 日侵 八國聯軍"
+                    },
+                    {
+                        "n": "人物",
+                        "v": "古代名人 歷史名人 歷代祖先"
+                    },
+                    {
+                        "n": "生物進化史",
+                        "v": "人類進化 微生物進化 動物進化 地球進化"
+                    },
+                    {
+                        "n": "靠蒙",
+                        "v": "歷史 History"
+                    }
+                ]
+            },
+            {
+                "key": "date",
+                "name": "排序/时间",
+                "value": [
+                    {
+                        "n": "最新",
+                        "v": "latest"
+                    },
+                    {
+                        "n": "默认",
+                        "v": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "jx": 0,
+    "parse": 0
+}
