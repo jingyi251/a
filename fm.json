@@ -124,6 +124,15 @@
             "filterable": 1,
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
+{
+  "key": "Nostr",
+  "name": "Nostr推荐",
+  "type": 3,
+  "api": "csp_Nostr",
+  "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+},
+
+
 
 
 
