@@ -126,6 +126,16 @@
         },
 
 
+{
+  "key": "Nostr",
+  "name": "Nostr推荐",
+  "type": 3,
+  "api": "csp_Nostr",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filter": 1,
+  "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+},
 
 
 
