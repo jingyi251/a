@@ -126,6 +126,8 @@
         },
 
 
+
+ 
  {
             "key": "金牌影视",
             "name": "💥｜金牌｜影视",
@@ -411,56 +413,6 @@
             "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
         },
 
-//🎬嗷呜http://mytv6688.xyz/aowu/config.webp
- {
-            "name": "🔗哔嘀|2K",
-            "key": "Bidys",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.xlys02.com,https://xl02.com.de",
-            "jar":"http://mytv6688.xyz/aowu/bfdb--cvdvds.png;md5;a217f39e0500433f9efc7de7e356e711"
-        },
-
-{
-            "name": "🔗LBV|2K",
-            "key": "Libvio",
-            "type": 3,
-            "api": "csp_LibvioAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "sites": "https://www.libvio.run,https://www.libvio.mov,https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
-                "filters": ""
-            },
-            "jar":"http://mytv6688.xyz/aowu/bfdb--cvdvds.png;md5;a217f39e0500433f9efc7de7e356e711"
-        },
-
- {
-            "name": "🎬嗷嗚|短剧",
-            "key": "DjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "short_play",
-            "jar":"http://mytv6688.xyz/aowu/bfdb--cvdvds.png;md5;a217f39e0500433f9efc7de7e356e711"
-        },
-{
-            "name": "🎬嗷嗚|漫剧",
-            "key": "MjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "comic_series",
-            "jar":"http://mytv6688.xyz/aowu/bfdb--cvdvds.png;md5;a217f39e0500433f9efc7de7e356e711"
-        },
 
 
 
