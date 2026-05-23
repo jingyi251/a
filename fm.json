@@ -107,18 +107,7 @@
 
 
 
-{
-      "key": "4KVM",
-      "name": "4KVM",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/4KVM.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
+
 {
       "key": "123TV",
       "name": "123TV",
