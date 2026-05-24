@@ -128,7 +128,16 @@
 
 
  
-
+ {
+            "key": "金牌影视",
+            "name": "💥｜金牌｜影视",
+            "type": 3,
+            "api": "csp_Glod",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://m.610pkea.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+            "jar":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar"
+        },
 
        {
             "key": "guazi",
@@ -422,7 +431,6 @@
       },
       "jar":"https://gitee.com/nangezhe/kan/raw/master/ngzmods/danmu.jar"
         },
-
     {
       "key": "瓜子影视",
       "name": "🍉GZ┃HD2K",
@@ -502,9 +510,75 @@
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
 
+{
+            "key": "哔哩lz",
+            "name": "哔哩lz",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "Bilibili"
+            },
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
 
 
 
+//{
+    //  "key": "4KVM",
+    //  "name": "4KVM",
+    //  "type": 3,
+    //  "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/4KVM.py",
+    //  "searchable": 1,
+     // "quickSearch": 1,
+     // "filterable": 0,
+     // "changeable": 1,
+     // "playerType": 2,
+      //      "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+      //  },
+{
+      "key": "123TV",
+      "name": "123TV",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/123TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+
+   {
+            "key": "荐片采集",
+            "name": "荐片采集",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+        {
+            "key": "python集合",
+            "name": "python集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
  
 
 
