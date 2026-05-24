@@ -306,6 +306,24 @@
             "changeable": 1,
             "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
         },
+//香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
+{"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com","jar":"https://gh-proxy.org/https://github.com/jingyi251/xyqonlinerule/blob/main/custom_spider.jar"},
+
+{"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://github.com/jingyi251/xyqonlinerule/blob/main/custom_spider.jar"},
+
+{"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://github.com/jingyi251/xyqonlinerule/blob/main/custom_spider.jar"},
+
+{"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijutt.net","jar":"https://gh-proxy.org/https://github.com/jingyi251/xyqonlinerule/blob/main/custom_spider.jar"},
+
+{"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gh-proxy.org/https://github.com/jingyi251/xyqonlinerule/blob/main/custom_spider.jar"},
+
+
+
+
+
+
+
+
  //饭太硬    http://www.饭太硬.com/tv   http://www.饭太硬.art/tv  https://www.饭太硬.net/tv
 {
             "key": "MTV1",
@@ -969,33 +987,7 @@
                 "cookie": ""
             }
         },
-        {
-            "key": "Jzb",
-            "name": "⚽┃说球┃回放",
-            "type": 3,
-            "api": "csp_Jzb",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "gridview": 3,
-            "ext": {
-                "sites": ""
-            }
-        },
-        {
-            "key": "88看球",
-            "name": "⚽｜看球｜直播",
-            "type": 3,
-            "api": "csp_Kanqiu",
-            "searchable": 0,
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            }
-        },
+     
         {
             "key": "csp_XYQHiker_兔小贝",
             "name": "🐰｜小贝｜儿歌",
@@ -1105,155 +1097,8 @@
             "searchable": 0,
             "changeable": 0,
             "api": "csp_Local"
-        },
-        {
-            "key": "WebDAV",
-            "name": "🗂️┃Web┃DAV",
-            "type": 3,
-            "api": "csp_WebDAV",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "Samba",
-            "name": "🗂️┃SMB┃共享",
-            "type": 3,
-            "api": "csp_Samba",
-            "searchable": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "timeout": 30
-        },
-        {
-            "key": "localdb",
-            "name": "🗄️｜本地数据库",
-            "type": 3,
-            "api": "csp_LocalDB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "song_1a48b",
-            "name": "🗄️｜网络数据库KTV",
-            "type": 3,
-            "api": "csp_KTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "networkdb",
-            "name": "🗄️｜网络数据库合集",
-            "type": 3,
-            "api": "csp_NetworkDB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
-            "key": "myuc",
-            "name": "❤️｜我的┃优囍",
-            "type": 3,
-            "api": "csp_MyUC",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30,
-            "ext": "./config/myuc.json"
-        },
-        {
-            "key": "myquark",
-            "name": "❤️｜我的┃夸氪",
-            "type": 3,
-            "api": "csp_MyQuark",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30,
-            "ext": "./config/myquark.json"
-        },
-        {
-            "key": "mybaidu",
-            "name": "❤️｜我的┃百度",
-            "type": 3,
-            "api": "csp_MyBaiDu",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30,
-            "ext": "./config/mybaidu.json"
-        },
-        {
-            "key": "myxunlei",
-            "name": "❤️｜我的┃迅雷",
-            "type": 3,
-            "api": "csp_MyXunlei",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30,
-            "ext": "./config/myxunlei.json"
-        },
-        {
-            "key": "myali",
-            "name": "❤️｜我的┃阿里",
-            "type": 3,
-            "api": "csp_MyAli",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30,
-            "ext": "./config/myali.json"
-        },
-        {
-            "key": "mytianyi",
-            "name": "❤️｜我的┃天懿",
-            "type": 3,
-            "api": "csp_MyTianYi",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
+         },
+
         {
             "key": "商店",
             "name": "🏬｜商店｜更新",
@@ -1266,293 +1111,9 @@
                 "ratio": 1.1
             },
             "ext": "./config/market.json"
-        },
-        {
-            "key": "TgAliSearch",
-            "name": "㊣｜夸克｜TG搜",
-            "type": 3,
-            "api": "csp_TgSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "hide": 1,
-            "filterable": 0,
-            "ext": {
-                "site": "https://tgsou.252035.xyz/",
-                "query": "channelUsername=alyp_1,clouddriveresources,dianyingshare,hdhhd21,jdjdn1111,leoziyuan,NewQuark,PanjClub,Quark_Movies,xiangxiunb,yunpanchat,yunpanqk,XiangxiuNB,alyp_4K_Movies,alyp_Animation,alyp_TV,alyp_JLP&pic=true"
-            }
-        },
-        {
-            "key": "TgbaiduSearch",
-            "name": "㊣｜百度｜TG搜",
-            "type": 3,
-            "api": "csp_TgSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "hide": 1,
-            "filterable": 0,
-            "ext": {
-                "site": "https://tgsou.252035.xyz/",
-                "query": "channelUsername=BaiduCloudDisk,bdwpzhpd,Baidu_Netdisk&pic=true"
-            }
-        },
-        {
-            "key": "Tg123Search",
-            "name": "㊣｜123｜TG搜",
-            "type": 3,
-            "api": "csp_TgSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "hide": 1,
-            "filterable": 0,
-            "ext": {
-                "site": "https://tgsou.252035.xyz/",
-                "query": "channelUsername=wp123zy,xx123pan,yp123pan,zyfb123&pic=true"
-            }
-        },
-        {
-            "key": "Tg189Search",
-            "name": "㊣｜天翼｜TG搜",
-            "type": 3,
-            "api": "csp_TgSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "hide": 1,
-            "filterable": 0,
-            "ext": {
-                "site": "https://tgsou.252035.xyz/",
-                "query": "channelUsername=cloud189_group,yunpan139,cloud189_group,cloudtianyi,kuakeclound,tianyirigeng,txtyzy,tyypzhpd,tyysypzypd,yunpan189&pic=true"
-            }
-        },
-        {
-            "key": "PanSouQuark",
-            "name": "㊣｜夸克┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "hide": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "sources": [
-                    "夸克"
-                ]
-            }
-        },
-        {
-            "key": "PanSouUc",
-            "name": "㊣｜优囍┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 1,
-            "hide": 1,
-            "filterable": 0,
-            "ext": {
-                "sources": [
-                    "UC"
-                ]
-            }
-        },
-        {
-            "key": "PanSouXunlei",
-            "name": "㊣｜迅雷┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "hide": 1,
-            "ext": {
-                "sources": [
-                    "迅雷"
-                ]
-            }
-        },
-        {
-            "key": "PanSouAli",
-            "name": "㊣｜阿里┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "hide": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "ext": {
-                "sources": [
-                    "阿里"
-                ]
-            }
-        },
-        {
-            "key": "PanSouBaidu",
-            "name": "㊣｜百度┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "hide": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "ext": {
-                "sources": [
-                    "百度"
-                ]
-            }
-        },
-        {
-            "key": "PanSou123",
-            "name": "㊣｜123┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 1,
-            "hide": 1,
-            "filterable": 0,
-            "ext": {
-                "sources": [
-                    "123盘"
-                ]
-            }
-        },
-        {
-            "key": "PanSou189",
-            "name": "㊣｜天翼┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "hide": 1,
-            "ext": {
-                "sources": [
-                    "天翼"
-                ]
-            }
-        },
-        {
-            "key": "PanSou139",
-            "name": "㊣｜移动┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "hide": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "ext": {
-                "sources": [
-                    "移动"
-                ]
-            }
-        },
-        {
-            "key": "PanSouMagnet",
-            "name": "㊣｜磁力┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "hide": 1,
-            "filterable": 0,
-            "changeable": 1,
-            "ext": {
-                "sources": [
-                    "磁力"
-                ]
-            }
         }
     ],
-    "lives": [
-        {
-            "name": "裤佬",
-            "type": "0",
-            "pass": true,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg1",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "Kimentanm",
-            "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "playerType": 2
-        },
-        {
-            "name": "综合直播",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://ds65.tv1288.xyz",
-            "ua": "bingcha/1.1 (mianfeifenxiang) "
-        },
-        {
-            "name": "日后",
-            "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk",
-            "playerType": 2,
-            "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "宫殿",
-            "type": 0,
-            "url": "https://gongdian.top/tv/iptv",
-            "playerType": 1,
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
-        },
-        {
-            "name": "develop202",
-            "type": "0",
-            "pass": true,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "EPG直播",
-            "type": "0",
-            "pass": true,
-            "url": "http://gh-proxy.org/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "电视直播",
-            "type": "0",
-            "pass": true,
-            "url": "http://gh-proxy.org/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "酒店源",
-            "type": 0,
-            "url": "https://gongdian.top/tv/guovin",
-            "playerType": 1,
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
-        },
-        {
-            "name": "游魂",
-            "type": "0",
-            "pass": true,
-            "url": "https://www.iyouhun.com/tv/zb",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "YanG",
-            "type": "0",
-            "pass": true,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "suxuang",
-            "type": "0",
-            "pass": true,
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
+   
     "parses": [
         {
             "name": "爱心",
