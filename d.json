@@ -935,7 +935,7 @@
             "changeable": 0,
             "ext": {
                 "home": "1",
-                "json": "./json/bili.json",
+                "json": "http://mytv6688.xyz/aowu/json/bili.json",
                 "cookie": ""
             },
             "style": {
@@ -952,7 +952,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/bilisong.json",
+                "json": "http://mytv6688.xyz/aowu/json/bilisong.json",
                 "cookie": ""
             },
             "style": {
@@ -969,7 +969,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/bilixiqu.json",
+                "json": "http://mytv6688.xyz/aowu/json/bilixiqu.json",
                 "cookie": ""
             },
             "style": {
@@ -986,7 +986,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/bilisr.json",
+                "json": "http://mytv6688.xyz/aowu/json/bilisr.json",
                 "cookie": ""
             },
             "style": {
@@ -1003,7 +1003,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/bilixx.json",
+                "json": "http://mytv6688.xyz/aowu/json/bilixx.json",
                 "cookie": ""
             },
             "style": {
@@ -1020,7 +1020,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/bilicz.json",
+                "json": "http://mytv6688.xyz/aowu/json/bilicz.json",
                 "cookie": ""
             },
             "style": {
@@ -1037,7 +1037,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "./json/biligz.json",
+                "json": "http://mytv6688.xyz/aowu/json/biligz.json",
                 "cookie": ""
             },
             "style": {
