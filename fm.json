@@ -102,19 +102,18 @@
     ],
     "sites": [
 
-     {
-          "key":"drpy_js_豆瓣",
-        "name":"[豆瓣[js]",
-         "type":3,
-       "api":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
-       "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
+      {
+         "key":"drpy_js_豆瓣",
+        "name":"🐙[豆瓣[js]",
+          "type":3,
+          "api":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js",
+          "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/drpy.js"
       },
 
 
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
  
-
  {
             "name": "⭐瓜子|秒播",
             "key": "Guazi",
