@@ -103,81 +103,6 @@
     ],
     "sites": [
 
-//老张  https://zhangqun1818.serv00.net/zq/api.json
-
-{
-            "key": "哔哩lz",
-            "name": "哔哩lz",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "ext": {
-                "class": "Bilibili"
-            },
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
-
-
-//{
-    //  "key": "4KVM",
-    //  "name": "4KVM",
-    //  "type": 3,
-    //  "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/4KVM.py",
-    //  "searchable": 1,
-     // "quickSearch": 1,
-     // "filterable": 0,
-     // "changeable": 1,
-     // "playerType": 2,
-      //      "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-      //  },
-{
-      "key": "123TV",
-      "name": "123TV",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/123TV.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
-
-
-   {
-            "key": "荐片采集",
-            "name": "荐片采集",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-        {
-            "key": "python集合",
-            "name": "python集合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/py.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
-
-
-
-
 
 
 		
@@ -465,6 +390,81 @@
             "changeable": 0,
             "ext": "ec78288565eb2ea7fcb9caa81e70fa9b13eef2919564d8325ea61062acfd16469fd0578465db9bdafb4be3d9df2ea225005ccd90f53f78f97265763b899c13eefa1aa36f7cebdc6a5e972fd31f3252065f3cb61911684ab8f4233c6de2c543507f0fa3cf57dafd93e19b5fb4768b93dc2937cb5194f6545ee849cb768266005055049d881e69089873dd6f23ea0777e1240dfbf9882e2269fe49ab098ac603107eadaa29f975a8dd5167c48e97b5c6e5b263d4a9106a586eeeda123b8195ddaaac93710d597a0abe8c8067fd88668064ee490b74ea5dbf3518e69838a41f2141b73154d4bf0d076870cff129d21611f09a123dfdbe2fe26b48fea2affebf149833279ed8ed4d5f06b783ef11690b2faf42b6bab978f366d13b4d6d355ce004762835148ad58c93d2e3cb8fc8fdbdbc92218fb7bf95be1ba7c178deee3893a4f3fbc149ea4eb2e48b1b8ec8612b49da25c82bab467b32f73406aee79806f1bdc24417d4e6f726dfbd4107cbe1773ad8fd7b753e32442807ee436e3eadbdf5e5fd5c8620ab18f9c69d2a245bf4c7d63b4977dff230a25411d78b702edd983468d0d93806ca5808f8dc63c707fa1fb014bef2738dbed694435118ccb2a7788b3386529c7044f1efcdd403ccb2562c996c41e7f1f9c1f0af6339389469d5bf756a091d1c8bdfa5f435c74bf4e9d8c72e60e104645d642489dbbdba20841ff9e595fab2286bdba78f64d88c224b151191e334205fc6f067d255a8c103056a5353da45f0f2b04189346827e8395bed5773da244d9fc8c9e05e5ad0dbaa503c329855f8425fae9e2e60897327b49f46c4fe96fadbc2d2d0e836efa5f11ac4e936e9b62b26d7894ea9059f9b82026bdb6781c43c8e91e058634377895ad7ff289936cf5ce75976aca6b5e6ad9198b9b6968e0cce53764ef510c87e70dfb3f0993dc8a6427f9730b35d38bafdac3b1b52db8723669059e5b945280fe06447268bd51f08169fc8c138491a987be08ad7506bfa75019d88b80e42d07daf8a11dd68fc86ebe37c3e9b661a0171e89b3a5c6563bbbb930ba4671c82cc85038d99798ce627ff6d767e358a36588a7abfc072f477fae6340d3dd3d85d1241684e5e83ee97668a42e09238c2f8271f9f3377c5408b943c36d6f061647a2b60a17c4eb676027a900abd49e330c94671f704ac6fd5cf64897b9f012312c927fff5ab51eee988843c0f9fe1b036e967d1cddc52adb7f8e6deb4ac697c6d3c904c30c5008336c4cf75319042edb03578b8529d8119eb80658a6ab0e12ab2fd06b1fb139e20b31d799963782f8ec625e965a18280e86f5c4adac46b96c8188abde3cc148e714c3450daad9239240d2bab3b1f4754ed811f49213e0525db50db27b85b60f6b9f65803df4d8f9890478bdc3e6f3784385b53e2e63cb5e0e0193aa3f6f4a3e071f558c3d55aa0319b17738a6b104f46b54f21a9a3ab8489d0a855bb0b17b6d921453b78fa44572f039b152850f0ecb1907fe4bfdc8a9a188c57acef961a6dd601b29dc5bd1aed4b7ebcee5ff9cdf4632d3a0ac8952af09a69ab4d006929b6217ba420e99d1ac6fa011a5a4a499079f778a525d30e0e6eb5ffe8c7c75db14caf3f330af21c8702f5a20ffadec5dde3b368b46e09f1f4b461ee303999fdb5f2a39f47693222b7f1e310d3278b63d03bf4196b5a2ae78c631ff518c2eed4551f7d05ecaf4dfaec3c4723e5970c68997227cce0986c1ac744f64a9c163007908908ab0712303896096cfe7044eaf555382773749be4fe4dcf9377cda725f2b5dc4a8636d9b40c200d1ced68c33fe88b437e3602992daf33050c7584af0d30d183e1712cea276701e66a7e843688d44498f1d2e90ff10d3f1dbd8716aaa58632c0b340fca864291e47afd890ed6e38312e74ed50e35df1436d1e0dc2c00fa723eefbb1ff00f9cec48389d801faefcedc71752d83f64db20be6faa2c9efc74e3808e6103c4492ab73e7614c8a0718a15dd580d7689c3ec2f4a4a192c0c7dc136806ee8808a9cff3c303062b75badf33c133fdc2e900f0f60de58999d095feccea025e73cb053a9a522fbdb01983066fb1f261deb01688b533460e652d9aec64e952de"
         },
+
+
+
+//老张  https://zhangqun1818.serv00.net/zq/api.json
+
+{
+            "key": "哔哩lz",
+            "name": "哔哩lz",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "Bilibili"
+            },
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
+
+
+//{
+    //  "key": "4KVM",
+    //  "name": "4KVM",
+    //  "type": 3,
+    //  "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/4KVM.py",
+    //  "searchable": 1,
+     // "quickSearch": 1,
+     // "filterable": 0,
+     // "changeable": 1,
+     // "playerType": 2,
+      //      "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+      //  },
+{
+      "key": "123TV",
+      "name": "123TV",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/123TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+
+   {
+            "key": "荐片采集",
+            "name": "荐片采集",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+        {
+            "key": "python集合",
+            "name": "python集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
 
 
 
