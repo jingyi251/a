@@ -101,53 +101,7 @@
                
     ],
     "sites": [
-//老张  https://zhangqun1818.serv00.net/zq/api.json
 
-
-
-
-
-
-{
-      "key": "123TV",
-      "name": "123TV",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/123TV.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
-
-
-   {
-            "key": "荐片采集",
-            "name": "荐片采集",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-        {
-            "key": "python集合",
-            "name": "python集合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/py.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
- 
       //{
         //  "key":"drpy_js_豆瓣",
         //  "name":"[豆瓣[js]",
@@ -568,7 +522,78 @@
             "changeable": 1
     },
 
+//老张  https://zhangqun1818.serv00.net/zq/api.json
 
+{
+            "key": "哔哩lz",
+            "name": "哔哩lz",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "Bilibili"
+            },
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+
+
+
+//{
+    //  "key": "4KVM",
+    //  "name": "4KVM",
+    //  "type": 3,
+    //  "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/4KVM.py",
+    //  "searchable": 1,
+     // "quickSearch": 1,
+     // "filterable": 0,
+     // "changeable": 1,
+     // "playerType": 2,
+      //      "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+      //  },
+{
+      "key": "123TV",
+      "name": "123TV",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/123TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "playerType": 2,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+
+   {
+            "key": "荐片采集",
+            "name": "荐片采集",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+        {
+            "key": "python集合",
+            "name": "python集合",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+ 
 
 
 //香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
@@ -589,6 +614,164 @@
 
 
 
+
+//饭太硬    http://www.饭太硬.com/tv   http://www.饭太硬.art/tv  https://www.饭太硬.net/tv
+{
+            "key": "MTV1",
+            "name": "🎙️易听音乐┃带歌词",
+            "type": 3,
+            "api": "csp_MusicGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+          {
+            "key": "原创",
+            "name": "☀原创┃秒播",
+            "type": 3,
+            "api": "csp_YCyzGuard",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "比特",
+            "name": "🍄比特┃秒播",
+            "type": 3,
+            "api": "csp_BttwooGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU=",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "剧圈",
+            "name": "🐻剧圈┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+              {
+            "key": "视界",
+            "name": "🍙视界┃多线",
+            "type": 3,
+            "api": "csp_AppNoxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+  {
+            "key": "花花",
+            "name": "🥝花花┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ==",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "播客",
+            "name": "🦊播客┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "猫猫",
+            "name": "🐟猫猫┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+       
+
+        {
+            "key": "奥特",
+            "name": "🏝奥特┃多线",
+            "type": 3,
+            "api": "csp_AueteGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
+
+        {
+            "key": "荐片",
+            "name": "🐭荐片┃P2P",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,   
+           "jar":"https://oss4liview.moji.com/thd_file/2026/05/16/5b36899adb4d8ec14789e8f0efbee0f5.jpg"
+     },
 
 
 
@@ -667,7 +850,23 @@
         "自拍偷拍",
         "重口味"
       ]
-    }
+    },
+
+
+//香雅晴https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQTVBox.json
+       
+
+         {"key": "csp_XYQHiker_兔小贝","name":"🐰兔小贝(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝.json"},
+        {"key": "csp_XYQHiker_兔小贝2","name":"🐰兔小贝2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/兔小贝2.json"},
+        {"key": "csp_XYQHiker_播视童趣","name":"👶🏻播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/播视童趣.json"},
+        {"key": "csp_XYQHiker_风车动漫","name":"🌪风车动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/风车动漫.json"},
+        {"key": "csp_XYQHiker_樱花动漫","name":"🌸樱花动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/樱花动漫.json"},
+        {"key": "csp_XYQHiker_去看吧动漫","name":"🔭去看吧动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/去看吧动漫.json"},
+        {"key": "csp_XYQHiker_嗷呜动漫","name":"🙀嗷呜动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/嗷呜动漫.json"},
+        {"key": "csp_XYQHiker_动漫巴士","name":"🚌动漫巴士(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/动漫巴士.json"},
+        {"key": "csp_XYQHiker_番茶动漫","name":"番茶动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/番茶动漫.json"},
+        {"key": "csp_XYQHiker_age动漫","name":"AGE动漫(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/XYQHiker/age动漫.json"}
+       
  ],    
   
    "parses": [
