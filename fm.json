@@ -8,7 +8,7 @@
 
 
 {
-      "spider": "https://zl.wpscdn.cn/2026/06/06/space_img/2ca992da-c4ef-484b-9b1a-2c95df30fa37.png",   
+      "spider": "https://zl.wpscdn.cn/2026/06/06/space_img/b1ac92b5-50c7-4384-b1c7-dca2beab1088.png",   
 
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
@@ -833,28 +833,25 @@
             "quickSearch": 0,
             "changeable": 0
         },
- {
-            "name": "💥玩偶|4K",
-            "key": "woWogg",
+{
+            "name": "☁️二小|4K",
+            "key": "exWobg",
             "type": 3,
-            "api": "csp_WoggAmns",
+            "api": "csp_WobgAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
                 "sites": [
-                    "http://www.wogg.lol",
-                    "https://wogg.xxooo.cf",
-                    "https://woggpan.888484.xyz",
-                    "https://wogg.333232.xyz",
-                    "http://woggpan.xxooo.cf",
-                    "https://www.wogg.one",
-                    "https://www.wogg.live"
+                    "https://www.2xiaopan.top",
+                    "https://2xiaopan.top",
+                    "https://www.erxiaozhan.top",
+                    "https://www.2xiaozhan.top",
+                    "https://wexwp.cc"
                 ],
-                "filters": "https://file.icve.com.cn/file_doc/749/902/BB6E1B79DF03CD16DDAC84F2FF266BD4.aowu"
+                "filters": "https://nos.netease.com/youdata-netease/public-utilUpload-w2jwT7HaUo1qS2S3ftXQuU.gz"
             }
-        },
-        {
+        },        {
             "name": "💥木偶|4K",
             "key": "moWobg",
             "type": 3,
