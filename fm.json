@@ -34,7 +34,12 @@
             "playerType": 1,
             "logo": "https://gongdian.top/tv/taibiao/{name}.png"
         },
-
+{
+            "name": "🐙YueChan",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
+        },
 {
             "name": "🐙7748",
             "type": 0,
@@ -43,12 +48,7 @@
         },
 
 
- {
-            "name": "🐙74源",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://im5k.fun/vip.m3u"
-        },
+ 
         {
             "name": "🐙风云源",
             "type": 0,

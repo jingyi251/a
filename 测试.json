@@ -23,11 +23,11 @@
             "logo": "https://gongdian.top/tv/taibiao/{name}.png"
         },
 
- {
-            "name": "🐙74源",
+{
+            "name": "🐙YueChan",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://im5k.fun/vip.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u"
         },
         {
             "name": "🐙风云源",
@@ -130,7 +130,26 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-
+{
+            "key": "围观短剧",
+            "name": "🎬短剧┃围观",
+            "type": 3,
+            "api": "csp_WeiguanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "key": "Wexduanjuvop",
+            "name": "🎬短剧┃秒播",
+            "type": 3,
+            "api": "csp_WexduanjuvopGuard",
+            "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/fnw.jar",
+            "searchable": 1,
+            "changeable": 1
+        }
 //https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
 
 {
