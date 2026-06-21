@@ -4,11 +4,14 @@
 //  ok   http://ok321.top/ok        
 //小米  https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json              
 // 摸鱼  http://我不是.摸鱼儿.com
-//  //  当前接口：http://mytv6688.xyz/aowu/config.webp
+// 
+ //  当前接口：http://mytv6688.xyz/aowu/config.webp   http://itv666.cc/aowu/config.webp   https://9763.kstore.space/aowu.json
+  
 
 
 {
-      "spider": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",
+      "spider": "https://zl.wpscdn.cn/2026/06/18/space_img/3c75da06-54f9-4e41-8f3a-57ce390c889e.png",   
+
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
 
@@ -544,7 +547,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
           {
             "key": "原创",
@@ -556,7 +559,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -568,7 +571,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -582,7 +585,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -594,7 +597,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -607,7 +610,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
               {
@@ -620,7 +623,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A==",   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
   {
             "key": "花花",
@@ -632,7 +635,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ==",   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -645,7 +648,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru",   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -658,7 +661,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==",   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
        
@@ -672,7 +675,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
         {
@@ -685,7 +688,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,   
-           "jar":"https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg"
+           "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
 
