@@ -100,13 +100,14 @@
 
     "sites": [
 {
-"key":"枫叶4k",
-"name":"枫叶4k",
-"type":3,
-"api":"https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/%E6%9E%AB%E5%8F%B64k%E5%BD%B1%E9%99%A2.js",
-"style":{"type":"rect","ratio":1.33},
-"changeable":1
-},
+      "key": "枫叶4k影院",
+      "name": "枫叶4k影院(JS源)",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/枫叶4k影院.js",
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1
+    },
         {
             "key": "豆瓣",
             "name": "豆瓣｜首页",
