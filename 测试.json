@@ -99,15 +99,10 @@
 
 
     "sites": [
-{
-      "key": "枫叶4k影院",
-      "name": "枫叶4k影院｜py",
-      "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶4k影院.py",
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1
-    },
+
+
+
+
 
         {
             "key": "豆瓣",
@@ -130,6 +125,20 @@
             "searchable": 0
         },
 //
+
+
+{
+            "key": "枫叶4k影院",
+            "name": "枫叶4k影院｜py",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
 {
             "key": "围观短剧",
             "name": "🎬短剧┃围观",
