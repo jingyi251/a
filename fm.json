@@ -126,6 +126,15 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
 //"ext": "http://mytv6688.xyz/aowu/json/douban.json"
         },
+{
+      "key": "枫叶4k影院",
+      "name": "枫叶4k影院(JS源)",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/枫叶4k影院.js",
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1
+    },
 
 
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
