@@ -186,7 +186,10 @@
             "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
            "quickSearch": 1,
       "changeable": 0,
-      "filterable": 1
+      "filterable": 1,
+            "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
+            
+
 
         },
 //"jar": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
