@@ -101,6 +101,15 @@
     "sites": [
 
 
+{
+      "key": "枫叶4k影院",
+      "name": "枫叶4k影院(JS源)",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/枫叶4k影院1.js",
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1
+    },
 
 
 
@@ -127,15 +136,15 @@
 //
 
 
-{
-            "key": "枫叶4k影院",
-            "name": "枫叶4k影院｜py",
-            "type": 3,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
+//{
+           // "key": "枫叶4k影院",
+          //  "name": "枫叶4k影院｜py",
+          //  "type": 3,
+          //  "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py",
+          //  "style": {
+           //     "type": "rect",
+           //     "ratio": 1.33
+           // },
             "changeable": 1
     },
 
