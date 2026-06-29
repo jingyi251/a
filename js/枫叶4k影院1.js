@@ -5,8 +5,7 @@ import cheerio from 'assets://js/lib/cheerio.min.js';
 // import cheerio from '../lib/cheerio.min.js';
 
 const sites = [
-'http://http://www.ymkjdn.com',
-     'https://app.cbeihu.com.cn',
+
     'https://www.cd-zj.com',
     'https://www.gzwlr.com',
 ]
