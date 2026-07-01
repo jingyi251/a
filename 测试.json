@@ -101,15 +101,6 @@
     "sites": [
 
 
-//{
- //     "key": "枫叶4k影院",
- //     "name": "枫叶4k影院(JS源)",
- //     "type": 3,
- //     "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/枫叶4k影院1.js",
- //     "quickSearch": 1,
- //     "changeable": 0,
-  //    "filterable": 1
-  //  },
 
 
 
@@ -133,20 +124,31 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-
-
+//
 
 {
-       "key": "枫叶影院",
-        "name": "枫叶影院｜py",
-       "type": 3,
-        "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
-         "style": {
-            "type": "rect",
-           "ratio": 1.33
-         },
-         "changeable": 1
- },
+            "key": "红果短剧",
+            "name": "红果短剧【py】",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/红果短剧.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
+
+{
+            "key": "枫叶影院",
+            "name": "枫叶影院｜py",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+    },
 
 {
             "key": "围观短剧",
@@ -204,7 +206,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
-            "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
+            "jar": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
             
         },
 //"jar": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
@@ -315,29 +317,7 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
         },
  
-       {
-	     "key": "py_七区",
-	     "name": "七区(T3)",
-	     "type": 3,
-             "api": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/七区.py",
-             "quickSearch": 1,
-	     "searchable": 1,
-	     "filterable": 1,
-            "jar": "https://cdn.gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/jar/xc.jar"
-	},
-//老张  https://zhangqun1818.serv00.net/zq/api.json
-{
-      "key": "jabie",
-      "name": "jabie",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/jabie.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
+     //老张  https://zhangqun1818.serv00.net/zq/api.json
 {
       "key": "在线之家",
       "name": "在线之家",
