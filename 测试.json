@@ -197,8 +197,7 @@
         "changeable": 1,
         "categories": ["动作片", "喜剧片", "爱情片 ", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧 ", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫 ", "动画片", "港台动漫", "海外动漫", "演唱会", "篮球", "足球", "预告片", "影视解说", "爽文短剧", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧",],
             "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/a/xyqxbpq新.jar"
-        },{"key":"T4_pptv","name":"T4┃pptv","type":4,"api":"http://ser995290833053.gptapp.ren/tvbox/php/pptv.php?token=yyds"},
-
+        },
 {
             "key": "ss直播",
             "name": "🔞ss直播",
@@ -296,19 +295,7 @@
         "重口味"
       ]
     },
- {
-            "key": "cam4",
-            "name": "cam4",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:5052/?sp=cam4",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
-        },
-        
+         
        {
             "key": "松视开通2",
             "name": "🈲🔞松视2",
@@ -320,18 +307,6 @@
         },
  
      //老张  https://zhangqun1818.serv00.net/zq/api.json
-{
-      "key": "在线之家",
-      "name": "在线之家",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/在线之家.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "playerType": 2,
-            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-        },
 
 {
             "key": "js集合",
