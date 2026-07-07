@@ -10,7 +10,7 @@
 
 
 {
-      "spider": "https://zl.wpscdn.cn/2026/07/01/space_img/e9573999-f5f8-472e-a6e5-0c8af39ac172.png;md5;76b3292530a50dced09d7916854a268b",   
+      "spider": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407",   
 
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
@@ -29,13 +29,14 @@
 "type": 1,
 "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"
 },
- {
+{
             "name": "宫殿",
             "type": 0,
             "url": "https://gongdian.top/tv/iptv",
             "playerType": 1,
             "logo": "https://gongdian.top/tv/taibiao/{name}.png"
         },
+ 
 {
             "name": "🐙YueChan",
             "type": 0,
@@ -390,7 +391,6 @@
             "quickSearch": 1,
             "changeable": 0
         },
-
 
 
 
