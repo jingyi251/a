@@ -49,14 +49,6 @@
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "logo": "https://img.imgdd.com/506a1ca4-ab22-4c6e-b5aa-8033b95d2181.jpg"
     },
- {
-          "name": "AV",
-          "type":"0",
-          "pass": true,
-          "url":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/AV.txt",
-          "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",     
-          "logo": "https://epg.iill.top/logo/{name}.png"
-        },
   
 
 
@@ -103,18 +95,59 @@
     "sites": [
 
 
-
-{
+       {
             "key": "红果短剧",
-            "name": "红果短剧【py】",
+            "name": "🍅红果｜脑残短剧看不停",
             "type": 3,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/红果短剧.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-    },
+            "api": "https://d.kstore.dev/download/8344/py/红果短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+     
+                {
+            "key": "四叶草",
+            "name": "🍀星叶｜1080P",
+            "type": 3,
+            "jar": "https://lu0168.ccwu.cc/888/db/jar/xiaomi.jar",            
+            "api": "csp_AppGet",
+            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
+        }, 
+                {
+            "key": "枫叶vip",
+            "name": "🍁枫叶4K｜影视py",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/8344/py/枫叶vip.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "万彩坊影视",
+            "name": "🦚万彩坊｜影视py",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/8344/py/万彩坊影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+//{
+           // "key": "红果短剧",
+            //"name": "红果短剧【py】",
+            //"type": 3,
+            //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/红果短剧.py",
+            //"style": {
+                //"type": "rect",
+               // "ratio": 1.33
+            //},
+            //"changeable": 1
+    //},
 
 
 
