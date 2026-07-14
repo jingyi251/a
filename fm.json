@@ -148,17 +148,7 @@
             "playerType": 2
         },
 
-{
-           "key": "枫叶影院",
-           "name": "枫叶影院｜py",
-           "type": 3,
-           "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
-           "style": {
-            "type": "rect",
-            "ratio": 1.33
-            },
-            "changeable": 1
-  },
+
 
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
