@@ -148,6 +148,17 @@
             "playerType": 2
         },
 
+{
+           "key": "枫叶影院",
+           "name": "枫叶影院｜py",
+           "type": 3,
+           "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
+           "style": {
+            "type": "rect",
+            "ratio": 1.33
+            },
+            "changeable": 1
+  },
 
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
@@ -1431,9 +1442,24 @@
                 "magnet"
             ],
             "regex": [
-                "最 新",
+                "更多",
+                "请访问",
+                "example",
+                "社 區",
+                "x u u",
                 "直 播",
-                "更 新"
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
             ]
         },
         {
