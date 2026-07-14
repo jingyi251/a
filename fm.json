@@ -148,8 +148,58 @@
             "playerType": 2
         },
 
+{
+           "key": "枫叶影院",
+           "name": "枫叶影院｜py",
+           "type": 3,
+           "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
+           "style": {
+            "type": "rect",
+            "ratio": 1.33
+            },
+            "changeable": 1
+  },
 
-
+//http://rihou.cc:88/demoabc.json
+ {
+            "key": "电影天堂",
+            "name": "🧞无广┃[采集]",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "playUrl": "",
+            "categories": [
+                "短剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "动画片"
+            ]
+        },
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
  
