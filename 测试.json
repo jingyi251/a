@@ -94,7 +94,20 @@
 
     "sites": [
 
-
+{
+            "key": "Nostr",
+            "name": "Nostr推荐",
+            "type": 3,
+            "api": "csp_Nostr",
+            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/nostr.min.html"
+        },
+                {
+            "key": "Nostr2",
+            "name": "版本202606291609",
+            "type": 3,
+            "api": "csp_Nostr",
+            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/test.min.html"
+        },
            
                 {
             "key": "四叶草",
