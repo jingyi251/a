@@ -100,7 +100,13 @@
             "api": "csp_Nostr",
             "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/test.min.html"
         },
-
+{
+            "key": "豆瓣",
+            "name": "豆瓣｜首页",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
            
                 {
             "key": "四叶草",
@@ -123,13 +129,7 @@
         },
 
 
-        {
-            "key": "豆瓣",
-            "name": "豆瓣｜首页",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
+        
         {
             "key": "本地",
             "name": "本地｜视频",
