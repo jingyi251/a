@@ -127,16 +127,6 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
 //"ext": "http://mytv6688.xyz/aowu/json/douban.json"
         },
-{
-      "key": "枫叶4k影院",
-      "name": "枫叶4k影院(JS源)",
-      "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/js/枫叶4k影院.js",
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1
-    },
-
      
                 {
             "key": "四叶草",
@@ -146,18 +136,7 @@
             "api": "csp_AppGet",
             "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
         }, 
-                {
-            "key": "枫叶vip",
-            "name": "🍁枫叶4K｜影视py",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/8344/py/枫叶vip.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
+                       {
             "key": "万彩坊影视",
             "name": "🦚万彩坊｜影视py",
             "type": 3,
