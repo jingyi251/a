@@ -93,13 +93,7 @@
 
 
     "sites": [
-  {
-            "key": "Nostr2",
-            "name": "版本202606291609",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/test.min.html"
-        },
+  
 {
             "key": "豆瓣",
             "name": "豆瓣｜首页",
@@ -107,7 +101,14 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-           
+       {
+            "key": "Nostr",
+            "name": "Nostr推荐",
+            "type": 3,
+            "api": "csp_Nostr",
+            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/nostr.min.html"
+        },
+    
                 {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
