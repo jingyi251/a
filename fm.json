@@ -136,17 +136,7 @@
       "changeable": 0,
       "filterable": 1
     },
-{
-            "key": "红果短剧",
-            "name": "🍅红果｜脑残短剧看不停",
-            "type": 3,
-            "api": "https://d.kstore.dev/download/8344/py/红果短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+
      
                 {
             "key": "四叶草",
