@@ -145,6 +145,28 @@
             "searchable": 0
         },
 //
+{
+        "key": "莫小影",
+         "name": "莫小影｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/莫小影.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+{
+        "key": "可可影视",
+         "name": "可可影视｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/可可影视.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
 
 {
         "key": "枫叶影院",
