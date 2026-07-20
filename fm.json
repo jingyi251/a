@@ -1,10 +1,3 @@
-//  没有王二小     https://9280.kstore.vip/newwex.json                
-//  肥猫   http://肥猫.com      http://hello.肥猫.net
-//饭太硬  http://www.饭太硬.com/tv    
-//  ok   http://ok321.top/ok        
-//小米  https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/mi.json              
-// 摸鱼  http://我不是.摸鱼儿.com
-// 
  //  当前接口  http://www.英格里希嗷呜.top/tv      http://itv666.cc/aowu/config.webp    https://9763.kstore.vip/aowu.json    http://www.英格里希嗷呜.top
   
 
@@ -112,7 +105,7 @@
 //"ext": "http://mytv6688.xyz/aowu/json/douban.json"
         },
      
-                {
+       {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
             "type": 3,
@@ -120,7 +113,7 @@
             "api": "csp_AppGet",
             "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
         }, 
-                       {
+        {
             "key": "万彩坊影视",
             "name": "🦚万彩坊｜影视py",
             "type": 3,
