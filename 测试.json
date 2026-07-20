@@ -101,14 +101,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-       {
-            "key": "Nostr",
-            "name": "Nostr推荐",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/nostr.min.html"
-        },
-    
+          
                 {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
