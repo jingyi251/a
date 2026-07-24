@@ -100,7 +100,62 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-          
+               {
+            "key": "多瑙影院",
+            "name": "多瑙影院",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/多瑙影院.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+            {
+            "key": "柯南影视",
+            "name": "柯南影视",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/柯南影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+            {
+            "key": "太二影视",
+            "name": "太二影视",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/太二影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+            {
+            "key": "太乙影视",
+            "name": "太乙影视",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/太乙影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+            {
+            "key": "枝枝影视",
+            "name": "枝枝影视｜影视py",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枝枝影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+       
                 {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
