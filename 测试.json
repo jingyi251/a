@@ -53,7 +53,18 @@
 
   { "name": "海角肏屄","type": 0,"url": "https://gh-proxy.org/https://github.com/mucuntakuya/haijiao/blob/main/haijiao553","playerType": 2, "timeout": 10,"ua": "bingcha/1.1(mianfeifenxiang)" },
            
-              
+   {
+            "name": "直播大全",
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.py",
+            "ext": {
+                "proxy": [
+                    "http://127.0.0.1:2080",
+                    "http://127.0.0.1:10172"
+                ],
+                "log_enabled": true,
+                "channels_url": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.txt"
+            }
+        },            
         {
             "name": "肏屄",
             "type": 0,
@@ -100,18 +111,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
- {
-            "name": "直播大全",
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.py",
-            "ext": {
-                "proxy": [
-                    "http://127.0.0.1:2080",
-                    "http://127.0.0.1:10172"
-                ],
-                "log_enabled": true,
-                "channels_url": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.txt"
-            }
-        },
+
 
                {
             "key": "多瑙影院",
