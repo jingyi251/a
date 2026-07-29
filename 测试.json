@@ -100,6 +100,18 @@
             "api": "csp_Douban",
             "searchable": 0
         },
+ {
+            "key": "真实人妻",
+            "name": "真实人妻｜影视py",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/真实人妻.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+       
 
                {
             "key": "多瑙影院",
@@ -187,6 +199,17 @@
          "name": "可可影视｜py",
           "type": 3,
           "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/可可影视.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+{
+        "key": "真实人妻1",
+         "name": "真实人妻1｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/真实人妻.py",
           "style": {
             "type": "rect",
            "ratio": 1.33
