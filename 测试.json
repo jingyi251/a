@@ -92,7 +92,18 @@
 
 
     "sites": [
-  
+  {
+        "key": "苹果视频-十区",
+         "name": "苹果视频-十区｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/苹果视频-十区.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+
 {
             "key": "豆瓣",
             "name": "豆瓣｜首页",
@@ -100,17 +111,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
- {
-            "key": "苹果视频-十区",
-            "name": "苹果视频-十区",
-            "type": 3,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/苹果视频-十区",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+ 
        
 {
 "key":"py_dsystv",
