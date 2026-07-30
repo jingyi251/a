@@ -180,8 +180,7 @@
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
  
 
-
-{
+  {
             "name": "⭐夏天|秒播",
             "key": "NewGrV2",
             "type": 3,
@@ -659,16 +658,16 @@
            "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
-        {
+         {
             "key": "视界",
             "name": "🌸茉莉┃多线",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_App99Guard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg==" ,   
+            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c=" ,   
            "jar":"https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/fan.txt"
      },
 
