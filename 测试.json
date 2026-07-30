@@ -101,10 +101,10 @@
             "searchable": 0
         },
  {
-            "key": "真实人妻",
-            "name": "真实人妻｜影视py",
+            "key": "苹果视频-十区",
+            "name": "苹果视频-十区",
             "type": 3,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/真实人妻.py",
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/苹果视频-十区",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -112,7 +112,30 @@
             "playerType": 2
         },
        
+{
+"key":"py_dsystv",
+"name":"袋鼠影视|PY",
+"type":3,
+"api":"https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/dsystv.py",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"{\"host\":\"https://dsystv.com\"}"
+},
 
+
+
+
+{
+"key":"py_ysttv",
+"name":"影视天堂|PY",
+"type":3,
+"api":"https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/ysttv.py",
+"searchable":1,
+"quickSearch":0,
+"filterable":1,
+"ext":"{\"host\":\"https://ysttv.com\",\"pageFmt\":\"\",\"searchFmt\":\"\"}"
+},
                {
             "key": "多瑙影院",
             "name": "多瑙影院",
