@@ -103,7 +103,25 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
 //"ext": "http://mytv6688.xyz/aowu/json/douban.json"
         },
-     
+//https://v6.gh-proxy.org/https://github.com/mucuntakuya/FG/blob/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
+   {
+			"key": "4K影视",
+			"name": "🐬4K影视.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"
+		},
+		{
+			"key": "蝶卡影视",
+			"name": "🐬蝶卡影视.py(关梯)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
+		},  
+{
+			"key": "qlys",
+			"name": "🐬麒麟影视.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麒麟影视.py"
+		},
                 {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
