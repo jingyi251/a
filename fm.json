@@ -122,6 +122,13 @@
 			"type": 3,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麒麟影视.py"
 		},
+{
+			"key": "拾光影视",
+			"name": "🐬拾光影视.js",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/拾光影视.js",
+			 "changeable": 0
+		},
                 {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
@@ -198,17 +205,7 @@
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
  
 
-  {
-            "name": "⭐夏天|秒播",
-            "key": "NewGrV2",
-            "type": 3,
-            "api": "csp_NewGrV2Amns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "e5f15714a2413f05151fea686450950ace809216b88f37b7b1fb4f1ce80eff9fab1b6be3fd1f9df9a5a915365aefecb314d297b5e1747337c20236c3637c2aeaebfce371e9053be3898bb20a9ef20bbf13173fb2ad38b4474346328a3a354451a1b5f96c490cc09840a195bc498f9e11499df11b3946e58e4c705a8457521ed34c879c458a9b27e487496c7a63a7ca8b34133bca4943b0019d982462cc22294e7c4ab447899b0e8bc667c7e635e8291fa544e8e28d8b16b8b702912f2d5ec561e1fb8667cc44bef7cae73f5022c94518cb7f0845d772d44944a88ff71d9a562a6204729a8f1b00c81ba195664482e756859f12048f73e986ad3bb6584935696dff959b0f82055f23d94f6a935103b574a98d54079a0be6647fcaca4db0d177ac3004eb51819a8e539646a141"
-        },
-        {
+          {
             "name": "⭐韩剧|秒播",
             "key": "Hxq",
             "type": 3,
