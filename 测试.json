@@ -103,6 +103,12 @@
          },
           "changeable": 1
  },
+  {
+			"key": "花都影院",
+			"name": "花都影院.py",
+			"type": 3,
+			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/花都影院.py"
+		},
 
 {
             "key": "豆瓣",

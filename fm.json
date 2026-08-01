@@ -104,12 +104,6 @@
 //"ext": "http://mytv6688.xyz/aowu/json/douban.json"
         },
 //https://v6.gh-proxy.org/https://github.com/mucuntakuya/FG/blob/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
-  {
-			"key": "花都影院",
-			"name": "花都影院.py",
-			"type": 3,
-			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/花都影院.py"
-		},
 
    {
 			"key": "4K影视",
