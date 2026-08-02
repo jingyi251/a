@@ -114,37 +114,36 @@
 			"key": "4K影视",
 			"name": "🐬4K影视.py",
 			"type": 3,
-                        "searchable": 1,
-			 "changeable": 0,
+            "searchable": 1,
+			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"
 		},
 		{
 			"key": "蝶卡影视",
 			"name": "🐬蝶卡影视.py(关梯)",
 			"type": 3,
-                        "searchable": 1,
-			 "changeable": 0,
+            "searchable": 1,
+			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
 		},  
 {
 			"key": "qlys",
 			"name": "🐬麒麟影视.py",
 			"type": 3,
-                        "searchable": 1,
-			 "changeable": 0,
+            "searchable": 1,
+			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麒麟影视.py"
 		},
 {
 			"key": "拾光影视",
 			"name": "🐬拾光影视.js",
 			"type": 3,
-                        "searchable": 1,
-			 "changeable": 0,
+            "searchable": 1,
+			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/拾光影视.js"
-
 		},
 
-                {
+        {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
             "type": 3,
@@ -152,7 +151,7 @@
             "api": "csp_AppGet",
             "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
         }, 
-                       {
+        {
             "key": "万彩坊影视",
             "name": "🦚万彩坊｜影视py",
             "type": 3,
