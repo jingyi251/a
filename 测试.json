@@ -151,6 +151,20 @@
 "filterable":1,
 "ext":"{\"host\":\"https://ysttv.com\",\"pageFmt\":\"\",\"searchFmt\":\"\"}"
 },
+
+    {
+            "key": "BT4K影院",
+            "name": "BT4K影院",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/BT4K影院.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+
+
                {
             "key": "多瑙影院",
             "name": "多瑙影院",
@@ -259,7 +273,7 @@
         "key": "枫叶影院",
          "name": "枫叶影院｜py",
           "type": 3,
-          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/%E6%9E%AB%E5%8F%B6%E5%BD%B1%E9%99%A2.py",
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枫叶影院.py",
           "style": {
             "type": "rect",
            "ratio": 1.33
