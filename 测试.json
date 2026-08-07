@@ -109,7 +109,11 @@
 			"type": 3,
 			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/5G影视.py"
 		},
-
+  {
+            "key": "BT4K影院",
+            "name": "BT4K影院",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/BT4K影院.py"        },
 
   {
 			"key": "花都影院",
@@ -152,17 +156,7 @@
 "ext":"{\"host\":\"https://ysttv.com\",\"pageFmt\":\"\",\"searchFmt\":\"\"}"
 },
 
-    {
-            "key": "BT4K影院",
-            "name": "BT4K影院",
-            "type": 3,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/BT4K影院.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+  
 
 
                {
