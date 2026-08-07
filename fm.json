@@ -142,14 +142,7 @@
 			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/拾光影视.js"
 		},
-{
-       "key":"yangguang",
-       "name":"阳光影视",
-       "type":3,
-       "api":"https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/yangguang.py",
-       "searchable":1,
-       "quickSearch":0
-},
+
         {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
@@ -222,6 +215,14 @@
                 "动画片"
             ]
         },
+		{
+       "key":"yangguang",
+       "name":"阳光影视",
+       "type":3,
+       "api":"https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/yangguang.py",
+       "searchable":1,
+       "quickSearch":0
+},
 // 东篱  https://16151.kstore.space      https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/api.json
 //  嗷呜接口：http://mytv6688.xyz/aowu/config.webp
  
