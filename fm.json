@@ -16,11 +16,11 @@
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
 
 
-{ 
-"name": "👖裤佬TV直播",
-"type": 1,
-"url": "https://live.445569.xyz/live.m3u"
-},
+ {
+      "name": "👖裤佬IPTV直播",
+      "type": 0,
+      "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+    },
 {
             "name": "宫殿",
             "type": 0,
@@ -142,7 +142,6 @@
 			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/拾光影视.js"
 		},
-
         {
             "key": "四叶草",
             "name": "🍀星叶｜1080P",
@@ -215,7 +214,7 @@
                 "动画片"
             ]
         },
-		{
+{
        "key":"yangguang",
        "name":"阳光影视",
        "type":3,
@@ -392,23 +391,6 @@
 {"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
-
-{
-            "key": "哔哩lz",
-            "name": "哔哩lz",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1,
-            "ext": {
-                "class": "Bilibili"
-            },
-            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
-        },
-
 
 
 //{
@@ -750,8 +732,7 @@
 
 
 
-
-       	{
+{
       "key": "🍊Boba影视🍊",
       "name": "🍊Boba影视🍊",
       "type": 0,
@@ -972,8 +953,8 @@
             "genre": "shortdrama"
         },
       
-        {
-            "name": "🎉Bili|合集",
+       {
+            "name": "🎉合集┃Bili",
             "key": "BiliHeji",
             "type": 3,
             "api": "csp_BiliAmns",

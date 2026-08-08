@@ -13,12 +13,11 @@
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
 
-{ 
-"name": "👖裤佬TV直播",
-"type": 1,
-"url": "https://live.445569.xyz/live.m3u"
-},
  {
+      "name": "👖裤佬IPTV直播",
+      "type": 0,
+      "url": "https://seep.eu.org/https://live.445569.xyz/live.m3u"
+    }, {
             "name": "宫殿",
             "type": 0,
             "url": "https://gongdian.top/tv/iptv",
@@ -109,13 +108,7 @@
 			"type": 3,
 			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/5G影视.py"
 		},
-  {
-            "key": "BT4K影院",
-            "name": "BT4K影院",
-            "type": 3,
-            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/BT4K影院.py"  
-  },
-
+ 
   {
 			"key": "花都影院",
 			"name": "花都影院.py",
