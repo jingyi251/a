@@ -10,62 +10,26 @@
     
 
 
-    //"lives": [
+    "lives": [
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
 
 
-// {
-      //"name": "👖裤佬IPTV直播",
-      //"type": 0,
-      //"url": "https://live.445569.xyz/live.m3u"
-   // },
-//{
-            //"name": "宫殿",
-            //"type": 0,
-            //"url": "https://gongdian.top/tv/iptv",
-            //"playerType": 1,
-           // "logo": "https://gongdian.top/tv/taibiao/{name}.png"
-       // },
-
-  "lives": [
-    {
-      "name": "裤佬[M]",
+ {
+      "name": "👖裤佬IPTV直播",
       "type": 0,
-      "url": "https://live.445569.xyz/live.m3u",
-      "_help": "M3U直播源"
+      "url": "https://live.445569.xyz/live.m3u"
     },
-    {
-      "name": "Jack[M]",
-      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-      },
-      "_help": "M3U直播源，带自定义UA"
-    },
-    {
-      "name": "易发[T]",
-      "type": 1,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
-      "_help": "TXT直播源（#genre#格式）"
-    },
-    {
-      "name": "央视频[P]",
-      "type": 3,
-      "api": "https://000.hfr1107.top/lz/py/live_ysp.py",
-      "_help": "Python模块接口（.py）"
-    },
-    {
-      "name": "油管[P]",
-      "type": 3,
-      "api": "https://000.hfr1107.top/lz/py/ytbzb.py",
-      "ext": {
-        "代理": "http://127.0.0.1:2080"
-      },
-      "_help": "Python模块接口，带代理配置"
-    
-},
+{
+            "name": "宫殿",
+            "type": 0,
+            "url": "https://gongdian.top/tv/iptv",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        },
+
+ 
  
 {
             "name": "🐙YueChan",
