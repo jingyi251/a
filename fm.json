@@ -29,8 +29,6 @@
             "logo": "https://gongdian.top/tv/taibiao/{name}.png"
         },
 
- 
- 
 {
             "name": "🐙YueChan",
             "type": 0,
@@ -47,19 +45,16 @@
 
  
         {
-            "name": "🐙风云源",
+            "name": "易发源",
             "type": 0,
             "ua": "okhttp",
-            "url": "http://iptv.4666888.xyz/FYTV.txt"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
         },
  {
-            "name": "👖本猫影TV直播",
+            "name": "👖Jack[M]",
             "type":0,
-            "url":"https://iptv.catvod.com/list.php?token=dd01a0b8debd7a9beaab60315001961d4d61e665bf6ee94d9a640eab0ec43a95",
-            "ua":"Goiptv/8.8.8",
-            "timeout":10,
-            "playerType":2
-   },
+            "url":"https://php.946985.filegear-sg.me/jackTV.m3u"
+              },
 //南哥https://16409.kstore.vip/tv/ngzmods.json
 {
       "name": "南哥live",
