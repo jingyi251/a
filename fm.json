@@ -492,32 +492,7 @@
 {"key":"csp_LocalFile","name":"本机文件(接口完全免费)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":0,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
 
 //老张  https://zhangqun1818.serv00.net/zq/api.json
-{
-    "key": "直播转点播",
-    "name": "📡┃直播┃电视",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/live2vod@v18.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "style": {
-        "type": "list",
-        "ratio": 1.88
-    },
-    "ext": {
-        "config_file": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/live_user_v18.json",
-        "分类显示": {
-            "置顶": ["裤佬[M]", "央视频[P]"],
-            "静态": ["央视", "港台", "卫视"],
-            "后置": ["Jack[M]", "油管[P]"]
-        },
-        "分类别名": {
-            "油管[P]": "YTB[P]",
-            "Jack[M]": "杰克[M]"
-        }
-    },
-    "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
-},
+
 
 //{
     //  "key": "4KVM",
