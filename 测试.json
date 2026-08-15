@@ -108,6 +108,20 @@
          },
           "changeable": 1
  },
+{
+            "key": "huangguo",
+            "name": "huangguo",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/huangguo.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"http://zhangqun1818.serv00.net/zq/pro.jar"
+        },
+
+
  {
         "key": "苹果视频-十区",
          "name": "苹果视频-十区｜py",
@@ -120,14 +134,6 @@
           "changeable": 1
  },
    {
-			"key": "huangguo",
-			"name": "huangguo.py",
-			"type": 3,
-			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/huangguo.py"
-		},
-
-       
- {
 			"key": "5G影视",
 			"name": "5G影视.py",
 			"type": 3,
