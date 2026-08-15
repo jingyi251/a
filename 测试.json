@@ -12,6 +12,11 @@
 //直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 //https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+{
+      "name": "👖裤佬IPTV直播精简",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u"
+    },
 
 { 
 "name": "👖裤佬TV直播",
@@ -108,6 +113,28 @@
          "name": "苹果视频-十区｜py",
           "type": 3,
           "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/苹果视频-十区.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+ {
+        "key": "huangguo",
+         "name": "huangguo｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/huangguo.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+ {
+        "key": "云朵",
+         "name": "云朵｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/云朵.py",
           "style": {
             "type": "rect",
            "ratio": 1.33
