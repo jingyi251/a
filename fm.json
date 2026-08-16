@@ -118,11 +118,11 @@
 		},
 		{
 			"key": "蝶卡影视",
-			"name": "🐬蝶卡影视.py(关梯)",
+			"name": "🐬蝶卡云朵.py",
 			"type": 3,
                         "searchable": 1,
 			"changeable": 0,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/bubuzhuiju.py"
 		},  
                {
 			"key": "qlys",
@@ -220,7 +220,6 @@
        "searchable":1,
        "quickSearch":0
 },
-
 
 
 
