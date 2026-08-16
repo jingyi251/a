@@ -117,13 +117,14 @@
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"
 		},
 		{
-			"key": "蝶卡影视",
-			"name": "🐬蝶卡云朵.py",
-			"type": 3,
-                        "searchable": 1,
-			"changeable": 0,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/bubuzhuiju.py"
-		},  
+                       "key": "py_bubuzhuiju",
+                       "name": "布布追剧[py]",
+                       "type": 3,
+                       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/bubuzhuiju.py",
+                       "searchable": 1,
+                       "quickSearch": 1,
+                       "filterable": 1
+              },
                {
 			"key": "qlys",
 			"name": "🐬麒麟影视.py",
