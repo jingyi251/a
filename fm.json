@@ -121,11 +121,11 @@
                        "key": "py_bubuzhuiju",
                        "name": "布布追剧[py]",
                        "type": 3,
-                       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/bubuzhuiju.py",
+                       "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/bubuzhuiju.py",
                        "searchable": 1,
                        "quickSearch": 1,
-                       "filterable": 1,
-                       "jar": "https://clun.top/jar/xs.jar"
+                       "filterable": 1
+                       //"jar": "https://clun.top/jar/xs.jar"
                 },
                {
 			"key": "qlys",
