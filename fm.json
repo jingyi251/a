@@ -125,7 +125,7 @@
                        "searchable": 1,
                        "quickSearch": 1,
                        "filterable": 1,
-                       "jar": "hhttps://clun.top/jar/xs.jar"
+                       "jar": "https://clun.top/jar/xs.jar"
                 },
                {
 			"key": "qlys",
