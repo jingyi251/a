@@ -115,7 +115,7 @@
                         "searchable": 1,
 			"changeable": 0,
 			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"
-		},
+		
 		{
                        "key": "py_bubuzhuiju",
                        "name": "布布追剧[py]",
@@ -123,8 +123,9 @@
                        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/bubuzhuiju.py",
                        "searchable": 1,
                        "quickSearch": 1,
-                       "filterable": 1
-              },
+                       "filterable": 1,
+                       "jar": "hhttps://clun.top/jar/xs.jar"
+                },
                {
 			"key": "qlys",
 			"name": "🐬麒麟影视.py",
