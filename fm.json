@@ -107,17 +107,7 @@
 
 
 //https://v6.gh-proxy.org/https://github.com/mucuntakuya/FG/blob/main/ok%E6%B5%B7%E8%B1%9A%E6%97%A018%E5%8A%A0.json
-
-                {
-			"key": "4K影视",
-			"name": "🐬4K影视.py",
-			"type": 3,
-                        "searchable": 1,
-			"changeable": 0,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"
-                },
-		
-		{
+{
                        "key": "py_bubuzhuiju",
                        "name": "布布追剧[py]",
                        "type": 3,
@@ -127,6 +117,16 @@
                        "filterable": 1
                        //"jar": "https://clun.top/jar/xs.jar"
                 },
+                {
+			"key": "4K影视",
+			"name": "🐬4K影视.py",
+			"type": 3,
+                        "searchable": 1,
+			"changeable": 0,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"
+                },
+		
+		
                {
 			"key": "qlys",
 			"name": "🐬麒麟影视.py",
