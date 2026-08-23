@@ -1,18 +1,13 @@
 
-//     https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B5%8B%E8%AF%95.json
-//     东篱https://chigua.eu.org
-//裤佬https://v6.gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+//     https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B5%8B%E8%AF%95.json    东篱https://chigua.eu.org      裤佬https://v6.gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
+
 //     当前接口：https://9877.kstore.space/one.json
 {
-"spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",
-//"spider": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260723/itjm/0X0/07231423.png;md5;540eb28c22d2488c91ecdf41e4b2012d",
-       "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/12-2.jpg",
+ "spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",
+ "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/12-2.jpg",
  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/1.gif",
-    "notice": "🐙分腿屄毛现🐙屄痒奶头硬🐙摸奶肏屄",
+ "notice": "🐙分腿屄毛现🐙屄痒奶头硬🐙摸奶肏屄",
 "lives": [
-//直播源https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-
-//https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2
 {
       "name": "👖裤佬IPTV直播精简",
       "type": 0,
@@ -21,7 +16,7 @@
 
 { 
 "name": "👖裤佬TV直播",
-"type": 1,
+"type": 0,
 "url": "https://live.445569.xyz/live.m3u"
 },
  {
@@ -198,7 +193,7 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-//
+
 {
         "key": "莫小影",
          "name": "莫小影｜py",
@@ -330,7 +325,6 @@
             "jar": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
  
         },
-//"jar": "https://cdn.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/jar/yt.jar"
 
 {
       "key": "🍊Boba影视🍊",
