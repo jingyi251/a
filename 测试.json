@@ -95,7 +95,187 @@
             "searchable": 0
         },
  
-       
+
+
+
+//肏屄
+  {
+        "key": "海角乱伦",
+         "name": "海角乱伦｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/海角乱伦.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+
+ {
+        "key": "苹果视频-十区",
+         "name": "苹果视频-十区｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/苹果视频-十区.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+   {
+			"key": "5G影视",
+			"name": "5G影视.py",
+			"type": 3,
+			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/5G影视.py"
+		},
+ 
+  {
+			"key": "花都影院",
+			"name": "花都影院.py",
+			"type": 3,
+			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/花都影院.py"
+		},
+
+//https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1
+
+{
+            "key": "AI-V-HUB",
+            "name": "V-HUB[成人]",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/V-HUB%5B%E6%88%90%E4%BA%BA%5D.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "playerType": 2
+        },
+{
+        "key": "真实人妻1",
+         "name": "真实人妻1｜py",
+          "type": 3,
+          "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/真实人妻.py",
+          "style": {
+            "type": "rect",
+           "ratio": 1.33
+         },
+          "changeable": 1
+ },
+{
+            "key": "ss直播",
+            "name": "🔞ss直播",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
+            "jar": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
+ 
+        },
+
+{
+      "key": "🍊Boba影视🍊",
+      "name": "🍊Boba影视🍊",
+      "type": 0,
+      "api": "http://150.109.94.44:1112/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "悬疑片",
+        "剧情片",
+        "4K",
+        "国产剧",
+        "欧美剧",
+        "日韩剧",
+        "港剧",
+        "台剧",
+        "泰国剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "大陆动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "动画电影",
+        "布袋戏",
+        "Netflix电影",
+        "Netflix电视剧",
+        "短剧",
+        "纪录片",
+        "体育",
+        "日韩无码",
+        "欧美精品",
+        "国产精品",
+        "中文字幕",
+        "人妻系列",
+        "强奸乱伦",
+        "自拍偷拍",
+        "重口味"
+      ]
+    },
+ 
+       {
+            "key": "松视开通2",
+            "name": "🈲🔞松视2",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "searchable": 0,
+            "quickSearch": 0,
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/jar/yt.jar"
+        },
+ 
+
+{
+        "key": "niuniuzy",
+        "name": "牛牛",
+        "type": 0,
+        "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+        "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
+        "quickSearch": 1,
+        "filterable": 1,
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["动作片", "喜剧片", "爱情片 ", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧 ", "泰剧", "纪录片", "海外剧", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫 ", "动画片", "港台动漫", "海外动漫", "演唱会", "篮球", "足球", "预告片", "影视解说", "爽文短剧", "写真热舞", "4K电影", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "现代都市", "邵氏电影", "Netflix电影", "Netflix自制剧", "擦边短剧", "科普学习", "漫剧",],
+            "jar": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/a/xyqxbpq新.jar"
+        },
+         {
+            "key": "无水印资源2000部",
+            "name": "无水印资源2000部",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "api": "https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/drpy_js/zbz.js",
+            "ext": "https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/TV/zb.json",
+            "jar":"https://gh-proxy.org/https://github.com/vs194/tvbox/blob/main/1.png"
+        },
+
+
+{
+            "key": "AppFox模板",
+            "name": "AppFox模板",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/py/七哥大洋马.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro.jar"
+        },
+     //老张  https://zhangqun1818.serv00.net/zq/api.json
+
+
+
+     
 
 
       {
