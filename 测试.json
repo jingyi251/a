@@ -180,20 +180,7 @@
 
 
         
-        {
-            "key": "本地",
-            "name": "本地｜视频",
-            "type": 3,
-            "api": "csp_LocalFile"
-        },
-        {
-            "key": "预告",
-            "name": "新片｜预告",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
-        },
-
+        
 {
         "key": "莫小影",
          "name": "莫小影｜py",
