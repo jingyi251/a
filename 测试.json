@@ -131,26 +131,7 @@
           "changeable": 1
  },
 
-{
-            "key": "围观短剧",
-            "name": "🎬短剧┃围观",
-            "type": 3,
-            "api": "csp_WeiguanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-        {
-            "key": "Wexduanjuvop",
-            "name": "🎬短剧┃秒播",
-            "type": 3,
-            "api": "csp_WexduanjuvopGuard",
-            "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/fnw.jar",
-            "searchable": 1,
-            "changeable": 1
-        },
+
 
 //肏屄
   {
