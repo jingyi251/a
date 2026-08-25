@@ -60,6 +60,66 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "0",
+      "name": "---0---"
+    },
+
+  {
+            "key": "多瑙影院",
+            "name": "多瑙影院",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/多瑙影院.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+                      {
+            "key": "太乙影视",
+            "name": "太乙影视",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/太乙影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+            {
+            "key": "枝枝影视",
+            "name": "枝枝影视｜影视py",
+            "type": 3,
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/枝枝影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+       
+                {
+            "key": "四叶草",
+            "name": "🍀星叶｜1080P",
+            "type": 3,
+            "jar": "https://lu0168.ccwu.cc/888/db/jar/xiaomi.jar",            
+            "api": "csp_AppGet",
+            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
+        }, 
+                      {
+            "key": "万彩坊影视",
+            "name": "🦚万彩坊｜影视py",
+            "type": 3,
+            "api": "https://d.kstore.dev/download/8344/py/万彩坊影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+
+
 //肏屄
   {
         "key": "海角乱伦",
