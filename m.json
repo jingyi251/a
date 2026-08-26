@@ -220,11 +220,22 @@
             "searchable": 0,
             "changeable": 0,
             "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
-             "ext": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
+            "ext": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
             "jar": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
 
         },
-
+ {
+      "key": "shjb",
+      "name": "🐬色播聚合.py｜🔞[成人直播]",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/色播聚合.py"
+    },
+    {
+      "key": "Pandalive",
+      "name": "🐬韩国Pandalive直播.py｜🔞[成人直播]",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/Pandalive直播.py"
+    },
 //{
             //"key": "ss直播",
             //"name": "🔞ss直播",
