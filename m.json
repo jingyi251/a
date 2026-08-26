@@ -215,16 +215,24 @@
  },
 {
             "key": "ss直播",
-            "name": "🔞ss直播",
+            "name": "ss直播",
             "type": 3,
+            "searchable": 0,
+            "changeable": 0,
             "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/ss直播.js",
-            "jar": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/lz/pro1.jar"
- 
+            "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
         },
+
+//{
+            //"key": "ss直播",
+            //"name": "🔞ss直播",
+            //"type": 3,
+            //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
+            //"searchable": 1,
+           // "quickSearch": 1,
+            //"filterable": 1,
+            //"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/%E6%B1%9F%E6%B9%96/js/drpy2.min.js",
+       // },
 
 {
       "key": "🍊Boba影视🍊",
