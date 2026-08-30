@@ -131,7 +131,6 @@
       "name": "🐬优酷视频.py[追剧]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/优酷视频.py"
-      //"jar": "https://clun.top/jar/xs.jar"
     },
 
    
@@ -140,7 +139,6 @@
       "name": "🐬腾讯视频.py[追剧]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/腾讯视频.py"
-     // "jar": "https://clun.top/jar/xs.jar
     },
 
   
@@ -150,7 +148,6 @@
       "name": "🐬芒果TV.py[追剧]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/芒果TV.py"
-      //"jar": "https://clun.top/jar/xs.jar"
     },
 
     {
@@ -158,9 +155,8 @@
       "name": "🐬腾爱优芒B.py[追剧]",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/腾爱优芒B🍀TG @hshsjk9.py"
-      "changeable": 0,
-     // "jar": "https://clun.top/jar/xs.jar"
-    },
+      "changeable": 0
+	},
 
 {
       "key": "电影侠",
