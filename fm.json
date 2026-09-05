@@ -1,5 +1,5 @@
  {
-  
+//https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/fm.json  
 //https://9877.kstore.space/one.json
 //  当前接口  http://www.英格里希嗷呜.top/tv      http://itv666.cc/aowu/config.webp    https://9763.kstore.vip/aowu.json    http://www.英格里希嗷呜.top
       "spider": "https://nos.netease.com/ysf/f7a737368ecfe7c8413a773614e60807.png",   
@@ -140,7 +140,7 @@
 			"type": 3,
                         "searchable": 1,
 			"changeable": 0,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/jar_js/拾光影视.js"
+			"api": "https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/拾光影视.js"
 		},
    
     
