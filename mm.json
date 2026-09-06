@@ -10,8 +10,8 @@
  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/zlogo.gif",
  "notice": "🐙屄毛现🐙奶头硬🐙摸奶屄",
  "danmaku": "https://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
-
-
+ 
+"sites": [
   {
       "key": "0",
       "name": "---0---"
