@@ -12,10 +12,7 @@
  "danmaku": "https://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
  
 "sites": [
-  {
-      "key": "0",
-      "name": "---0---"
-    },
+ 
 
   {
             "key": "多瑙影院",
