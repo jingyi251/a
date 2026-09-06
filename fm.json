@@ -147,6 +147,13 @@
    
    
    
+ {
+			"key": "红果短剧",
+			"name": "红果短剧.py",
+			"type": 3,
+			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/红果短剧.py"
+		},
+ 
 
         {
             "key": "四叶草",
