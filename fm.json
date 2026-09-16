@@ -1,6 +1,6 @@
  //http://rihou.cc:88/demo.php
 //https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/fm.json  
-//https://9877.kstore.space/one.json
+//潇洒https://9877.kstore.space/sun.json
 
 //  当前接口  http://www.英格里希嗷呜.top/tv      http://itv666.cc/aowu/config.webp    https://9763.kstore.vip/aowu.json    http://www.英格里希嗷呜.top
 
@@ -118,7 +118,7 @@
       "key": "电影侠",
       "name": "🐬电影侠.py[追剧]",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/电影侠🍀TG @hshsjk9.py"
+      "api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/电影侠.py"
     },
                 {
 			"key": "4K影视",
@@ -126,7 +126,7 @@
 			"type": 3,
                         "searchable": 1,
 			"changeable": 0,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/4K影视.py"  
+			"api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/4K影视.py"  
                },
                {
 			"key": "qlys",
@@ -134,7 +134,7 @@
 			"type": 3,
                         "searchable": 1,
 			"changeable": 0,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/麒麟影视.py"
+			"api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/麒麟影视.py"
 		},
                {
 			"key": "拾光影视",
