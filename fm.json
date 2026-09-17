@@ -136,14 +136,14 @@
 			"changeable": 0,
 			"api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/麒麟影视.py"
 		},
-               {
-			"key": "拾光影视",
-			"name": "🐬拾光影视.js",
-			"type": 3,
-                        "searchable": 1,
-			"changeable": 0,
-			"api": "https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/拾光影视.js"
-		},
+              {
+                 "key": "拾光影视",
+                 "name": "🐬[追剧]拾光影视.js",
+                 "type": 3,
+                 "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/拾光影视.js",
+                 "changeable": 0
+    },
+
     {
       "key": "腾爱优芒B",
       "name": "🐬[追剧]腾爱优芒B.py",
