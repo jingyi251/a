@@ -1,0 +1,243 @@
+{
+  "class": [
+    {
+      "type_id": "dy",
+      "type_name": "电影"
+    },
+    {
+      "type_id": "dsj",
+      "type_name": "电视剧"
+    },
+    {
+      "type_id": "duanju",
+      "type_name": "短剧"
+    },
+    {
+      "type_id": "dongman",
+      "type_name": "动漫"
+    },
+    {
+      "type_id": "zyjm",
+      "type_name": "综艺"
+    }
+  ],
+  "filters": {},
+  "list": [
+    {
+      "vod_id": "/dy/tvplay/25179.html",
+      "vod_name": "最佳舞伴",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3483.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/tvplay/25178.html",
+      "vod_name": "新年狂欢",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3423.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/aqp/25177.html",
+      "vod_name": "你我对抗全世界",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3464.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25176.html",
+      "vod_name": "苏丹娜",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3444.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25175.html",
+      "vod_name": "东游令",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3474.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25174.html",
+      "vod_name": "我开始看到光芒",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3448.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25173.html",
+      "vod_name": "爱欲四部曲3",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3480.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/tvplay/25171.html",
+      "vod_name": "年会不能停！2",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3465.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/bangumi/25170.html",
+      "vod_name": "关索岭",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3442.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/donghuapian/24141.html",
+      "vod_name": "怪奇物语：1985故事集[第1-2季全]",
+      "vod_pic": "https://tu.66tutup.com:667/2026/0328.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25166.html",
+      "vod_name": "养蜂人的对手",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3422.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/khp/25165.html",
+      "vod_name": "罪火焦点",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3367.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/kbp/25164.html",
+      "vod_name": "阴间之门",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3381.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25160.html",
+      "vod_name": "托尼2026",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3404.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25159.html",
+      "vod_name": "诺拉",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3401.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/kbp/25158.html",
+      "vod_name": "鳄鱼脸",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3403.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/kbp/25157.html",
+      "vod_name": "打生桩",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3421.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/bangumi/25156.html",
+      "vod_name": "狮拳",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3383.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/bangumi/25155.html",
+      "vod_name": "惩罚者2026",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3405.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/bangumi/25154.html",
+      "vod_name": "暴烈司机",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3380.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/bangumi/25153.html",
+      "vod_name": "叛谍猎手",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3364.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25152.html",
+      "vod_name": "小洛林",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3382.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jlp/25151.html",
+      "vod_name": "AI启示录：一个末日乐观主义者的诞生",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3366.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jlp/25150.html",
+      "vod_name": "体坛秘史：T先生的硬派人生",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3369.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/tvplay/25179.html",
+      "vod_name": "最佳舞伴",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3483.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/tvplay/25178.html",
+      "vod_name": "新年狂欢",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3423.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/aqp/25177.html",
+      "vod_name": "你我对抗全世界",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3464.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25176.html",
+      "vod_name": "苏丹娜",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3444.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25175.html",
+      "vod_name": "东游令",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3474.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25174.html",
+      "vod_name": "我开始看到光芒",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3448.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25173.html",
+      "vod_name": "爱欲四部曲3",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3480.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/tvplay/25171.html",
+      "vod_name": "年会不能停！2",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3465.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/bangumi/25170.html",
+      "vod_name": "关索岭",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3442.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/donghuapian/24141.html",
+      "vod_name": "怪奇物语：1985故事集[第1-2季全]",
+      "vod_pic": "https://tu.66tutup.com:667/2026/0328.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/jqp/25166.html",
+      "vod_name": "养蜂人的对手",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3422.jpg",
+      "vod_remarks": "正片"
+    },
+    {
+      "vod_id": "/dy/khp/25165.html",
+      "vod_name": "罪火焦点",
+      "vod_pic": "https://tu.66tutup.com:667/2026/3367.jpg",
+      "vod_remarks": "正片"
+    }
+  ]
+}
