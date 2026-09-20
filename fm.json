@@ -131,12 +131,12 @@
 
 
 
-{
-      "key": "电影侠",
-      "name": "🐬电影侠.py[追剧]",
-      "type": 3,
-      "api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/电影侠.py"
-    },
+//{
+   //   "key": "电影侠",
+   //   "name": "🐬电影侠.py[追剧]",
+   //   "type": 3,
+   //   "api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/电影侠.py"
+  //  },
                 {
 			"key": "4K影视",
 			"name": "🐬4K影视.py",
