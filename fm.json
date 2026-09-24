@@ -6,7 +6,7 @@
 
 
 {
-      "spider": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png",   
+      "spider": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png",   
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/jingyi251/a/main/a/15.gif",
 
@@ -98,7 +98,17 @@
       "changeable": 0,
       "ext": "Douban"
     },
-
+{
+      "name": "🔥短剧┃推荐",
+      "key": "Hgdh",
+      "type": 3,
+      "api": "csp_HgdhAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama",
+      "ext": "Hgdh"
+    },
 
 
 //https://clun.top/box.json
@@ -127,16 +137,28 @@
       "type": 3,
       "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/青禾影视.py"
     },
+{
+      "key": "极速追剧",
+      "name": "极速追剧.py[追剧]",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/极速追剧.py"
+    },
+{
+      "key": "移动4k",
+      "name": "移动4k.py[追剧]",
+      "type": 3,
+      "api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/移动4k.py"
+    },
 
 
 
 
 //{
-   //   "key": "电影侠",
-   //   "name": "🐬电影侠.py[追剧]",
-   //   "type": 3,
-   //   "api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/电影侠.py"
-  //  },
+    //  "key": "电影侠",
+    //  "name": "🐬电影侠.py[追剧]",
+     // "type": 3,
+      //"api": "https://v6.gh-proxy.org/https://github.com/phu889/kjh998/blob/main/py/电影侠.py"
+   // },
                 {
 			"key": "4K影视",
 			"name": "🐬4K影视.py",
@@ -168,7 +190,7 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py"
     },
     
-    {
+   {
 			"key": "红果短剧",
 			"name": "红果短剧.py",
 			"type": 3,
@@ -181,7 +203,14 @@
 			"type": 3,
 			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/红果短剧1.py"
                        // "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
-		},
+		}, 
+   //{
+	//		"key": "红果全能看",
+		//	"name": "红果全能看.py",
+		//	"type": 3,
+		//	"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/红果全能看.py"
+                       // "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/红果短剧.py"
+		//},
 
  
 
