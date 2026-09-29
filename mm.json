@@ -190,7 +190,14 @@
            "ratio": 1.33
          },
           "changeable": 1
- },
+ }, 
+	  {
+			"key": "精仙阁修复版",
+			"name": "精仙阁修复版.py",
+			"type": 3,
+			"api": "https://v6.gh-proxy.org/https://github.com/jingyi251/a/blob/main/py/精仙阁修复版.py"
+		},
+	  
  {
 			"key": "抖阴",
 			"name": "抖阴.py",
