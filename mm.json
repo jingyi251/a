@@ -46,14 +46,7 @@
 
   "sites": [
  
- {
-            "key": "Nostr",
-            "name": "🐬Nostr推荐[追剧]",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html",
-	        "jar": "https://clun.top/jar/xs.jar"
-        },
+
 {
       "key": "0",
       "name": "---0---"
